@@ -1,0 +1,46 @@
+date,fund,company,ticker,cusip,shares,"market value($)",weight(%)
+11/20/2020,IZRL,"ONE SOFTWARE TECHNOLOGIES LT",ONE,6987709,13708.00,1653546.12,3.69
+11/20/2020,IZRL,"GAMIDA CELL LTD",GMDA,M47364100,212893.00,1464703.84,3.26
+11/20/2020,IZRL,"PARTNER COMMUNICATIONS CO",PTNR,6374420,279933.00,1386766.31,3.09
+11/20/2020,IZRL,"FIVERR INTERNATIONAL LTD",FVRR,M4R82T106,7116.00,1369474.20,3.05
+11/20/2020,IZRL,"CELLCOM ISRAEL LTD",CEL,B23WQK8,284912.00,1361907.96,3.04
+11/20/2020,IZRL,"ITURAN LOCATION AND CONTROL",ITRN,M6158M104,79695.00,1326921.75,2.96
+11/20/2020,IZRL,"FATTAL HOLDINGS 1998 LTD",FTAL,BG1YKN5,16473.00,1327022.52,2.96
+11/20/2020,IZRL,"TOWER SEMICONDUCTOR LTD",TSEM,M87915274,56016.00,1318056.48,2.94
+11/20/2020,IZRL,"DANEL (ADIR YEOSHUA) LTD",DANE,6253433,8946.00,1274840.19,2.84
+11/20/2020,IZRL,"RADA ELECTRONIC INDS LTD",RADA,M81863124,163912.00,1249009.44,2.78
+11/20/2020,IZRL,"TARO PHARMACEUTICAL INDUS",TARO,M8737E108,18472.00,1213610.40,2.71
+11/20/2020,IZRL,"GILAT SATELLITE NETWORKS LTD",GILT,M51474118,220255.00,1206997.40,2.69
+11/20/2020,IZRL,"INMODE LTD",INMD,M5425M103,27210.00,1169757.90,2.61
+11/20/2020,IZRL,"NOVA MEASURING INSTRUMENTS",NVMI,M7516K103,19007.00,1167790.08,2.60
+11/20/2020,IZRL,"SILICOM LTD",SILC,M84116108,31109.00,1151966.27,2.57
+11/20/2020,IZRL,"HILAN LTD",HLAN,6267230,25310.00,1147644.56,2.56
+11/20/2020,IZRL,"RADWARE LTD",RDWR,M81873107,45101.00,1130682.07,2.52
+11/20/2020,IZRL,"NICE LTD - SPON ADR",NICE,653656108,4703.00,1126509.59,2.51
+11/20/2020,IZRL,"TEVA PHARMACEUTICAL-SP ADR",TEVA,881624209,118738.00,1125636.24,2.51
+11/20/2020,IZRL,"CAMTEK LTD",CAMT,M20791105,60358.00,1122658.80,2.50
+11/20/2020,IZRL,"SAPIENS INTERNATIONAL CORP",SPNS,G7T16G103,36338.00,1084325.92,2.42
+11/20/2020,IZRL,"PERION NETWORK LTD",PERI,M78673114,142800.00,1080996.00,2.41
+11/20/2020,IZRL,"ELBIT SYSTEMS LTD",ESLT,6308913,9256.00,1081843.11,2.41
+11/20/2020,IZRL,"ALLOT LTD",ALLT,M0854Q105,108897.00,1076991.33,2.40
+11/20/2020,IZRL,"CYBERARK SOFTWARE LTD/ISRAEL",CYBR,M2682V108,9843.00,1077710.07,2.40
+11/20/2020,IZRL,"CHECK POINT SOFTWARE TECH",CHKP,M22465104,8648.00,1028247.20,2.29
+11/20/2020,IZRL,"CERAGON NETWORKS LTD",CRNT,M22013102,431010.00,1012873.50,2.26
+11/20/2020,IZRL,"MATRIX IT LTD",MTRX,6747754,45814.00,1009301.61,2.25
+11/20/2020,IZRL,"UROGEN PHARMA LTD","URGN UQ",M96088105,48767.00,1003624.86,2.24
+11/20/2020,IZRL,"REDHILL BIOPHARMA LTD-SP ADR",RDHL,757468103,109958.00,989622.00,2.21
+11/20/2020,IZRL,"WIX.COM LTD",WIX,M98068105,3853.00,988949.51,2.20
+11/20/2020,IZRL,"BEZEQ THE ISRAELI TELECOM CO",BEZQ,6098032,910890.00,982480.89,2.19
+11/20/2020,IZRL,"PLURISTEM THERAPEUTICS INC",PSTI,72940R300,104785.00,962974.15,2.15
+11/20/2020,IZRL,"KAMADA LTD",KMDA,B0L2CR5,138997.00,937269.05,2.09
+11/20/2020,IZRL,"STRATASYS LTD",SSYS,M85548101,66939.00,929448.02,2.07
+11/20/2020,IZRL,"POLYPID LTD",PYPD,M8001Q118,101862.00,905553.18,2.02
+11/20/2020,IZRL,"AUDIOCODES LTD",AUDC,M15342104,33069.00,886910.58,1.98
+11/20/2020,IZRL,"BATM ADVANCED COMMUNICATIONS",BATM,B85PTW0,739108.00,852795.62,1.90
+11/20/2020,IZRL,"COMPUGEN LTD",CGEN,M25722105,64004.00,846132.88,1.89
+11/20/2020,IZRL,"AYALA PHARMACEUTICALS INC",AYLA,05465V108,69728.00,737024.96,1.64
+11/20/2020,IZRL,"BIONDVAX PHARMACEUTICALS-ADR",BVXV,09073Q105,27355.00,89997.95,0.20
+11/20/2020,IZRL,"MORGAN STANLEY GOVT INSTL 8035",,X9USDMORS,3035.73,3035.73,0.01
+,,,,,,,
+,,,,,,,
+"The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2020, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,
