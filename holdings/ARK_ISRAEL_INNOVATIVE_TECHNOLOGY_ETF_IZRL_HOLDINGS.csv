@@ -1,46 +1,46 @@
 date,fund,company,ticker,cusip,shares,"market value($)",weight(%)
-12/31/2020,IZRL,"PERION NETWORK LTD",PERI,M78673114,217906.00,2773943.38,3.65
-12/31/2020,IZRL,"ONE SOFTWARE TECHNOLOGIES LT",ONE,6987709,20737.00,2741959.98,3.60
-12/31/2020,IZRL,"FATTAL HOLDINGS 1998 LTD",FTAL,BG1YKN5,25141.00,2704645.69,3.56
-12/31/2020,IZRL,"GAMIDA CELL LTD",GMDA,M47364100,322026.00,2701798.14,3.55
-12/31/2020,IZRL,"RADA ELECTRONIC INDS LTD",RADA,M81863124,250312.00,2440542.00,3.21
-12/31/2020,IZRL,"CYBERARK SOFTWARE LTD/ISRAEL",CYBR,M2682V108,14918.00,2410599.62,3.17
-12/31/2020,IZRL,"PARTNER COMMUNICATIONS CO",PTNR,6374420,422156.00,2327904.38,3.06
-12/31/2020,IZRL,"ITURAN LOCATION AND CONTROL",ITRN,M6158M104,119194.00,2270645.70,2.98
-12/31/2020,IZRL,"DANEL (ADIR YEOSHUA) LTD",DANE,6253433,13601.00,2240697.51,2.95
-12/31/2020,IZRL,"STRATASYS LTD",SSYS,M85548101,105928.00,2194828.16,2.89
-12/31/2020,IZRL,"TOWER SEMICONDUCTOR LTD",TSEM,M87915274,84677.00,2186360.14,2.87
-12/31/2020,IZRL,"GILAT SATELLITE NETWORKS LTD",GILT,M51474118,332564.00,2168317.28,2.85
-12/31/2020,IZRL,"CELLCOM ISRAEL LTD",CEL,B23WQK8,427345.00,2106503.85,2.77
-12/31/2020,IZRL,"TARO PHARMACEUTICAL INDUS",TARO,M8737E108,28021.00,2057301.82,2.70
-12/31/2020,IZRL,"NOVA MEASURING INSTRUMENTS",NVMI,M7516K103,28913.00,2041257.80,2.68
-12/31/2020,IZRL,"FIVERR INTERNATIONAL LTD",FVRR,M4R82T106,10406.00,2030210.60,2.67
-12/31/2020,IZRL,"NICE LTD - SPON ADR",NICE,653656108,7084.00,2008597.36,2.64
-12/31/2020,IZRL,"CAMTEK LTD",CAMT,M20791105,91434.00,2003318.94,2.63
-12/31/2020,IZRL,"INMODE LTD",INMD,M5425M103,41303.00,1961066.44,2.58
-12/31/2020,IZRL,"SILICOM LTD",SILC,M84116108,46930.00,1964020.50,2.58
-12/31/2020,IZRL,"RADWARE LTD",RDWR,M81873107,68213.00,1892910.75,2.49
-12/31/2020,IZRL,"ELBIT SYSTEMS LTD",ESLT,6308913,14007.00,1844236.47,2.42
-12/31/2020,IZRL,"HILAN LTD",HLAN,6267230,38306.00,1816687.49,2.39
-12/31/2020,IZRL,"CERAGON NETWORKS LTD",CRNT,M22013102,653123.00,1815681.94,2.39
-12/31/2020,IZRL,"CHECK POINT SOFTWARE TECH",CHKP,M22465104,13093.00,1740190.63,2.29
-12/31/2020,IZRL,"ALLOT LTD",ALLT,M0854Q105,164625.00,1731855.00,2.28
-12/31/2020,IZRL,"TEVA PHARMACEUTICAL-SP ADR",TEVA,881624209,179802.00,1735089.30,2.28
-12/31/2020,IZRL,"SAPIENS INTERNATIONAL CORP",SPNS,G7T16G103,54784.00,1676938.24,2.20
-12/31/2020,IZRL,"MATRIX IT LTD",MTRX,6747754,69419.00,1570295.82,2.06
-12/31/2020,IZRL,"WIX.COM LTD",WIX,M98068105,5848.00,1461766.08,1.92
-12/31/2020,IZRL,"POLYPID LTD",PYPD,M8001Q118,143728.00,1430093.60,1.88
-12/31/2020,IZRL,"BATM ADVANCED COMMUNICATIONS",BATM,B85PTW0,1112971.00,1406517.99,1.85
-12/31/2020,IZRL,"AUDIOCODES LTD",AUDC,M15342104,50074.00,1379538.70,1.81
-12/31/2020,IZRL,"BEZEQ THE ISRAELI TELECOM CO",BEZQ,6098032,1378112.00,1371915.01,1.80
-12/31/2020,IZRL,"REDHILL BIOPHARMA LTD-SP ADR",RDHL,757468103,166749.00,1347331.92,1.77
-12/31/2020,IZRL,"KAMADA LTD",KMDA,B0L2CR5,209833.00,1349717.01,1.77
-12/31/2020,IZRL,"UROGEN PHARMA LTD","URGN UQ",M96088105,73769.00,1329317.38,1.75
-12/31/2020,IZRL,"AYALA PHARMACEUTICALS INC",AYLA,05465V108,113450.00,1292195.50,1.70
-12/31/2020,IZRL,"COMPUGEN LTD",CGEN,M25722105,99437.00,1204182.07,1.58
-12/31/2020,IZRL,"PLURISTEM THERAPEUTICS INC",PSTI,72940R300,160197.00,1132592.79,1.49
-12/31/2020,IZRL,"BIONDVAX PHARMACEUTICALS-ADR",BVXV,09073Q105,41566.00,116800.46,0.15
-12/31/2020,IZRL,"MORGAN STANLEY GOVT INSTL 8035",,X9USDMORS,96510.65,96510.65,0.13
+1/4/2021,IZRL,"ONE SOFTWARE TECHNOLOGIES LT",ONE,6987709,20737.00,2787316.23,3.66
+1/4/2021,IZRL,"GAMIDA CELL LTD",GMDA,M47364100,322026.00,2737221.00,3.59
+1/4/2021,IZRL,"FATTAL HOLDINGS 1998 LTD",FTAL,BG1YKN5,25141.00,2705294.50,3.55
+1/4/2021,IZRL,"PERION NETWORK LTD",PERI,M78673114,217906.00,2667169.44,3.50
+1/4/2021,IZRL,"GILAT SATELLITE NETWORKS LTD",GILT,M51474118,332564.00,2391135.16,3.14
+1/4/2021,IZRL,"RADA ELECTRONIC INDS LTD",RADA,M81863124,250312.00,2347926.56,3.08
+1/4/2021,IZRL,"CYBERARK SOFTWARE LTD/ISRAEL",CYBR,M2682V108,14918.00,2307665.42,3.03
+1/4/2021,IZRL,"PARTNER COMMUNICATIONS CO",PTNR,6374420,422156.00,2288389.81,3.00
+1/4/2021,IZRL,"DANEL (ADIR YEOSHUA) LTD",DANE,6253433,13601.00,2248235.67,2.95
+1/4/2021,IZRL,"TOWER SEMICONDUCTOR LTD",TSEM,M87915274,84677.00,2201602.00,2.89
+1/4/2021,IZRL,"ITURAN LOCATION AND CONTROL",ITRN,M6158M104,119194.00,2201513.18,2.89
+1/4/2021,IZRL,"STRATASYS LTD",SSYS,M85548101,105928.00,2179998.24,2.86
+1/4/2021,IZRL,"CELLCOM ISRAEL LTD",CEL,B23WQK8,427345.00,2172816.64,2.85
+1/4/2021,IZRL,"TARO PHARMACEUTICAL INDUS",TARO,M8737E108,28021.00,2072993.58,2.72
+1/4/2021,IZRL,"FIVERR INTERNATIONAL LTD",FVRR,M4R82T106,10406.00,2068192.50,2.71
+1/4/2021,IZRL,"NOVA MEASURING INSTRUMENTS",NVMI,M7516K103,28913.00,2044727.36,2.68
+1/4/2021,IZRL,"CAMTEK LTD",CAMT,M20791105,91434.00,1994175.54,2.62
+1/4/2021,IZRL,"NICE LTD - SPON ADR",NICE,653656108,7084.00,1975231.72,2.59
+1/4/2021,IZRL,"SILICOM LTD",SILC,M84116108,46930.00,1942902.00,2.55
+1/4/2021,IZRL,"INMODE LTD",INMD,M5425M103,41303.00,1913981.02,2.51
+1/4/2021,IZRL,"CERAGON NETWORKS LTD",CRNT,M22013102,653123.00,1907119.16,2.50
+1/4/2021,IZRL,"HILAN LTD",HLAN,6267230,38306.00,1865356.39,2.45
+1/4/2021,IZRL,"TEVA PHARMACEUTICAL-SP ADR",TEVA,881624209,179802.00,1859152.68,2.44
+1/4/2021,IZRL,"RADWARE LTD",RDWR,M81873107,68213.00,1860850.64,2.44
+1/4/2021,IZRL,"ELBIT SYSTEMS LTD",ESLT,6308913,14007.00,1833001.35,2.40
+1/4/2021,IZRL,"ALLOT LTD",ALLT,M0854Q105,164625.00,1708807.50,2.24
+1/4/2021,IZRL,"CHECK POINT SOFTWARE TECH",CHKP,M22465104,13093.00,1700518.84,2.23
+1/4/2021,IZRL,"SAPIENS INTERNATIONAL CORP",SPNS,G7T16G103,54784.00,1653381.12,2.17
+1/4/2021,IZRL,"MATRIX IT LTD",MTRX,6747754,69419.00,1577827.35,2.07
+1/4/2021,IZRL,"WIX.COM LTD",WIX,M98068105,5848.00,1480421.20,1.94
+1/4/2021,IZRL,"POLYPID LTD",PYPD,M8001Q118,143728.00,1474649.28,1.93
+1/4/2021,IZRL,"BATM ADVANCED COMMUNICATIONS",BATM,B85PTW0,1112971.00,1402411.03,1.84
+1/4/2021,IZRL,"AUDIOCODES LTD",AUDC,M15342104,50074.00,1371526.86,1.80
+1/4/2021,IZRL,"REDHILL BIOPHARMA LTD-SP ADR",RDHL,757468103,166749.00,1362339.33,1.79
+1/4/2021,IZRL,"KAMADA LTD",KMDA,B0L2CR5,209833.00,1353698.06,1.78
+1/4/2021,IZRL,"BEZEQ THE ISRAELI TELECOM CO",BEZQ,6098032,1378112.00,1325870.97,1.74
+1/4/2021,IZRL,"UROGEN PHARMA LTD","URGN UQ",M96088105,73769.00,1327104.31,1.74
+1/4/2021,IZRL,"AYALA PHARMACEUTICALS INC",AYLA,05465V108,113450.00,1277447.00,1.68
+1/4/2021,IZRL,"COMPUGEN LTD",CGEN,M25722105,99437.00,1268816.12,1.66
+1/4/2021,IZRL,"PLURISTEM THERAPEUTICS INC",PSTI,72940R300,160197.00,1134194.76,1.49
+1/4/2021,IZRL,"BIONDVAX PHARMACEUTICALS-ADR",BVXV,09073Q105,41566.00,135089.50,0.18
+1/4/2021,IZRL,"MORGAN STANLEY GOVT INSTL 8035",,X9USDMORS,101705.41,101705.41,0.13
 ,,,,,,,
 ,,,,,,,
-"The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2020, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,,
+"The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2021, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,,

@@ -1,56 +1,56 @@
 date,fund,company,ticker,cusip,shares,"market value($)",weight(%)
-12/31/2020,PRNT,"SLM SOLUTIONS GROUP AG",AM3D,BMHTHK2,424298.00,9029491.87,6.84
-12/31/2020,PRNT,"3D SYSTEMS CORP",DDD,88554D205,818772.00,8580730.56,6.50
-12/31/2020,PRNT,"HP INC",HPQ,40434L105,281788.00,6929166.92,5.25
-12/31/2020,PRNT,"STRATASYS LTD",SSYS,M85548101,329503.00,6827302.16,5.18
-12/31/2020,PRNT,"PTC INC",PTC,69370C100,53804.00,6435496.44,4.88
-12/31/2020,PRNT,"MATERIALISE NV-ADR",MTLS,57667T100,113322.00,6143185.62,4.66
-12/31/2020,PRNT,"TRIMBLE INC",TRMB,896239100,90432.00,6038144.64,4.58
-12/31/2020,PRNT,"ALTAIR ENGINEERING INC - A",ALTR,021369103,102744.00,5977645.92,4.53
-12/31/2020,PRNT,"STRAUMANN HOLDING AG-REG",STMN,7156832,5112.00,5956204.68,4.51
-12/31/2020,PRNT,"MGI DIGITAL GRAPHIC TECHNOLO",ALMDG,B18FJV7,99824.00,5823076.83,4.41
-12/31/2020,PRNT,"PROTO LABS INC",PRLB,743713109,37930.00,5818462.00,4.41
-12/31/2020,PRNT,"RENISHAW PLC",RSW,0732358,73622.00,5799069.00,4.40
-12/31/2020,PRNT,"AUTODESK INC",ADSK,052769106,18478.00,5642072.52,4.28
-12/31/2020,PRNT,"DASSAULT SYSTEMES SE",DSY,5330047,25529.00,5181772.30,3.93
-12/31/2020,PRNT,"ANSYS INC",ANSS,03662Q105,13457.00,4895656.60,3.71
-12/31/2020,PRNT,"MICROSOFT CORP",MSFT,594918104,21490.00,4779805.80,3.62
-12/31/2020,PRNT,"EXONE CO/THE",XONE,302104104,445696.00,4229655.04,3.21
-12/31/2020,PRNT,"ALIGN TECHNOLOGY INC",ALGN,016255101,4066.00,2172789.08,1.65
-12/31/2020,PRNT,"HEXAGON AB-B SHS",HEXAB,B1XFTL2,18090.00,1648583.06,1.25
-12/31/2020,PRNT,"AMETEK INC",AME,031100100,12621.00,1526383.74,1.16
-12/31/2020,PRNT,"FARO TECHNOLOGIES INC",FARO,311642102,21492.00,1517979.96,1.15
-12/31/2020,PRNT,"KAISER ALUMINUM CORP",KALU,483007704,14970.00,1480533.00,1.12
-12/31/2020,PRNT,"GENERAL ELECTRIC CO",GE,369604103,135928.00,1468022.40,1.11
-12/31/2020,PRNT,"AEROJET ROCKETDYNE HOLDINGS",AJRD,007800105,24044.00,1270725.40,0.96
-12/31/2020,PRNT,"OC OERLIKON CORP AG-REG",OERL,4612757,122093.00,1261889.70,0.96
-12/31/2020,PRNT,"ARCONIC CORP",ARNC,03966V107,41618.00,1240216.40,0.94
-12/31/2020,PRNT,"ULTRA CLEAN HOLDINGS INC",UCTT,90385V107,39220.00,1221703.00,0.93
-12/31/2020,PRNT,"BERTRANDT AG",BDT,5130861,25157.00,1217021.39,0.92
-12/31/2020,PRNT,"MOOG INC-CLASS A",MOG/A,615394202,14586.00,1156669.80,0.88
-12/31/2020,PRNT,"MICHELIN (CGDE)",ML,4588364,8850.00,1134670.83,0.86
-12/31/2020,PRNT,"LINCOLN ELECTRIC HOLDINGS",LECO,533900106,9506.00,1105072.50,0.84
-12/31/2020,PRNT,"SIEMENS AG-REG",SIE,5727973,7358.00,1056369.23,0.80
-12/31/2020,PRNT,"STRYKER CORP",SYK,863667101,4247.00,1040684.88,0.79
-12/31/2020,PRNT,"MEDTRONIC PLC","MDT UN",G5960L103,8819.00,1033057.66,0.78
-12/31/2020,PRNT,"NUVASIVE INC",NUVA,670704105,17875.00,1006898.75,0.76
-12/31/2020,PRNT,"UNITED PARCEL SERVICE-CL B",UPS,911312106,5536.00,932262.40,0.71
-12/31/2020,PRNT,"MORGAN STANLEY GOVT INSTL 8035",,X9USDMORS,671979.20,671979.20,0.51
-12/31/2020,PRNT,"ALLEGHENY TECHNOLOGIES INC",ATI,01741R102,15429.00,258744.33,0.20
-12/31/2020,PRNT,"CARPENTER TECHNOLOGY",CRS,144285103,7804.00,227252.48,0.17
-12/31/2020,PRNT,"HEXCEL CORP",HXL,428291108,3986.00,193281.14,0.15
-12/31/2020,PRNT,"SGL CARBON SE",SGL,4818351,41875.00,183906.85,0.14
-12/31/2020,PRNT,"SANDVIK AB",SAND,B1VQ252,7402.00,181100.52,0.14
-12/31/2020,PRNT,"VOESTALPINE AG",VOE,4943402,5126.00,183480.70,0.14
-12/31/2020,PRNT,"TORAY INDUSTRIES INC",3402,6897143,28708.00,169848.60,0.13
-12/31/2020,PRNT,"EVONIK INDUSTRIES AG",EVK,B5ZQ9D3,5337.00,173951.11,0.13
-12/31/2020,PRNT,"DUPONT DE NEMOURS INC",DD,26614N102,2427.00,172583.97,0.13
-12/31/2020,PRNT,"EASTMAN CHEMICAL CO",EMN,277432100,1673.00,167768.44,0.13
-12/31/2020,PRNT,"XEROX HOLDINGS CORP","XRX UN",98421M106,7200.00,166968.00,0.13
-12/31/2020,PRNT,"HENKEL AG & CO KGAA VORZUG",HEN3,5076705,1346.00,151771.75,0.12
-12/31/2020,PRNT,"3M CO",MMM,88579Y101,845.00,147697.55,0.11
-12/31/2020,PRNT,ARKEMA,AKE,B0Z5YZ2,1294.00,147805.32,0.11
-12/31/2020,PRNT,"KONINKLIJKE DSM NV",DSM,B0HZL93,843.00,145002.14,0.11
+1/4/2021,PRNT,"SLM SOLUTIONS GROUP AG",AM3D,BMHTHK2,424298.00,8647794.32,6.62
+1/4/2021,PRNT,"3D SYSTEMS CORP",DDD,88554D205,818772.00,8572542.84,6.56
+1/4/2021,PRNT,"HP INC",HPQ,40434L105,281788.00,6793908.68,5.20
+1/4/2021,PRNT,"STRATASYS LTD",SSYS,M85548101,329503.00,6781171.74,5.19
+1/4/2021,PRNT,"PTC INC",PTC,69370C100,53804.00,6358556.72,4.87
+1/4/2021,PRNT,"MATERIALISE NV-ADR",MTLS,57667T100,113322.00,6181715.10,4.73
+1/4/2021,PRNT,"STRAUMANN HOLDING AG-REG",STMN,7156832,5112.00,6004562.22,4.60
+1/4/2021,PRNT,"TRIMBLE INC",TRMB,896239100,90432.00,5994737.28,4.59
+1/4/2021,PRNT,"RENISHAW PLC",RSW,0732358,73622.00,5983173.42,4.58
+1/4/2021,PRNT,"ALTAIR ENGINEERING INC - A",ALTR,021369103,102744.00,5928328.80,4.54
+1/4/2021,PRNT,"MGI DIGITAL GRAPHIC TECHNOLO",ALMDG,B18FJV7,99824.00,5716071.19,4.38
+1/4/2021,PRNT,"PROTO LABS INC",PRLB,743713109,37930.00,5697844.60,4.36
+1/4/2021,PRNT,"AUTODESK INC",ADSK,052769106,18478.00,5485009.52,4.20
+1/4/2021,PRNT,"DASSAULT SYSTEMES SE",DSY,5330047,25529.00,5268836.89,4.03
+1/4/2021,PRNT,"ANSYS INC",ANSS,03662Q105,13457.00,4813165.19,3.69
+1/4/2021,PRNT,"MICROSOFT CORP",MSFT,594918104,21490.00,4678158.10,3.58
+1/4/2021,PRNT,"EXONE CO/THE",XONE,302104104,445696.00,4176171.52,3.20
+1/4/2021,PRNT,"ALIGN TECHNOLOGY INC",ALGN,016255101,4066.00,2140586.36,1.64
+1/4/2021,PRNT,"HEXAGON AB-B SHS",HEXAB,B1XFTL2,18090.00,1669039.72,1.28
+1/4/2021,PRNT,"AMETEK INC",AME,031100100,12621.00,1494073.98,1.14
+1/4/2021,PRNT,"FARO TECHNOLOGIES INC",FARO,311642102,21492.00,1468548.36,1.12
+1/4/2021,PRNT,"KAISER ALUMINUM CORP",KALU,483007704,14970.00,1436970.30,1.10
+1/4/2021,PRNT,"GENERAL ELECTRIC CO",GE,369604103,135928.00,1423166.16,1.09
+1/4/2021,PRNT,"ULTRA CLEAN HOLDINGS INC",UCTT,90385V107,39220.00,1326420.40,1.02
+1/4/2021,PRNT,"AEROJET ROCKETDYNE HOLDINGS",AJRD,007800105,24044.00,1263993.08,0.97
+1/4/2021,PRNT,"OC OERLIKON CORP AG-REG",OERL,4612757,122093.00,1253283.99,0.96
+1/4/2021,PRNT,"BERTRANDT AG",BDT,5130861,25157.00,1214048.72,0.93
+1/4/2021,PRNT,"ARCONIC CORP",ARNC,03966V107,41618.00,1159893.66,0.89
+1/4/2021,PRNT,"MICHELIN (CGDE)",ML,4588364,8850.00,1157156.77,0.89
+1/4/2021,PRNT,"MOOG INC-CLASS A",MOG/A,615394202,14586.00,1121517.54,0.86
+1/4/2021,PRNT,"LINCOLN ELECTRIC HOLDINGS",LECO,533900106,9506.00,1081117.38,0.83
+1/4/2021,PRNT,"SIEMENS AG-REG",SIE,5727973,7358.00,1060039.39,0.81
+1/4/2021,PRNT,"MEDTRONIC PLC","MDT UN",G5960L103,8819.00,1023180.38,0.78
+1/4/2021,PRNT,"STRYKER CORP",SYK,863667101,4247.00,1015117.94,0.78
+1/4/2021,PRNT,"NUVASIVE INC",NUVA,670704105,17875.00,962926.25,0.74
+1/4/2021,PRNT,"UNITED PARCEL SERVICE-CL B",UPS,911312106,5536.00,906796.80,0.69
+1/4/2021,PRNT,"MORGAN STANLEY GOVT INSTL 8035",,X9USDMORS,671979.20,671979.20,0.51
+1/4/2021,PRNT,"ALLEGHENY TECHNOLOGIES INC",ATI,01741R102,15429.00,246555.42,0.19
+1/4/2021,PRNT,"CARPENTER TECHNOLOGY",CRS,144285103,7804.00,219214.36,0.17
+1/4/2021,PRNT,"SGL CARBON SE",SGL,4818351,41875.00,192851.81,0.15
+1/4/2021,PRNT,"EVONIK INDUSTRIES AG",EVK,B5ZQ9D3,5337.00,176956.49,0.14
+1/4/2021,PRNT,"SANDVIK AB",SAND,B1VQ252,7402.00,182085.17,0.14
+1/4/2021,PRNT,"VOESTALPINE AG",VOE,4943402,5126.00,186786.99,0.14
+1/4/2021,PRNT,"HEXCEL CORP",HXL,428291108,3986.00,185667.88,0.14
+1/4/2021,PRNT,"TORAY INDUSTRIES INC",3402,6897143,28708.00,167186.22,0.13
+1/4/2021,PRNT,"DUPONT DE NEMOURS INC",DD,26614N102,2427.00,170666.64,0.13
+1/4/2021,PRNT,"EASTMAN CHEMICAL CO",EMN,277432100,1673.00,164924.34,0.13
+1/4/2021,PRNT,ARKEMA,AKE,B0Z5YZ2,1294.00,150284.87,0.12
+1/4/2021,PRNT,"HENKEL AG & CO KGAA VORZUG",HEN3,5076705,1346.00,152169.57,0.12
+1/4/2021,PRNT,"XEROX HOLDINGS CORP","XRX UN",98421M106,7200.00,161712.00,0.12
+1/4/2021,PRNT,"3M CO",MMM,88579Y101,845.00,145230.15,0.11
+1/4/2021,PRNT,"KONINKLIJKE DSM NV",DSM,B0HZL93,843.00,149718.90,0.11
 ,,,,,,,
 ,,,,,,,
-"The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2020, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,,
+"The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2021, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,,
