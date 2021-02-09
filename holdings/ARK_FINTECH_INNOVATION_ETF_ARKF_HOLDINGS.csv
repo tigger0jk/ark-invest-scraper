@@ -20,8 +20,8 @@ date,fund,company,ticker,cusip,shares,"market value($)",weight(%)
 2/8/2021,ARKF,"ZHONGAN ONLINE P&C INSURAN-H",6060,BYZQ099,11428245.00,72234563.29,2.09
 2/8/2021,ARKF,"APPLE INC",AAPL,037833100,498274.00,68218693.34,1.97
 2/8/2021,ARKF,"Z HOLDINGS CORP",4689,6084848,10646530.00,67492615.22,1.95
-2/8/2021,ARKF,"WORKDAY INC-CLASS A",WDAY,98138H101,241305.00,65825590.95,1.90
 2/8/2021,ARKF,"OPENDOOR TECHNOLOGIES INC",OPEN,683712103,2410564.00,65808397.20,1.90
+2/8/2021,ARKF,"WORKDAY INC-CLASS A",WDAY,98138H101,241305.00,65825590.95,1.90
 2/8/2021,ARKF,"LENDINGTREE INC","TREE UW",52603B107,172402.00,60409660.80,1.75
 2/8/2021,ARKF,"FACEBOOK INC-CLASS A",FB,30303M102,214830.00,57269381.40,1.65
 2/8/2021,ARKF,"SPLUNK INC",SPLK,848637104,323643.00,54876907.08,1.59
@@ -47,21 +47,6 @@ date,fund,company,ticker,cusip,shares,"market value($)",weight(%)
 2/8/2021,ARKF,"DRAFTKINGS INC - CL A",DKNG,26142R104,272900.00,16911613.00,0.49
 2/8/2021,ARKF,"MARKETAXESS HOLDINGS INC",MKTX,57060D108,24468.00,13939908.96,0.40
 2/8/2021,ARKF,"JSC KASPI.KZ GDR-REG S",KSPI,BMXZ8G7,60723.00,4147380.90,0.12
-2/8/2021,ARKF,"HONG KONG DOLLAR",,CCTHKD,3297374.35,425341.43,0.01
-2/8/2021,ARKF,"HONG KONG DOLLAR",,CCTHKD,2747747.75,354442.91,0.01
-2/8/2021,ARKF,"HONG KONG DOLLAR",,CCTHKD,3256327.94,420046.69,0.01
-2/8/2021,ARKF,"HONG KONG DOLLAR",,CCTHKD,3256327.94,420046.69,0.01
-2/8/2021,ARKF,"JAPANESE YEN",,CCTJPY,30363674.00,288586.93,0.01
-2/8/2021,ARKF,"JAPANESE YEN",,CCTJPY,30363674.00,288586.93,0.01
-2/8/2021,ARKF,"HONG KONG DOLLAR",,CCTHKD,1904055.35,245611.67,0.01
-2/8/2021,ARKF,"HONG KONG DOLLAR",,CCTHKD,2605061.76,336037.27,0.01
-2/8/2021,ARKF,"HONG KONG DOLLAR",,CCTHKD,2747648.50,354430.10,0.01
-2/8/2021,ARKF,"HONG KONG DOLLAR",,CCTHKD,2380054.13,307012.65,0.01
-2/8/2021,ARKF,"HONG KONG DOLLAR",,CCTHKD,2380044.42,307011.39,0.01
-2/8/2021,ARKF,"HONG KONG DOLLAR",,CCTHKD,2198062.24,283536.79,0.01
-2/8/2021,ARKF,"HONG KONG DOLLAR",,CCTHKD,2856052.91,368413.62,0.01
-2/8/2021,ARKF,EURO,,CCTEUR,379589.70,457425.17,0.01
-2/8/2021,ARKF,"HONG KONG DOLLAR",,CCTHKD,3907593.13,504055.97,0.01
 ,,,,,,,
 ,,,,,,,
 "The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2021, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,,
