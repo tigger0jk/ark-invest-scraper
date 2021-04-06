@@ -1,1 +1,43 @@
-"error code: 1020"
+date,fund,company,ticker,cusip,shares,"market value($)",weight(%)
+4/5/2021,ARKX,"TRIMBLE INC",TRMB,896239100,496748.00,40104949.78,8.73
+4/5/2021,ARKX,"THE 3D PRINTING ETF",PRNT,00214Q500,702938.00,28026138.06,6.10
+4/5/2021,ARKX,"KRATOS DEFENSE & SECURITY",KTOS,50077B207,946543.00,26777701.47,5.83
+4/5/2021,ARKX,"L3HARRIS TECHNOLOGIES INC",LHX,502431109,109609.00,22318584.58,4.86
+4/5/2021,ARKX,"JD.COM INC-ADR",JD,47215P106,262269.00,22111899.39,4.81
+4/5/2021,ARKX,"KOMATSU LTD",6301,6496584,652688.00,20240674.83,4.40
+4/5/2021,ARKX,"LOCKHEED MARTIN CORP",LMT,539830109,53533.00,19861813.66,4.32
+4/5/2021,ARKX,"IRIDIUM COMMUNICATIONS INC",IRDM,46269C102,486325.00,19550265.00,4.25
+4/5/2021,ARKX,"THALES SA",HO,4162791,177045.00,18197594.77,3.96
+4/5/2021,ARKX,"BOEING CO/THE",BA,097023105,63075.00,15955452.00,3.47
+4/5/2021,ARKX,"NVIDIA CORP",NVDA,67066G104,28286.00,15627166.42,3.40
+4/5/2021,ARKX,"SPIRIT AEROSYSTEMS HOLD-CL A",SPR,848574109,295330.00,14645414.70,3.19
+4/5/2021,ARKX,"DEERE & CO",DE,244199105,37405.00,13919148.60,3.03
+4/5/2021,ARKX,"AMAZON.COM INC",AMZN,023135106,4342.00,13725062.00,2.99
+4/5/2021,ARKX,"ALPHABET INC-CL C",GOOG,02079K107,6076.00,12988969.00,2.83
+4/5/2021,ARKX,"TERADYNE INC",TER,880770102,100925.00,13000149.25,2.83
+4/5/2021,ARKX,"DASSAULT SYSTEMES SE",DSY,5330047,52635.00,11606787.67,2.53
+4/5/2021,ARKX,"TELEDYNE TECHNOLOGIES INC",TDY,879360105,27852.00,11626260.36,2.53
+4/5/2021,ARKX,"GARMIN LTD","GRMN U",B3Z5T14,68731.00,9107544.81,1.98
+4/5/2021,ARKX,"VIRGIN GALACTIC HOLDINGS INC",SPCE,92766K106,288818.00,8881153.50,1.93
+4/5/2021,ARKX,"RAVEN INDUSTRIES INC",RAVN,754212108,220516.00,8485455.68,1.85
+4/5/2021,ARKX,"AIRBUS SE",AIR,4012250,62640.00,7407771.07,1.61
+4/5/2021,ARKX,"AEROVIRONMENT INC",AVAV,008073108,59178.00,7062894.30,1.54
+4/5/2021,ARKX,"ALIBABA GROUP HOLDING-SP ADR",BABA,01609W102,30891.00,6930704.76,1.51
+4/5/2021,ARKX,"ELBIT SYSTEMS LTD",ESLT,M3760D101,46524.00,6699456.00,1.46
+4/5/2021,ARKX,"NETFLIX INC",NFLX,64110L106,10914.00,5887229.88,1.28
+4/5/2021,ARKX,"HEICO CORP",HEI,422806109,40445.00,5176151.10,1.13
+4/5/2021,ARKX,"HONEYWELL INTERNATIONAL INC",HON,438516106,22641.00,4908568.80,1.07
+4/5/2021,ARKX,"WORKHORSE GROUP INC",WKHS,98138J206,345702.00,4888226.28,1.06
+4/5/2021,ARKX,"TAIWAN SEMICONDUCTOR-SP ADR",TSM,874039100,38274.00,4776595.20,1.04
+4/5/2021,ARKX,"XILINX INC",XLNX,983919101,35668.00,4631489.80,1.01
+4/5/2021,ARKX,"TENCENT HOLDINGS LTD-UNS ADR",TCEHY,88032Q109,54835.00,4597366.40,1.00
+4/5/2021,ARKX,"ANSYS INC",ANSS,03662Q105,13027.00,4583549.95,1.00
+4/5/2021,ARKX,"SYNOPSYS INC",SNPS,871607107,17865.00,4541818.95,0.99
+4/5/2021,ARKX,"AUTODESK INC",ADSK,052769106,13088.00,3715683.20,0.81
+4/5/2021,ARKX,"MEITUAN-CLASS B",3690,BGJW376,87176.00,3652982.74,0.79
+4/5/2021,ARKX,"REINVENT TECHNOLOGY-CLASS A",RTP,G7483N129,316171.00,3215459.07,0.70
+4/5/2021,ARKX,"ATLAS CREST INVESTMENT COR-A",ACIC,049284102,314532.00,3183063.84,0.69
+4/5/2021,ARKX,"MORGAN STANLEY GOVT INSTL 8035",,X9USDMORS,193195.08,193195.08,0.04
+,,,,,,,
+,,,,,,,
+"The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2021, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,,
