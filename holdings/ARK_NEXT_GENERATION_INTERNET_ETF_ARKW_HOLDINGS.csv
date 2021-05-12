@@ -9,8 +9,8 @@ date,fund,company,ticker,cusip,shares,"market value($)",weight(%)
 5/11/2021,ARKW,"COINBASE GLOBAL INC -CLASS A",COIN,19260Q107,615744.00,180690076.80,3.27
 5/11/2021,ARKW,"ROKU INC",ROKU,77543R102,584655.00,176220863.55,3.19
 5/11/2021,ARKW,"TWILIO INC - A",TWLO,90138F102,588562.00,173449221.40,3.14
-5/11/2021,ARKW,"ZOOM VIDEO COMMUNICATIONS-A",ZM,98980L101,525959.00,151733911.91,2.75
 5/11/2021,ARKW,"PELOTON INTERACTIVE INC-A",PTON,70614W100,1739887.00,152222713.63,2.75
+5/11/2021,ARKW,"ZOOM VIDEO COMMUNICATIONS-A",ZM,98980L101,525959.00,151733911.91,2.75
 5/11/2021,ARKW,"SEA LTD-ADR",SE,81141R100,677456.00,150767832.80,2.73
 5/11/2021,ARKW,"JD.COM INC-ADR",JD,47215P106,2073117.00,148020553.80,2.68
 5/11/2021,ARKW,"ZILLOW GROUP INC - C",Z,98954M200,1198011.00,134740297.17,2.44
@@ -30,13 +30,13 @@ date,fund,company,ticker,cusip,shares,"market value($)",weight(%)
 5/11/2021,ARKW,"DOCUSIGN INC",DOCU,256163106,324787.00,61709530.00,1.12
 5/11/2021,ARKW,"ADYEN NV-UNSPON ADR",ADYEY,00783V104,1395991.00,61591122.92,1.11
 5/11/2021,ARKW,"SNAP INC - A",SNAP,83304A106,1176686.00,61352408.04,1.11
-5/11/2021,ARKW,"HUBSPOT INC",HUBS,443573100,122398.00,59538059.14,1.08
 5/11/2021,ARKW,"PAGERDUTY INC",PD,69553P100,1681104.00,59880924.48,1.08
+5/11/2021,ARKW,"HUBSPOT INC",HUBS,443573100,122398.00,59538059.14,1.08
 5/11/2021,ARKW,"ROBLOX CORP -CLASS A",RBLX,771049103,910451.00,58268864.00,1.05
 5/11/2021,ARKW,"OKTA INC",OKTA,679295105,247188.00,57038631.00,1.03
 5/11/2021,ARKW,"LENDINGCLUB CORP",LC,52603A208,4296515.00,55382078.35,1.00
-5/11/2021,ARKW,"VERACYTE INC",VCYT,92337F107,1290720.00,54610363.20,0.99
 5/11/2021,ARKW,"NINTENDO CO LTD-UNSPONS ADR",NTDOY,654445303,777146.00,54905364.90,0.99
+5/11/2021,ARKW,"VERACYTE INC",VCYT,92337F107,1290720.00,54610363.20,0.99
 5/11/2021,ARKW,"HUYA INC-ADR",HUYA,44852D108,3521647.00,54198147.33,0.98
 5/11/2021,ARKW,"2U INC",TWOU,90214J101,1476684.00,53145857.16,0.96
 5/11/2021,ARKW,"NANO DIMENSION LTD - ADR",NNDM,63008G203,7978294.00,49624988.68,0.90
@@ -47,10 +47,12 @@ date,fund,company,ticker,cusip,shares,"market value($)",weight(%)
 5/11/2021,ARKW,"LENDINGTREE INC","TREE UW",52603B107,101224.00,17481384.80,0.32
 5/11/2021,ARKW,"DREYFUS GOVT CASH MAN INS",,X9USDDGCM,12274746.26,12274746.26,0.22
 5/11/2021,ARKW,"FASTLY INC - CLASS A",FSLY,31188V100,14332.00,605097.04,0.01
+5/11/2021,ARKW,"NVIDIA CORP",NVDA,67066G104,1053.00,600873.39,0.01
 5/11/2021,ARKW,"CROWDSTRIKE HOLDINGS INC - A",CRWD,22788C105,3060.00,573994.80,0.01
 5/11/2021,ARKW,"BAIDU INC - SPON ADR",BIDU,056752108,4027.00,738712.88,0.01
 5/11/2021,ARKW,"PINTEREST INC- CLASS A",PINS,72352L106,9677.00,564749.72,0.01
-5/11/2021,ARKW,"NVIDIA CORP",NVDA,67066G104,1053.00,600873.39,0.01
+5/11/2021,ARKW,"SNOWFLAKE INC-CLASS A",SNOW,833445109,98.00,18994.36,0.00
+5/11/2021,ARKW,"SILVERGATE CAPITAL CORP-CL A",SI,82837P408,2476.00,215931.96,0.00
 ,,,,,,,
 ,,,,,,,
 "The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2021, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,,

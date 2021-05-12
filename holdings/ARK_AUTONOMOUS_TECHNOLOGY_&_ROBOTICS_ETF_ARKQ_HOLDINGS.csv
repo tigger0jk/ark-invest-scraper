@@ -36,8 +36,8 @@ date,fund,company,ticker,cusip,shares,"market value($)",weight(%)
 5/11/2021,ARKQ,"JAWS SPITFIRE ACQUISITION-A",SPFR,G50740102,2633200.00,26279336.00,0.91
 5/11/2021,ARKQ,"STRATASYS LTD",SSYS,M85548101,1194304.00,22273769.60,0.77
 5/11/2021,ARKQ,"UIPATH INC - CLASS A",PATH,90364P105,316691.00,20711591.40,0.72
-5/11/2021,ARKQ,"BLADE AIR MOBILITY INC",BLDE,092667104,2659062.00,20527958.64,0.71
 5/11/2021,ARKQ,"ONE - CLASS A",AONE,G7000X105,2062032.00,20579079.36,0.71
+5/11/2021,ARKQ,"BLADE AIR MOBILITY INC",BLDE,092667104,2659062.00,20527958.64,0.71
 5/11/2021,ARKQ,"PROTO LABS INC",PRLB,743713109,209326.00,19664084.44,0.68
 5/11/2021,ARKQ,"AUTODESK INC",ADSK,052769106,69806.00,19269946.30,0.67
 5/11/2021,ARKQ,"ATLAS CREST INVESTMENT COR-A",ACIC,049284102,1542361.00,15207679.46,0.53
@@ -46,6 +46,7 @@ date,fund,company,ticker,cusip,shares,"market value($)",weight(%)
 5/11/2021,ARKQ,"WORKHORSE GROUP INC",WKHS,98138J206,1685615.00,13822043.00,0.48
 5/11/2021,ARKQ,"DREYFUS GOVT CASH MAN INS",,X9USDDGCM,4310734.37,4310734.37,0.15
 5/11/2021,ARKQ,"ORGANOVO HOLDINGS INC","ONVO ",68620A203,159447.00,1090617.48,0.04
+5/11/2021,ARKQ,"VIRGIN GALACTIC HOLDINGS INC",SPCE,92766K106,7923.00,142217.85,0.00
 ,,,,,,,
 ,,,,,,,
 "The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2021, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,,
