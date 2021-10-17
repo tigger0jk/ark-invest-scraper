@@ -1,0 +1,41 @@
+date,fund,company,ticker,cusip,shares,"market value ($)","weight (%)"
+10/15/2021,ARKF,"SQUARE INC - A",SQ,852234103,"1,367,281","$338,278,992.21",10.13%
+10/15/2021,ARKF,"COINBASE GLOBAL INC -CLASS A",COIN,19260Q107,"828,485","$215,406,100.00",6.45%
+10/15/2021,ARKF,"ZILLOW GROUP INC - C",Z,98954M200,"2,164,867","$206,506,663.13",6.19%
+10/15/2021,ARKF,"SHOPIFY INC - CLASS A",SHOP,82509L107,"144,590","$203,401,982.50",6.09%
+10/15/2021,ARKF,"SEA LTD-ADR",SE,81141R100,"459,284","$158,622,915.08",4.75%
+10/15/2021,ARKF,"PAYPAL HOLDINGS INC",PYPL,70450Y103,"555,197","$147,932,240.65",4.43%
+10/15/2021,ARKF,"TWILIO INC - A",TWLO,90138F102,"342,135","$122,299,577.10",3.66%
+10/15/2021,ARKF,"OPENDOOR TECHNOLOGIES INC",OPEN,683712103,"5,073,096","$120,435,299.04",3.61%
+10/15/2021,ARKF,"ADYEN NV",ADYEN,BZ1HM42,"39,813","$120,535,617.86",3.61%
+10/15/2021,ARKF,"TELADOC HEALTH INC",TDOC,87918A105,"729,715","$99,883,389.20",2.99%
+10/15/2021,ARKF,"MERCADOLIBRE INC",MELI,58733R102,"64,384","$98,137,312.00",2.94%
+10/15/2021,ARKF,"UIPATH INC - CLASS A",PATH,90364P105,"1,854,917","$95,157,242.10",2.85%
+10/15/2021,ARKF,"JD.COM INC-ADR",JD,47215P106,"1,106,266","$89,640,733.98",2.69%
+10/15/2021,ARKF,"PINTEREST INC- CLASS A",PINS,72352L106,"1,555,066","$81,672,066.32",2.45%
+10/15/2021,ARKF,"TCS GROUP HOLDING-GDR REG S","TCS LI",87238U203,"721,524","$78,285,354.00",2.35%
+10/15/2021,ARKF,"SILVERGATE CAPITAL CORP-CL A",SI,82837P408,"478,981","$76,684,858.10",2.30%
+10/15/2021,ARKF,"DOCUSIGN INC",DOCU,256163106,"285,688","$74,613,134.96",2.24%
+10/15/2021,ARKF,"LENDINGCLUB CORP",LC,52603A208,"2,150,886","$72,334,296.18",2.17%
+10/15/2021,ARKF,"DRAFTKINGS INC - CL A",DKNG,26142R104,"1,370,360","$67,640,969.60",2.03%
+10/15/2021,ARKF,"FACEBOOK INC-CLASS A",FB,30303M102,"203,513","$66,860,125.89",2.00%
+10/15/2021,ARKF,"WORKDAY INC-CLASS A",WDAY,98138H101,"237,667","$64,433,900.37",1.93%
+10/15/2021,ARKF,"INTERCONTINENTAL EXCHANGE IN",ICE,45866F104,"483,844","$62,294,915.00",1.87%
+10/15/2021,ARKF,"ROBINHOOD MARKETS INC - A",HOOD,770700102,"1,519,087","$62,176,230.91",1.86%
+10/15/2021,ARKF,"PINDUODUO INC-ADR",PDD,722304102,"637,205","$59,916,386.15",1.79%
+10/15/2021,ARKF,"DISCOVERY LTD",DSY,6177878,"6,484,720","$59,239,950.36",1.77%
+10/15/2021,ARKF,"STONECO LTD-A",STNE,G85158106,"1,763,278","$59,175,609.68",1.77%
+10/15/2021,ARKF,"BILL.COM HOLDINGS INC",BILL,090043100,"191,334","$57,522,653.76",1.72%
+10/15/2021,ARKF,"INTUIT INC",INTU,461202103,"100,957","$54,898,397.46",1.64%
+10/15/2021,ARKF,"Z HOLDINGS CORP",4689,6084848,"8,327,985","$51,014,128.23",1.53%
+10/15/2021,ARKF,"ETSY INC",ETSY,29786A106,"227,286","$49,071,047.40",1.47%
+10/15/2021,ARKF,"TENCENT HOLDINGS LTD-UNS ADR",TCEHY,88032Q109,"708,873","$44,559,756.78",1.33%
+10/15/2021,ARKF,"PALANTIR TECHNOLOGIES INC-A",PLTR,69608A108,"1,720,368","$41,890,960.80",1.25%
+10/15/2021,ARKF,"FARFETCH LTD-CLASS A",FTCH,30744W107,"1,069,057","$39,843,754.39",1.19%
+10/15/2021,ARKF,"SNAP INC - A",SNAP,83304A106,"477,717","$36,612,230.88",1.10%
+10/15/2021,ARKF,"AMAZON.COM INC",AMZN,023135106,"8,378","$27,646,227.08",0.83%
+10/15/2021,ARKF,"JSC KASPI.KZ GDR-REG S",KSPI,BMXZ8G7,"198,646","$23,082,665.20",0.69%
+10/15/2021,ARKF,"DREYFUS GOVT CASH MAN INS",,X9USDDGCM,"6,415,297","$6,415,297.07",0.19%
+10/15/2021,ARKF,"TOAST INC-CLASS A",TOST,888787108,"71,277","$4,017,171.72",0.12%
+10/15/2021,ARKF,"SOUTH AFRICAN RAND",,ZAR,137,$9.26,0.00%
+"The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2021, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,,
