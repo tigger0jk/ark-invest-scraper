@@ -3,7 +3,7 @@ cd holdings
 
 tickers=("ARKK" "ARKQ" "ARKW" "ARKG" "ARKF" "PRNT" "IZRL" "ARKX")
 
-files=()
+files=("ARK_TRANSPARENCY_ETF_CTRU_HOLDINGS.csv")
 for ticker in ${tickers[@]}; do
   files+=(ARK_INNOVATION_ETF_${ticker}_HOLDINGS.csv)
 done
