@@ -1,8 +1,63 @@
-<html>
-"<head><title>521 Origin Down</title></head>"
-"<body bgcolor=""white"">"
-"<center><h1>521 Origin Down</h1></center>"
-<hr><center>cloudflare-nginx</center>
-"<script defer src=""https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194"" integrity=""sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw=="" data-cf-beacon='{""rayId"":""6dfc2620befa5b59""","token:""12cc96a5de654cfa802d9c6998a87320""","version:""2021.12.0""","si:100}' crossorigin=""anonymous""></script>"
-</body>
-</html>
+date,fund,company,ticker,cusip,shares,"market value ($)","weight (%)"
+02/18/2022,PRNT,"VELO3D INC",VLD,92259N104,"1,664,636","$12,151,842.80",3.84%
+02/18/2022,PRNT,"STRATASYS LTD",SSYS,M85548101,"409,139","$10,821,726.55",3.42%
+02/18/2022,PRNT,"ALTAIR ENGINEERING INC - A",ALTR,021369103,"176,624","$10,701,648.16",3.38%
+02/18/2022,PRNT,"DESKTOP METAL INC-A",DM,25058X105,"2,588,819","$10,562,381.52",3.34%
+02/18/2022,PRNT,"PROTO LABS INC",PRLB,743713109,"184,054","$10,503,961.78",3.32%
+02/18/2022,PRNT,"NANO DIMENSION LTD - ADR",NNDM,63008G203,"2,775,863","$10,326,210.36",3.26%
+02/18/2022,PRNT,"MICROSOFT CORP",MSFT,594918104,"35,094","$10,202,878.62",3.22%
+02/18/2022,PRNT,"SLM SOLUTIONS GROUP AG",AM3D,BMHTHK2,"621,284","$10,050,763.61",3.17%
+02/18/2022,PRNT,"PTC INC",PTC,69370C100,"91,443","$10,016,666.22",3.16%
+02/18/2022,PRNT,"MATERIALISE NV-ADR",MTLS,57667T100,"493,236","$9,948,570.12",3.14%
+02/18/2022,PRNT,"TRIMBLE INC",TRMB,896239100,"145,759","$9,920,357.54",3.13%
+02/18/2022,PRNT,"ANSYS INC",ANSS,03662Q105,"31,766","$9,872,555.14",3.12%
+02/18/2022,PRNT,"AUTODESK INC",ADSK,052769106,"43,177","$9,645,310.03",3.05%
+02/18/2022,PRNT,"FARO TECHNOLOGIES INC",FARO,311642102,"186,517","$9,655,985.09",3.05%
+02/18/2022,PRNT,"DASSAULT SYSTEMES SE","DSY FP",BM8H5Y5,"202,463","$9,561,468.36",3.02%
+02/18/2022,PRNT,"RENISHAW PLC",RSW,0732358,"148,142","$9,510,041.78",3.00%
+02/18/2022,PRNT,"HP INC",HPQ,40434L105,"256,794","$9,352,437.48",2.95%
+02/18/2022,PRNT,"3D SYSTEMS CORP",DDD,88554D205,"480,207","$8,773,381.89",2.77%
+02/18/2022,PRNT,"ATLANTIC COASTAL ACQUISITI-A",ACAH,048453104,"895,660","$8,714,771.80",2.75%
+02/18/2022,PRNT,"MARKFORGED HOLDING CORP",MKFG,57064N102,"1,820,804","$8,630,610.96",2.73%
+02/18/2022,PRNT,"STRAUMANN HOLDING AG-REG",STMN,7156832,"5,360","$8,550,836.77",2.70%
+02/18/2022,PRNT,"XOMETRY INC-A",XMTR,98423F109,"179,389","$8,553,267.52",2.70%
+02/18/2022,PRNT,"CONFORMIS INC",CFMS,20717E101,"13,494,608","$8,462,468.68",2.67%
+02/18/2022,PRNT,"FATHOM DIGITAL MANUFACTURING",FATH,31189Y103,"918,114","$8,373,199.68",2.64%
+02/18/2022,PRNT,"DREYFUS GOVT CASH MAN INS",,X9USDDGCM,"7,643,964","$7,643,963.57",2.41%
+02/18/2022,PRNT,"BICO GROUP AB",BICO,BKMFJ94,"387,617","$6,436,111.61",2.03%
+02/18/2022,PRNT,"ALIGN TECHNOLOGY INC",ALGN,016255101,"10,710","$5,373,849.60",1.70%
+02/18/2022,PRNT,"HEXAGON AB-B SHS","HEXAB S",BNZFHC1,"386,423","$5,171,088.06",1.63%
+02/18/2022,PRNT,"SHAPEWAYS HOLDINGS INC",SHPW,81947T102,"1,415,813","$5,139,401.19",1.62%
+02/18/2022,PRNT,"AMETEK INC",AME,031100100,"38,417","$4,929,669.44",1.56%
+02/18/2022,PRNT,"UNITED PARCEL SERVICE-CL B",UPS,911312106,"18,564","$3,911,620.44",1.24%
+02/18/2022,PRNT,"KAISER ALUMINUM CORP",KALU,483007704,"37,473","$3,864,965.22",1.22%
+02/18/2022,PRNT,"ARCONIC CORP",ARNC,03966V107,"117,311","$3,809,088.17",1.20%
+02/18/2022,PRNT,"GENERAL ELECTRIC CO",GE,369604301,"38,237","$3,764,815.02",1.19%
+02/18/2022,PRNT,"MOOG INC-CLASS A",MOG/A,615394202,"47,913","$3,759,253.98",1.19%
+02/18/2022,PRNT,"LINCOLN ELECTRIC HOLDINGS",LECO,533900106,"29,024","$3,682,274.88",1.16%
+02/18/2022,PRNT,"EXCO TECHNOLOGIES LTD",XTC,2325392,"481,477","$3,588,530.76",1.13%
+02/18/2022,PRNT,"SIEMENS AG-REG",SIE,5727973,"22,599","$3,581,478.35",1.13%
+02/18/2022,PRNT,"OC OERLIKON CORP AG-REG",OERL,4612757,"367,850","$3,489,817.97",1.10%
+02/18/2022,PRNT,"MICHELIN (CGDE)",ML,4588364,"21,793","$3,447,554.36",1.09%
+02/18/2022,PRNT,"AEROJET ROCKETDYNE HOLDINGS",AJRD,007800105,"85,665","$3,211,580.85",1.01%
+02/18/2022,PRNT,"MASSIVIT 3D PRINTING TECHNOL",MSVT,BN10861,"357,676","$2,162,331.98",0.68%
+02/18/2022,PRNT,"ALLEGHENY TECHNOLOGIES INC",ATI,01741R102,"17,411","$430,051.70",0.14%
+02/18/2022,PRNT,"CARPENTER TECHNOLOGY",CRS,144285103,"11,767","$453,500.18",0.14%
+02/18/2022,PRNT,"EASTMAN KODAK CO",KODK,277461406,"84,415","$398,438.80",0.13%
+02/18/2022,PRNT,"EVONIK INDUSTRIES AG",EVK,B5ZQ9D3,"10,663","$355,901.73",0.11%
+02/18/2022,PRNT,"EASTMAN CHEMICAL CO",EMN,277432100,"2,890","$352,059.80",0.11%
+02/18/2022,PRNT,"SANDVIK AB",SAND,B1VQ252,"13,032","$333,161.15",0.11%
+02/18/2022,PRNT,ARKEMA,AKE,B0Z5YZ2,"2,351","$342,538.11",0.11%
+02/18/2022,PRNT,"XEROX HOLDINGS CORP",XRX,98421M106,"15,725","$347,050.75",0.11%
+02/18/2022,PRNT,"HENKEL AG & CO KGAA VOR-PREF",HEN3,5076705,"4,013","$337,000.09",0.11%
+02/18/2022,PRNT,"HEXCEL CORP",HXL,428291108,"6,441","$357,217.86",0.11%
+02/18/2022,PRNT,"DUPONT DE NEMOURS INC",DD,26614N102,"4,456","$355,276.88",0.11%
+02/18/2022,PRNT,"SGL CARBON SE",SGL,4818351,"45,502","$300,851.63",0.10%
+02/18/2022,PRNT,"VOESTALPINE AG",VOE,4943402,"9,316","$329,146.14",0.10%
+02/18/2022,PRNT,"TORAY INDUSTRIES INC",3402,6897143,"55,325","$327,497.05",0.10%
+02/18/2022,PRNT,"3M CO",MMM,88579Y101,"2,035","$302,482.40",0.10%
+02/18/2022,PRNT,"KONINKLIJKE DSM NV",DSM,B0HZL93,"1,735","$321,971.56",0.10%
+02/18/2022,PRNT,"5N PLUS INC",VNP,B2B3VZ3,"183,698","$323,849.77",0.10%
+02/18/2022,PRNT,"PYROGENESIS CANADA INC",PYR,B43JTF9,"138,307","$309,138.90",0.10%
+02/18/2022,PRNT,"GREAT BRITISH POUND",,GBP,1,$0.71,0.00%
+"The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2022, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,,
