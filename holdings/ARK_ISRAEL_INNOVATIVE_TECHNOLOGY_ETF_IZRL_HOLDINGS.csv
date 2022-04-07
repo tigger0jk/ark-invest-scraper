@@ -1,72 +1,8 @@
-date,fund,company,ticker,cusip,shares,"market value ($)","weight (%)"
-04/06/2022,IZRL,"SOLAREDGE TECHNOLOGIES INC",SEDG,83417M104,"11,420","$3,753,639.80",2.33%
-04/06/2022,IZRL,"RADA ELECTRONIC INDS LTD",RADA,M81863124,"264,082","$3,712,992.92",2.30%
-04/06/2022,IZRL,"GAMIDA CELL LTD",GMDA,M47364100,"853,501","$3,661,519.29",2.27%
-04/06/2022,IZRL,"PERION NETWORK LTD",PERI,M78673114,"136,790","$3,540,125.20",2.19%
-04/06/2022,IZRL,"TOWER SEMICONDUCTOR LTD",TSEM,M87915274,"71,667","$3,488,032.89",2.16%
-04/06/2022,IZRL,"FATTAL HOLDINGS 1998 LTD",FTAL,BG1YKN5,"23,439","$3,478,134.41",2.16%
-04/06/2022,IZRL,"ELBIT SYSTEMS LTD",ESLT,6308913,"15,050","$3,305,277.71",2.05%
-04/06/2022,IZRL,"CYBERARK SOFTWARE LTD/ISRAEL",CYBR,M2682V108,"18,812","$3,261,060.20",2.02%
-04/06/2022,IZRL,"ENLIVEX THERAPEUTICS LTD",ENLV,M4130Y106,"434,343","$3,192,421.05",1.98%
-04/06/2022,IZRL,"NANO-X IMAGING LTD",NNOX,M70700105,"228,841","$3,064,180.99",1.90%
-04/06/2022,IZRL,"TEVA PHARMACEUTICAL-SP ADR",TEVA,881624209,"300,012","$2,991,119.64",1.85%
-04/06/2022,IZRL,"CHECK POINT SOFTWARE TECH",CHKP,M22465104,"20,647","$2,940,132.80",1.82%
-04/06/2022,IZRL,"CELLEBRITE DI LTD",CLBT,M2197Q107,"409,584","$2,908,046.40",1.80%
-04/06/2022,IZRL,"GILAT SATELLITE NETWORKS LTD",GILT,M51474118,"331,137","$2,894,137.38",1.79%
-04/06/2022,IZRL,"UROGEN PHARMA LTD","URGN UQ",M96088105,"333,472","$2,861,189.76",1.77%
-04/06/2022,IZRL,"HILAN LTD",HLAN,6267230,"42,961","$2,755,792.28",1.71%
-04/06/2022,IZRL,"STRATASYS LTD",SSYS,M85548101,"114,073","$2,752,581.49",1.71%
-04/06/2022,IZRL,"PLAYTIKA HOLDING CORP",PLTK,72815L107,"138,261","$2,698,854.72",1.67%
-04/06/2022,IZRL,"CELLCOM ISRAEL LTD",CEL,B23WQK8,"463,242","$2,690,924.89",1.67%
-04/06/2022,IZRL,"INNOVIZ TECHNOLOGIES LTD","INVZ UR",M5R635108,"686,524","$2,691,174.08",1.67%
-04/06/2022,IZRL,"ONE SOFTWARE TECHNOLOGIES LT",ONE,6987709,"147,300","$2,683,173.46",1.66%
-04/06/2022,IZRL,"PARTNER COMMUNICATIONS CO",PTNR,6374420,"322,300","$2,683,163.52",1.66%
-04/06/2022,IZRL,"JFROG LTD",FROG,M6191J100,"100,706","$2,644,539.56",1.64%
-04/06/2022,IZRL,"TUFIN SOFTWARE TECHNOLOGIES",TUFN,M8893U102,"291,834","$2,635,261.02",1.63%
-04/06/2022,IZRL,"NANO DIMENSION LTD - ADR",NNDM,63008G203,"761,080","$2,564,839.60",1.59%
-04/06/2022,IZRL,"RADWARE LTD",RDWR,M81873107,"78,207","$2,543,291.64",1.58%
-04/06/2022,IZRL,"ELECTRA CONSUMER PRODUCTS 19",ECP,B536CY7,"41,192","$2,532,274.11",1.57%
-04/06/2022,IZRL,"MATRIX IT LTD",MTRX,6747754,"95,136","$2,538,575.55",1.57%
-04/06/2022,IZRL,"BEZEQ THE ISRAELI TELECOM CO",BEZQ,6098032,"1,487,849","$2,514,257.75",1.56%
-04/06/2022,IZRL,"ITURAN LOCATION AND CONTROL",ITRN,M6158M104,"104,659","$2,503,443.28",1.55%
-04/06/2022,IZRL,"MAGIC SOFTWARE ENTERPRISES",MGIC,6328074,"138,786","$2,500,493.29",1.55%
-04/06/2022,IZRL,"RISKIFIED LTD-A",RSKD,M8216R109,"385,757","$2,472,702.37",1.53%
-04/06/2022,IZRL,"PRIORTECH LTD",PRTC,6677776,"77,137","$2,460,850.49",1.52%
-04/06/2022,IZRL,"KAMADA LTD",KMDA,B0L2CR5,"421,241","$2,420,774.88",1.50%
-04/06/2022,IZRL,"COLLPLANT BIOTECHNOLOGIES LT","CLGN UQ",M2R51X116,"228,657","$2,407,758.21",1.49%
-04/06/2022,IZRL,"TARO PHARMACEUTICAL INDUS",TARO,M8737E108,"55,566","$2,354,887.08",1.46%
-04/06/2022,IZRL,"WALKME LTD",WKME,M97628107,"150,944","$2,336,613.12",1.45%
-04/06/2022,IZRL,"MALAM - TEAM LTD",MLTM,6875923,"76,470","$2,345,979.50",1.45%
-04/06/2022,IZRL,"CERAGON NETWORKS LTD",CRNT,M22013102,"1,113,434","$2,327,077.06",1.44%
-04/06/2022,IZRL,"FIVERR INTERNATIONAL LTD",FVRR,M4R82T106,"30,639","$2,269,737.12",1.41%
-04/06/2022,IZRL,"NICE LTD - SPON ADR",NICE,653656108,"9,964","$2,258,539.88",1.40%
-04/06/2022,IZRL,"SILICOM LTD",SILC,M84116108,"58,175","$2,253,699.50",1.40%
-04/06/2022,IZRL,"NOVA LTD",NVMI,M7516K103,"21,568","$2,237,680.00",1.39%
-04/06/2022,IZRL,"CAMTEK LTD",CAMT,M20791105,"68,281","$2,247,127.71",1.39%
-04/06/2022,IZRL,"COMPUGEN LTD",CGEN,M25722105,"698,280","$2,220,530.40",1.38%
-04/06/2022,IZRL,"AUDIOCODES LTD",AUDC,M15342104,"86,572","$2,231,826.16",1.38%
-04/06/2022,IZRL,"SAPIENS INTERNATIONAL CORP",SPNS,G7T16G103,"85,576","$2,224,976.00",1.38%
-04/06/2022,IZRL,"KORNIT DIGITAL LTD",KRNT,M6372Q113,"25,746","$2,195,103.96",1.36%
-04/06/2022,IZRL,"REDHILL BIOPHARMA LTD-SP ADR",RDHL,757468103,"861,798","$2,171,730.96",1.35%
-04/06/2022,IZRL,"TABOOLA.COM LTD",TBLA,M8744T106,"423,119","$2,166,369.28",1.34%
-04/06/2022,IZRL,"SIMILARWEB LTD",SMWB,M84137104,"159,540","$2,120,286.60",1.31%
-04/06/2022,IZRL,"ALLOT LTD",ALLT,M0854Q105,"252,341","$2,096,953.71",1.30%
-04/06/2022,IZRL,"WIX.COM LTD",WIX,M98068105,"19,822","$2,078,336.70",1.29%
-04/06/2022,IZRL,"PLASSON INDUSTRIES LTD",PLSN,6094728,"34,428","$2,041,595.80",1.27%
-04/06/2022,IZRL,"INMODE LTD",INMD,M5425M103,"57,085","$2,024,804.95",1.25%
-04/06/2022,IZRL,"ARBE ROBOTICS LTD",ARBE,M1R95N100,"269,401","$1,980,097.35",1.23%
-04/06/2022,IZRL,"DANEL (ADIR YEOSHUA) LTD",DANE,6253433,"11,224","$1,916,921.97",1.19%
-04/06/2022,IZRL,"MONDAY.COM LTD",MNDY,M7S64H106,"11,974","$1,906,739.76",1.18%
-04/06/2022,IZRL,"IRONSOURCE LTD-A",IS,M5R75Y101,"388,040","$1,889,754.80",1.17%
-04/06/2022,IZRL,"GENCELL LTD",GNCL,BMFKMY6,"792,453","$1,777,800.56",1.10%
-04/06/2022,IZRL,"COGNYTE SOFTWARE LTD",CGNT,M25133105,"214,241","$1,720,355.23",1.07%
-04/06/2022,IZRL,"NAYAX LTD",NYAX,BMXT7N9,"820,601","$1,597,510.71",0.99%
-04/06/2022,IZRL,"AUGWIND ENERGY TECH STORAGE",AUGN,B290CJ7,"211,610","$1,553,945.20",0.96%
-04/06/2022,IZRL,"REE AUTOMOTIVE LTD - CLASS A",REE,M8287R103,"579,683","$1,153,569.17",0.71%
-04/06/2022,IZRL,"DREYFUS GOVT CASH MAN INS",,X9USDDGCM,"914,655","$914,654.66",0.57%
-04/06/2022,IZRL,"POLYPID LTD",PYPD,M8001Q118,"1,060","$5,787.60",0.00%
-04/06/2022,IZRL,"MEDIWOUND LTD",MDWD,M68830104,"2,024","$4,128.96",0.00%
-04/06/2022,IZRL,"ENTERA BIO LTD",ENTX,M40527109,"1,744","$4,743.68",0.00%
-04/06/2022,IZRL,"INTERCURE LTD",INCR,B23SD94,257,"$1,813.28",0.00%
-04/06/2022,IZRL,"CHEMOMAB THERAPEUTICS LTD",CMMB,16385C104,792,"$3,666.96",0.00%
-"The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2022, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,,
+<html>
+"<head><title>520 Origin Error</title></head>"
+"<body bgcolor=""white"">"
+"<center><h1>520 Origin Error</h1></center>"
+<hr><center>cloudflare-nginx</center>
+"<script defer src=""https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194"" integrity=""sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw=="" data-cf-beacon='{""rayId"":""6f7f8a61fafd0612""","token:""12cc96a5de654cfa802d9c6998a87320""","version:""2021.12.0""","si:100}' crossorigin=""anonymous""></script>"
+</body>
+</html>
