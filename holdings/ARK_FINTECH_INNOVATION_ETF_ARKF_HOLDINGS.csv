@@ -1,33 +1,34 @@
 date,fund,company,ticker,cusip,shares,"market value ($)","weight (%)"
-06/02/2022,ARKF,"BLOCK INC",SQ,852234103,"1,238,317","$101,430,545.47",10.94%
-06/02/2022,ARKF,"SHOPIFY INC - CLASS A",SHOP,82509L107,"240,044","$86,783,107.32",9.36%
-06/02/2022,ARKF,"TWILIO INC - A",TWLO,90138F102,"734,554","$76,591,945.58",8.26%
-06/02/2022,ARKF,"COINBASE GLOBAL INC -CLASS A",COIN,19260Q107,"1,064,976","$73,089,302.88",7.88%
-06/02/2022,ARKF,"UIPATH INC - CLASS A",PATH,90364P105,"3,210,630","$54,034,902.90",5.83%
-06/02/2022,ARKF,"DISCOVERY LTD",DSY,6177878,"5,535,392","$50,630,535.19",5.46%
-06/02/2022,ARKF,"ROBINHOOD MARKETS INC - A",HOOD,770700102,"5,264,785","$49,331,035.45",5.32%
-06/02/2022,ARKF,"MERCADOLIBRE INC",MELI,58733R102,"62,701","$47,793,210.24",5.15%
-06/02/2022,ARKF,"ADYEN NV",ADYEN,BZ1HM42,"29,625","$45,693,941.36",4.93%
-06/02/2022,ARKF,"DRAFTKINGS INC-CL A","DKNG UW",26142V105,"2,581,025","$34,869,647.75",3.76%
-06/02/2022,ARKF,"ZILLOW GROUP INC - C",Z,98954M200,"827,803","$32,607,160.17",3.52%
-06/02/2022,ARKF,"SILVERGATE CAPITAL CORP-CL A",SI,82837P408,"440,732","$31,490,301.40",3.40%
-06/02/2022,ARKF,"SEA LTD-ADR",SE,81141R100,"385,649","$30,755,507.75",3.32%
-06/02/2022,ARKF,"TELADOC HEALTH INC",TDOC,87918A105,"870,059","$28,381,324.58",3.06%
-06/02/2022,ARKF,"STONECO LTD-A",STNE,G85158106,"2,621,559","$25,481,553.48",2.75%
-06/02/2022,ARKF,"TOAST INC-CLASS A",TOST,888787108,"1,439,914","$22,520,254.96",2.43%
-06/02/2022,ARKF,"JD.COM INC-ADR",JD,47215P106,"350,696","$19,565,329.84",2.11%
-06/02/2022,ARKF,"BILL.COM HOLDINGS INC",BILL,090043100,"154,481","$17,868,817.27",1.93%
-06/02/2022,ARKF,"GLOBAL-E ONLINE LTD",GLBE,M5216V106,"807,721","$14,999,378.97",1.62%
-06/02/2022,ARKF,"Z HOLDINGS CORP",4689,6084848,"3,974,098","$12,959,512.97",1.40%
-06/02/2022,ARKF,"NU HOLDINGS LTD/CAYMAN ISL-A","NU UN",G6683N103,"3,260,673","$12,455,770.86",1.34%
-06/02/2022,ARKF,"INTUIT INC",INTU,461202103,"29,229","$11,936,246.73",1.29%
-06/02/2022,ARKF,"INTERCONTINENTAL EXCHANGE IN",ICE,45866F104,"116,876","$11,920,183.24",1.29%
-06/02/2022,ARKF,"JSC KASPI.KZ GDR-REG S",KSPI,BMXZ8G7,"207,954","$11,125,539.00",1.20%
-06/02/2022,ARKF,"NVIDIA CORP",NVDA,67066G104,"51,860","$9,500,752.00",1.02%
-06/02/2022,ARKF,"FARFETCH LTD-CLASS A",FTCH,30744W107,"723,530","$6,135,534.40",0.66%
-06/02/2022,ARKF,"ETSY INC",ETSY,29786A106,"59,157","$4,788,167.58",0.52%
-06/02/2022,ARKF,"DREYFUS GOVT CASH MAN INS",,X9USDDGCM,"1,696,340","$1,696,340.12",0.18%
-06/02/2022,ARKF,"TWITTER INC",TWTR,90184L102,"1,510","$59,343.00",0.01%
-06/02/2022,ARKF,"TCS GROUP HOLDING-GDR REG S","TCS LI",87238U203,"607,059","$6,070.59",0.00%
-06/02/2022,ARKF,"SOUTH AFRICAN RAND",,ZAR,137,$8.78,0.00%
+06/03/2022,ARKF,"BLOCK INC",SQ,852234103,"1,238,317","$108,278,438.48",10.90%
+06/03/2022,ARKF,"SHOPIFY INC - CLASS A",SHOP,82509L107,"240,044","$95,746,350.28",9.64%
+06/03/2022,ARKF,"TWILIO INC - A",TWLO,90138F102,"734,554","$80,220,642.34",8.08%
+06/03/2022,ARKF,"COINBASE GLOBAL INC -CLASS A",COIN,19260Q107,"1,064,976","$78,616,528.32",7.92%
+06/03/2022,ARKF,"UIPATH INC - CLASS A",PATH,90364P105,"3,210,630","$63,056,773.20",6.35%
+06/03/2022,ARKF,"MERCADOLIBRE INC",MELI,58733R102,"62,701","$52,464,434.74",5.28%
+06/03/2022,ARKF,"ROBINHOOD MARKETS INC - A",HOOD,770700102,"5,264,785","$51,068,414.50",5.14%
+06/03/2022,ARKF,"DISCOVERY LTD",DSY,6177878,"5,535,392","$49,930,435.49",5.03%
+06/03/2022,ARKF,"ADYEN NV",ADYEN,BZ1HM42,"29,625","$47,203,340.64",4.75%
+06/03/2022,ARKF,"DRAFTKINGS INC-CL A","DKNG UW",26142V105,"2,581,025","$36,805,416.50",3.71%
+06/03/2022,ARKF,"SILVERGATE CAPITAL CORP-CL A",SI,82837P408,"440,732","$35,099,896.48",3.53%
+06/03/2022,ARKF,"ZILLOW GROUP INC - C",Z,98954M200,"827,803","$34,395,214.65",3.46%
+06/03/2022,ARKF,"SEA LTD-ADR",SE,81141R100,"385,649","$32,024,292.96",3.23%
+06/03/2022,ARKF,"TELADOC HEALTH INC",TDOC,87918A105,"870,059","$31,348,225.77",3.16%
+06/03/2022,ARKF,"STONECO LTD-A",STNE,G85158106,"2,621,559","$27,316,644.78",2.75%
+06/03/2022,ARKF,"TOAST INC-CLASS A",TOST,888787108,"1,439,914","$24,377,744.02",2.46%
+06/03/2022,ARKF,"JD.COM INC-ADR",JD,47215P106,"350,696","$20,340,368.00",2.05%
+06/03/2022,ARKF,"BILL.COM HOLDINGS INC",BILL,090043100,"154,481","$19,643,803.96",1.98%
+06/03/2022,ARKF,"GLOBAL-E ONLINE LTD",GLBE,M5216V106,"807,721","$16,695,593.07",1.68%
+06/03/2022,ARKF,"NU HOLDINGS LTD/CAYMAN ISL-A","NU UN",G6683N103,"3,260,673","$14,477,388.12",1.46%
+06/03/2022,ARKF,"Z HOLDINGS CORP",4689,6084848,"3,974,098","$12,913,944.14",1.30%
+06/03/2022,ARKF,"INTUIT INC",INTU,461202103,"29,229","$12,476,690.94",1.26%
+06/03/2022,ARKF,"INTERCONTINENTAL EXCHANGE IN",ICE,45866F104,"116,876","$12,026,540.40",1.21%
+06/03/2022,ARKF,"JSC KASPI.KZ GDR-REG S",KSPI,BMXZ8G7,"207,954","$11,125,539.00",1.12%
+06/03/2022,ARKF,"NVIDIA CORP",NVDA,67066G104,"51,860","$10,160,411.20",1.02%
+06/03/2022,ARKF,"FARFETCH LTD-CLASS A",FTCH,30744W107,"723,530","$6,895,240.90",0.69%
+06/03/2022,ARKF,"ETSY INC",ETSY,29786A106,"59,157","$5,163,814.53",0.52%
+06/03/2022,ARKF,"DREYFUS GOVT CASH MAN INS",,X9USDDGCM,"2,525,521","$2,525,520.92",0.25%
+06/03/2022,ARKF,"JAPANESE YEN",,JPY,"21,987,673","$169,311.77",0.02%
+06/03/2022,ARKF,"TWITTER INC",TWTR,90184L102,"1,510","$60,264.10",0.01%
+06/03/2022,ARKF,"TCS GROUP HOLDING-GDR REG S","TCS LI",87238U203,"607,059","$6,070.59",0.00%
+06/03/2022,ARKF,"SOUTH AFRICAN RAND",,ZAR,137,$8.85,0.00%
 "The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2022, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,,
