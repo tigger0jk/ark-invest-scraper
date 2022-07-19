@@ -1,27 +1,27 @@
 date,fund,company,ticker,cusip,shares,"market value ($)","weight (%)"
-07/18/2022,ARKK,"ZOOM VIDEO COMMUNICATIONS-A",ZM,98980L101,"7,730,067","$771,847,189.95",8.48%
+07/18/2022,ARKK,"ZOOM VIDEO COMMUNICATIONS-A",ZM,98980L101,"7,730,067","$771,847,190.00",8.48%
 07/18/2022,ARKK,"TESLA INC",TSLA,88160R101,"1,063,758","$766,118,511.60",8.42%
-07/18/2022,ARKK,"ROKU INC",ROKU,77543R102,"8,243,174","$707,017,033.98",7.77%
-07/18/2022,ARKK,"CRISPR THERAPEUTICS AG",CRSP,H17182108,"6,480,295","$540,391,800.05",5.94%
+07/18/2022,ARKK,"ROKU INC",ROKU,77543R102,"8,243,174","$707,017,034.00",7.77%
+07/18/2022,ARKK,"CRISPR THERAPEUTICS AG",CRSP,H17182108,"6,480,295","$540,391,800.10",5.94%
 07/18/2022,ARKK,"TELADOC HEALTH INC",TDOC,87918A105,"11,554,215","$468,870,044.70",5.15%
 07/18/2022,ARKK,"EXACT SCIENCES CORP",EXAS,30063P105,"9,958,969","$467,075,646.10",5.13%
-07/18/2022,ARKK,"UIPATH INC - CLASS A",PATH,90364P105,"22,329,689","$419,351,559.42",4.61%
+07/18/2022,ARKK,"UIPATH INC - CLASS A",PATH,90364P105,"22,329,689","$419,351,559.40",4.61%
 07/18/2022,ARKK,"INTELLIA THERAPEUTICS INC",NTLA,45826J105,"6,589,735","$416,998,430.80",4.58%
-07/18/2022,ARKK,"BLOCK INC",SQ,852234103,"6,222,588","$410,566,356.24",4.51%
+07/18/2022,ARKK,"BLOCK INC",SQ,852234103,"6,222,588","$410,566,356.20",4.51%
 07/18/2022,ARKK,"BEAM THERAPEUTICS INC",BEAM,07373V105,"6,744,675","$388,628,173.50",4.27%
-07/18/2022,ARKK,"TWILIO INC - A",TWLO,90138F102,"3,908,641","$330,006,559.63",3.63%
-07/18/2022,ARKK,"COINBASE GLOBAL INC -CLASS A",COIN,19260Q107,"6,076,704","$326,865,908.16",3.59%
+07/18/2022,ARKK,"TWILIO INC - A",TWLO,90138F102,"3,908,641","$330,006,559.60",3.63%
+07/18/2022,ARKK,"COINBASE GLOBAL INC -CLASS A",COIN,19260Q107,"6,076,704","$326,865,908.20",3.59%
 07/18/2022,ARKK,"UNITY SOFTWARE INC",U,91332U101,"8,479,830","$285,855,069.30",3.14%
-07/18/2022,ARKK,"SHOPIFY INC - CLASS A",SHOP,82509L107,"7,709,702","$241,082,381.54",2.65%
-07/18/2022,ARKK,"ROBLOX CORP -CLASS A",RBLX,771049103,"6,001,042","$238,661,440.34",2.62%
+07/18/2022,ARKK,"SHOPIFY INC - CLASS A",SHOP,82509L107,"7,709,702","$241,082,381.50",2.65%
+07/18/2022,ARKK,"ROBLOX CORP -CLASS A",RBLX,771049103,"6,001,042","$238,661,440.30",2.62%
 07/18/2022,ARKK,"FATE THERAPEUTICS INC",FATE,31189P102,"7,077,799","$224,366,228.30",2.47%
 07/18/2022,ARKK,"SIGNIFY HEALTH INC -CLASS A",SGFY,82671G100,"13,237,518","$219,080,922.90",2.41%
-07/18/2022,ARKK,"PAGERDUTY INC",PD,69553P100,"8,241,257","$215,508,870.55",2.37%
-07/18/2022,ARKK,"DRAFTKINGS INC-CL A","DKNG UW",26142V105,"16,629,722","$213,858,224.92",2.35%
+07/18/2022,ARKK,"PAGERDUTY INC",PD,69553P100,"8,241,257","$215,508,870.60",2.37%
+07/18/2022,ARKK,"DRAFTKINGS INC-CL A","DKNG UW",26142V105,"16,629,722","$213,858,224.90",2.35%
 07/18/2022,ARKK,"GINKGO BIOWORKS HOLDINGS INC",DNA,37611X100,"64,737,197","$194,211,591.00",2.13%
 07/18/2022,ARKK,"ROBINHOOD MARKETS INC - A",HOOD,770700102,"21,794,140","$183,288,717.40",2.01%
 07/18/2022,ARKK,"TWIST BIOSCIENCE CORP",TWST,90184D100,"4,027,509","$171,169,132.50",1.88%
-07/18/2022,ARKK,"VERACYTE INC",VCYT,92337F107,"5,166,879","$137,904,000.51",1.52%
+07/18/2022,ARKK,"VERACYTE INC",VCYT,92337F107,"5,166,879","$137,904,000.50",1.52%
 07/18/2022,ARKK,"10X GENOMICS INC-CLASS A",TXG,88025U109,"3,267,349","$117,297,829.10",1.29%
 07/18/2022,ARKK,"TUSIMPLE HOLDINGS INC - A",TSP,90089L108,"10,166,393","$89,972,578.05",0.99%
 07/18/2022,ARKK,"SPOTIFY TECHNOLOGY SA",SPOT,L8681T102,"770,826","$78,878,624.58",0.87%
@@ -32,7 +32,7 @@ date,fund,company,ticker,cusip,shares,"market value ($)","weight (%)"
 07/18/2022,ARKK,"DREYFUS GOVT CASH MAN INS",,X9USDDGCM,"59,868,359","$59,868,358.81",0.66%
 07/18/2022,ARKK,"MATERIALISE NV-ADR",MTLS,57667T100,"4,207,585","$58,190,900.55",0.64%
 07/18/2022,ARKK,"INVITAE CORP",NVTA,46185L103,"19,066,418","$54,339,291.30",0.60%
-07/18/2022,ARKK,"BERKELEY LIGHTS INC",BLI,084310101,"4,350,194","$19,097,351.66",0.21%
+07/18/2022,ARKK,"BERKELEY LIGHTS INC",BLI,84310101,"4,350,194","$19,097,351.66",0.21%
 07/18/2022,ARKK,"COMPUGEN LTD",CGEN,M25722105,"6,425,749","$12,016,150.63",0.13%
 07/18/2022,ARKK,"STRATASYS LTD",SSYS,M85548101,"2,575","$48,796.25",0.00%
 "The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2022, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,,
