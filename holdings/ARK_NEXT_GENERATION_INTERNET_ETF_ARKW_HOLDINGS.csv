@@ -1,33 +1,33 @@
 date,fund,company,ticker,cusip,shares,"market value ($)","weight (%)"
-11/02/2022,ARKW,"TESLA INC",TSLA,88160R101,"458,598","$104,477,796.36",8.16%
-11/02/2022,ARKW,"ZOOM VIDEO COMMUNICATIONS-A",ZM,98980L101,"1,254,259","$103,965,528.51",8.12%
-11/02/2022,ARKW,"ROKU INC",ROKU,77543R102,"1,568,374","$89,067,959.46",6.95%
-11/02/2022,ARKW,"COINBASE GLOBAL INC -CLASS A",COIN,19260Q107,"1,254,920","$79,423,886.80",6.20%
-11/02/2022,ARKW,"BLOCK INC",SQ,852234103,"1,333,116","$78,653,844.00",6.14%
-11/02/2022,ARKW,"TWILIO INC - A",TWLO,90138F102,"962,525","$72,266,377.00",5.64%
-11/02/2022,ARKW,"GRAYSCALE BITCOIN TRUST BTC",GBTC,389637109,"5,937,769","$71,431,361.07",5.58%
-11/02/2022,ARKW,"DRAFTKINGS INC-CL A","DKNG UW",26142V105,"3,948,493","$64,952,709.85",5.07%
-11/02/2022,ARKW,"SHOPIFY INC - CLASS A",SHOP,82509L107,"1,783,880","$62,061,185.20",4.85%
-11/02/2022,ARKW,"ROBLOX CORP -CLASS A",RBLX,771049103,"1,339,717","$59,362,860.27",4.64%
-11/02/2022,ARKW,"TELADOC HEALTH INC",TDOC,87918A105,"1,846,937","$53,339,540.56",4.16%
-11/02/2022,ARKW,"UIPATH INC - CLASS A",PATH,90364P105,"3,996,220","$49,273,392.60",3.85%
-11/02/2022,ARKW,"ROBINHOOD MARKETS INC - A",HOOD,770700102,"3,970,299","$47,325,964.08",3.70%
-11/02/2022,ARKW,"UNITY SOFTWARE INC",U,91332U101,"1,308,128","$37,844,143.04",2.95%
-11/02/2022,ARKW,"PAGERDUTY INC",PD,69553P100,"1,466,720","$36,403,990.40",2.84%
-11/02/2022,ARKW,"MERCADOLIBRE INC",MELI,58733R102,"32,411","$29,796,728.74",2.33%
-11/02/2022,ARKW,"GENIUS SPORTS LTD",GENI,G3934V109,"5,153,747","$27,057,171.75",2.11%
-11/02/2022,ARKW,"MONDAY.COM LTD",MNDY,M7S64H106,"243,088","$25,123,144.80",1.96%
-11/02/2022,ARKW,"VUZIX CORP",VUZI,92921W300,"3,936,885","$20,314,326.60",1.59%
-11/02/2022,ARKW,"NVIDIA CORP",NVDA,67066G104,"144,164","$19,524,130.52",1.52%
-11/02/2022,ARKW,"VERACYTE INC",VCYT,92337F107,"935,691","$19,322,019.15",1.51%
-11/02/2022,ARKW,"CLOUDFLARE INC - CLASS A",NET,18915M107,"315,084","$17,512,368.72",1.37%
-11/02/2022,ARKW,"DREYFUS GOVT CASH MAN INS",,X9USDDGCM,"16,467,888","$16,467,887.80",1.29%
-11/02/2022,ARKW,"ADYEN NV-UNSPON ADR",ADYEY,00783V104,"1,128,394","$15,920,510.95",1.24%
-11/02/2022,ARKW,"ADOBE INC",ADBE,00724F101,"46,701","$14,758,450.02",1.15%
-11/02/2022,ARKW,"CROWDSTRIKE HOLDINGS INC - A",CRWD,22788C105,"84,565","$13,575,219.45",1.06%
-11/02/2022,ARKW,"NEXTDOOR HOLDINGS INC",KIND,65345M108,"4,972,125","$12,977,246.25",1.01%
-11/02/2022,ARKW,"ENDEAVOR GROUP HOLD-CLASS A","EDR  UN",29260Y109,"543,165","$11,927,903.40",0.93%
-11/02/2022,ARKW,"SPOTIFY TECHNOLOGY SA",SPOT,L8681T102,"143,306","$11,488,842.02",0.90%
-11/02/2022,ARKW,"NU HOLDINGS LTD/CAYMAN ISL-A","NU UN",G6683N103,"1,566,114","$7,971,520.26",0.62%
-11/02/2022,ARKW,"2U INC",TWOU,90214J101,"1,145,319","$7,135,337.37",0.56%
+11/03/2022,ARKW,"ZOOM VIDEO COMMUNICATIONS-A",ZM,98980L101,"1,251,883","$98,398,003.80",8.10%
+11/03/2022,ARKW,"TESLA INC",TSLA,88160R101,"457,729","$98,402,580.42",8.10%
+11/03/2022,ARKW,"ROKU INC",ROKU,77543R102,"1,575,706","$85,592,349.92",7.05%
+11/03/2022,ARKW,"COINBASE GLOBAL INC -CLASS A",COIN,19260Q107,"1,252,543","$76,041,885.53",6.26%
+11/03/2022,ARKW,"BLOCK INC",SQ,852234103,"1,330,591","$72,703,492.24",5.99%
+11/03/2022,ARKW,"GRAYSCALE BITCOIN TRUST BTC",GBTC,389637109,"5,926,522","$69,873,694.38",5.75%
+11/03/2022,ARKW,"TWILIO INC - A",TWLO,90138F102,"960,702","$64,741,707.78",5.33%
+11/03/2022,ARKW,"DRAFTKINGS INC-CL A","DKNG UW",26142V105,"3,941,014","$62,740,942.88",5.17%
+11/03/2022,ARKW,"SHOPIFY INC - CLASS A",SHOP,82509L107,"1,780,501","$59,664,588.51",4.91%
+11/03/2022,ARKW,"ROBLOX CORP -CLASS A",RBLX,771049103,"1,337,179","$57,324,863.73",4.72%
+11/03/2022,ARKW,"TELADOC HEALTH INC",TDOC,87918A105,"1,843,439","$51,690,029.56",4.26%
+11/03/2022,ARKW,"ROBINHOOD MARKETS INC - A",HOOD,770700102,"4,265,908","$48,631,351.20",4.00%
+11/03/2022,ARKW,"UIPATH INC - CLASS A",PATH,90364P105,"3,988,651","$44,513,345.16",3.67%
+11/03/2022,ARKW,"UNITY SOFTWARE INC",U,91332U101,"1,313,693","$34,931,096.87",2.88%
+11/03/2022,ARKW,"PAGERDUTY INC",PD,69553P100,"1,463,942","$33,407,156.44",2.75%
+11/03/2022,ARKW,"GENIUS SPORTS LTD",GENI,G3934V109,"5,143,985","$27,931,838.55",2.30%
+11/03/2022,ARKW,"MERCADOLIBRE INC",MELI,58733R102,"32,350","$27,538,908.00",2.27%
+11/03/2022,ARKW,"MONDAY.COM LTD",MNDY,M7S64H106,"242,628","$22,435,811.16",1.85%
+11/03/2022,ARKW,"VUZIX CORP",VUZI,92921W300,"3,929,427","$19,175,603.76",1.58%
+11/03/2022,ARKW,"NVIDIA CORP",NVDA,67066G104,"143,891","$19,020,951.29",1.57%
+11/03/2022,ARKW,"VERACYTE INC",VCYT,92337F107,"933,918","$18,211,401.00",1.50%
+11/03/2022,ARKW,"CLOUDFLARE INC - CLASS A",NET,18915M107,"314,487","$15,705,480.78",1.29%
+11/03/2022,ARKW,"DREYFUS GOVT CASH MAN INS",,X9USDDGCM,"15,589,617","$15,589,616.58",1.28%
+11/03/2022,ARKW,"ADYEN NV-UNSPON ADR",ADYEY,00783V104,"1,126,256","$15,417,318.38",1.27%
+11/03/2022,ARKW,"ADOBE INC",ADBE,00724F101,"46,612","$14,040,466.64",1.16%
+11/03/2022,ARKW,"CROWDSTRIKE HOLDINGS INC - A",CRWD,22788C105,"84,405","$12,491,095.95",1.03%
+11/03/2022,ARKW,"NEXTDOOR HOLDINGS INC",KIND,65345M108,"4,962,706","$11,960,121.46",0.98%
+11/03/2022,ARKW,"ENDEAVOR GROUP HOLD-CLASS A","EDR  UN",29260Y109,"542,136","$11,319,799.68",0.93%
+11/03/2022,ARKW,"SPOTIFY TECHNOLOGY SA",SPOT,L8681T102,"143,035","$10,727,625.00",0.88%
+11/03/2022,ARKW,"NU HOLDINGS LTD/CAYMAN ISL-A","NU UN",G6683N103,"1,563,147","$7,487,474.13",0.62%
+11/03/2022,ARKW,"2U INC",TWOU,90214J101,"1,143,149","$6,836,031.02",0.56%
 "The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2022, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,,
