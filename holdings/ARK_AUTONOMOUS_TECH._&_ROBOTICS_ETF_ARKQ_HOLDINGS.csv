@@ -1,41 +1,41 @@
-date,fund,company,ticker,cusip,shares,"market value ($)","weight (%)"
-12/08/2022,ARKQ,"TESLA INC",TSLA,88160R101,"465,606","$81,034,068.24",9.30%
-12/08/2022,ARKQ,"TRIMBLE INC",TRMB,896239100,"1,365,955","$78,515,093.40",9.01%
-12/08/2022,ARKQ,"DEERE & CO",DE,244199105,"139,674","$61,547,348.10",7.06%
-12/08/2022,ARKQ,"KRATOS DEFENSE & SECURITY",KTOS,50077B207,"6,184,796","$57,023,819.12",6.54%
-12/08/2022,ARKQ,"IRIDIUM COMMUNICATIONS INC",IRDM,46269C102,"1,138,318","$56,153,226.94",6.44%
-12/08/2022,ARKQ,"UIPATH INC - CLASS A",PATH,90364P105,"4,463,142","$56,057,063.52",6.43%
-12/08/2022,ARKQ,"TERADYNE INC",TER,880770102,"476,815","$43,561,818.40",5.00%
-12/08/2022,ARKQ,"KOMATSU LTD -SPONS ADR",KMTUY,500458401,"1,697,289","$37,968,354.93",4.36%
-12/08/2022,ARKQ,"AEROVIRONMENT INC",AVAV,008073108,"436,822","$35,981,028.14",4.13%
-12/08/2022,ARKQ,"BLADE AIR MOBILITY INC",BLDE,092667104,"5,335,795","$25,825,247.80",2.96%
-12/08/2022,ARKQ,"3D SYSTEMS CORP",DDD,88554D205,"2,624,625","$24,172,796.25",2.77%
-12/08/2022,ARKQ,"CATERPILLAR INC",CAT,149123101,"92,262","$21,126,152.76",2.42%
-12/08/2022,ARKQ,"MAGNA INTERNATIONAL INC",MGA,559222401,"336,825","$19,549,323.00",2.24%
-12/08/2022,ARKQ,"ALPHABET INC-CL C",GOOG,02079K107,"195,350","$18,587,552.50",2.13%
-12/08/2022,ARKQ,"NVIDIA CORP",NVDA,67066G104,"110,643","$17,835,651.60",2.05%
-12/08/2022,ARKQ,"ELBIT SYSTEMS LTD",ESLT,M3760D101,"103,807","$17,762,415.77",2.04%
-12/08/2022,ARKQ,"ARCHER AVIATION INC-A",ACHR,03945R102,"7,273,265","$16,073,915.65",1.84%
-12/08/2022,ARKQ,"UNITY SOFTWARE INC",U,91332U101,"466,930","$15,768,226.10",1.81%
-12/08/2022,ARKQ,"BYD CO LTD-UNSPONSORED ADR",BYDDY,05606L100,"277,946","$14,553,252.56",1.67%
-12/08/2022,ARKQ,"GENERAL MOTORS CO",GM,37045V100,"378,098","$14,352,600.08",1.65%
-12/08/2022,ARKQ,"INTUITIVE SURGICAL INC",ISRG,46120E602,"52,085","$13,956,696.60",1.60%
-12/08/2022,ARKQ,"TELEDYNE TECHNOLOGIES INC",TDY,879360105,"33,150","$13,628,959.50",1.56%
-12/08/2022,ARKQ,"VELO3D INC",VLD,92259N104,"6,516,652","$12,186,139.24",1.40%
-12/08/2022,ARKQ,"VUZIX CORP",VUZI,92921W300,"2,879,581","$11,835,077.91",1.36%
-12/08/2022,ARKQ,"SYNOPSYS INC",SNPS,871607107,"35,999","$11,656,476.20",1.34%
-12/08/2022,ARKQ,"XPENG INC - ADR",XPEV,98422D105,"1,030,025","$11,330,275.00",1.30%
-12/08/2022,ARKQ,"ANSYS INC",ANSS,03662Q105,"45,816","$11,129,622.72",1.28%
-12/08/2022,ARKQ,"STRATASYS LTD",SSYS,M85548101,"872,050","$11,048,873.50",1.27%
-12/08/2022,ARKQ,"MARKFORGED HOLDING CORP",MKFG,57064N102,"10,652,692","$10,865,745.84",1.25%
-12/08/2022,ARKQ,"NIU TECHNOLOGIES-SPONS ADR",NIU,65481N100,"2,207,377","$10,176,007.97",1.17%
-12/08/2022,ARKQ,"LOCKHEED MARTIN CORP",LMT,539830109,"20,770","$9,994,524.00",1.15%
-12/08/2022,ARKQ,"MATERIALISE NV-ADR",MTLS,57667T100,"950,865","$8,633,854.20",0.99%
-12/08/2022,ARKQ,"ROCKET LAB USA INC",RKLB,773122106,"1,916,830","$7,552,310.20",0.87%
-12/08/2022,ARKQ,"PROTO LABS INC",PRLB,743713109,"195,066","$4,835,686.14",0.55%
-12/08/2022,ARKQ,"NIO INC - ADR",NIO,62914V106,"347,682","$4,373,839.56",0.50%
-12/08/2022,ARKQ,"2U INC",TWOU,90214J101,"611,910","$4,265,012.70",0.49%
-12/08/2022,ARKQ,"DREYFUS GOVT CASH MAN INS",,X9USDDGCM,"758,060","$758,059.65",0.09%
-12/08/2022,ARKQ,"ORGANOVO HOLDINGS INC","ONVO ",68620A203,"75,297","$115,204.41",0.01%
-12/08/2022,ARKQ,"TUSIMPLE HOLDINGS INC - A",TSP,90089L108,600,"$1,026.00",0.00%
-"The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2022, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product.",,,,,,,
+date,fund,company,ticker,cusip,shares,market  value  ($),weight  (%)
+12/08/2022,ARKQ,TESLA  INC,TSLA,88160R101,"465,606","$81,034,068.24",9.30%
+12/08/2022,ARKQ,TRIMBLE  INC,TRMB,896239100,"1,365,955","$78,515,093.40",9.01%
+12/08/2022,ARKQ,DEERE  &  CO,DE,244199105,"139,674","$61,547,348.10",7.06%
+12/08/2022,ARKQ,KRATOS  DEFENSE  &  SECURITY,KTOS,50077B207,"6,184,796","$57,023,819.12",6.54%
+12/08/2022,ARKQ,IRIDIUM  COMMUNICATIONS  INC,IRDM,46269C102,"1,138,318","$56,153,226.94",6.44%
+12/08/2022,ARKQ,UIPATH  INC  -  CLASS  A,PATH,90364P105,"4,463,142","$56,057,063.52",6.43%
+12/08/2022,ARKQ,TERADYNE  INC,TER,880770102,"476,815","$43,561,818.40",5.00%
+12/08/2022,ARKQ,KOMATSU  LTD  -SPONS  ADR,KMTUY,500458401,"1,697,289","$37,968,354.93",4.36%
+12/08/2022,ARKQ,AEROVIRONMENT  INC,AVAV,008073108,"436,822","$35,981,028.14",4.13%
+12/08/2022,ARKQ,BLADE  AIR  MOBILITY  INC,BLDE,092667104,"5,335,795","$25,825,247.80",2.96%
+12/08/2022,ARKQ,3D  SYSTEMS  CORP,DDD,88554D205,"2,624,625","$24,172,796.25",2.77%
+12/08/2022,ARKQ,CATERPILLAR  INC,CAT,149123101,"92,262","$21,126,152.76",2.42%
+12/08/2022,ARKQ,MAGNA  INTERNATIONAL  INC,MGA,559222401,"336,825","$19,549,323.00",2.24%
+12/08/2022,ARKQ,ALPHABET  INC-CL  C,GOOG,02079K107,"195,350","$18,587,552.50",2.13%
+12/08/2022,ARKQ,NVIDIA  CORP,NVDA,67066G104,"110,643","$17,835,651.60",2.05%
+12/08/2022,ARKQ,ELBIT  SYSTEMS  LTD,ESLT,M3760D101,"103,807","$17,762,415.77",2.04%
+12/08/2022,ARKQ,ARCHER  AVIATION  INC-A,ACHR,03945R102,"7,273,265","$16,073,915.65",1.84%
+12/08/2022,ARKQ,UNITY  SOFTWARE  INC,U,91332U101,"466,930","$15,768,226.10",1.81%
+12/08/2022,ARKQ,BYD  CO  LTD-UNSPONSORED  ADR,BYDDY,05606L100,"277,946","$14,553,252.56",1.67%
+12/08/2022,ARKQ,GENERAL  MOTORS  CO,GM,37045V100,"378,098","$14,352,600.08",1.65%
+12/08/2022,ARKQ,INTUITIVE  SURGICAL  INC,ISRG,46120E602,"52,085","$13,956,696.60",1.60%
+12/08/2022,ARKQ,TELEDYNE  TECHNOLOGIES  INC,TDY,879360105,"33,150","$13,628,959.50",1.56%
+12/08/2022,ARKQ,VELO3D  INC,VLD,92259N104,"6,516,652","$12,186,139.24",1.40%
+12/08/2022,ARKQ,VUZIX  CORP,VUZI,92921W300,"2,879,581","$11,835,077.91",1.36%
+12/08/2022,ARKQ,SYNOPSYS  INC,SNPS,871607107,"35,999","$11,656,476.20",1.34%
+12/08/2022,ARKQ,XPENG  INC  -  ADR,XPEV,98422D105,"1,030,025","$11,330,275.00",1.30%
+12/08/2022,ARKQ,ANSYS  INC,ANSS,03662Q105,"45,816","$11,129,622.72",1.28%
+12/08/2022,ARKQ,STRATASYS  LTD,SSYS,M85548101,"872,050","$11,048,873.50",1.27%
+12/08/2022,ARKQ,MARKFORGED  HOLDING  CORP,MKFG,57064N102,"10,652,692","$10,865,745.84",1.25%
+12/08/2022,ARKQ,NIU  TECHNOLOGIES-SPONS  ADR,NIU,65481N100,"2,207,377","$10,176,007.97",1.17%
+12/08/2022,ARKQ,LOCKHEED  MARTIN  CORP,LMT,539830109,"20,770","$9,994,524.00",1.15%
+12/08/2022,ARKQ,MATERIALISE  NV-ADR,MTLS,57667T100,"950,865","$8,633,854.20",0.99%
+12/08/2022,ARKQ,ROCKET  LAB  USA  INC,RKLB,773122106,"1,916,830","$7,552,310.20",0.87%
+12/08/2022,ARKQ,PROTO  LABS  INC,PRLB,743713109,"195,066","$4,835,686.14",0.55%
+12/08/2022,ARKQ,NIO  INC  -  ADR,NIO,62914V106,"347,682","$4,373,839.56",0.50%
+12/08/2022,ARKQ,2U  INC,TWOU,90214J101,"611,910","$4,265,012.70",0.49%
+12/08/2022,ARKQ,DREYFUS  GOVT  CASH  MAN  INS,,X9USDDGCM,"758,060","$758,059.65",0.09%
+12/08/2022,ARKQ,ORGANOVO  HOLDINGS  INC,ONVO  ,68620A203,"75,297","$115,204.41",0.01%
+12/08/2022,ARKQ,TUSIMPLE  HOLDINGS  INC  -  A,TSP,90089L108,600,"$1,026.00",0.00%
+"The  principal  risks  of  investing  in  ARK  ETFs  include  equity,  market,  management  and  non-diversification  risks,  as  well  as  fluctuations  in  market  value  and  net  asset  value  ('NAV').  Investors  should  carefully  consider  the  investment  objectives  and  risks  as  well  as  charges  and  expenses  of  an  ETF  before  investing.  This  and  other  information  are  contained  in  each  ETF's  prospectus,  which  may  be  obtained  by  contacting  the  ETF's  transfer  agent  The  Bank  of  New  York  Mellon  or  by  clicking  here.  Please  read  the  prospectus  carefully  before  you  invest.  The  market  price  of  ETF  shares  may  differ  significantly  from  their  NAV  during  periods  of  market  volatility.  ETF  shares  may  only  be  redeemed  directly  with  the  ETF  at  NAV  by  Authorized  Participants,  in  very  large  creation  units.  Holdings  are  subject  to  change  without  notice  and  are  not  a  recommendation  to  buy  or  sell  any  security.  There  can  be  no  guarantee  that  an  active  trading  market  for  ETF  shares  will  develop  or  be  maintained,  or  that  their  listing  will  continue  or  remain  unchanged.  Buying  or  selling  ETF  shares  on  an  exchange  may  require  the  payment  of  brokerage  commissions  and  frequent  trading  may  incur  brokerage  costs  that  detract  significantly  from  investment  returns.  Copyright  2022,  ARK  Investment  Management  LLC.  All  content  is  original  and  has  been  researched  and  produced  by  ARK  Investment  Management  LLC  unless  otherwise  stated.  No  part  of  this  content  may  be  reproduced  in  any  form,  or  referred  to  in  any  other  publication,  without  the  express  written  permission  of  ARK  Investment  Management  LLC.  All  statements  made  regarding  companies,  securities  or  other  financial  information  on  this  site  or  any  sites  or  articles  relating  to  ARK  Investment  Management  LLC  are  strictly  beliefs  and  points  of  view  held  by  ARK  Investment  Management  and  are  subject  to  change  without  notice.  Information  contained  herein  has  been  obtained  from  sources  believed  to  be  reliable,  but  not  guaranteed.  This  material  has  been  distributed  for  informational  purposes  only  and  should  not  be  considered  as  investment  advice  or  a  recommendation  of  any  particular  security,  strategy  or  investment  product.",,,,,,,
