@@ -245,7 +245,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 "<a  href=""https://ark-funds.com/questionnaire/"">Find  Your  Funds</a>"
 </li>
 </ul>
-  </div>
+</div>
 </div>
 </div>
 </div>
@@ -262,7 +262,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 </div>
 "<div  class=""b-footer-content"">"
 "<div  class=""b-footer-left"">"
-"<div  class=""b-footer-item__top"">ARK  ETF  Trust</div>"
+"  <div  class=""b-footer-item__top"">ARK  ETF  Trust</div>"
 "<a  href=""/contact-us-form/""  class=""b-footer-mail"">Contact  Us</a>"
 </div>
 "<div  class=""b-footer-items"">"
@@ -301,7 +301,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 "<li  id=""menu-item-3067""  class=""menu-item  menu-item-type-custom  menu-item-object-custom  menu-item-3067""><a  href=""https://ark-invest.com/articles/"">Innovation  Research</a></li>"
 </ul>  </div>
 "<div  class=""b-footer-item"">"
-"<div  class=""b-footer-item__top"">Other</div>"
+"  <div  class=""b-footer-item__top"">Other</div>"
 "<ul  id=""menu-other""  class=""""><li  id=""menu-item-1753""  class=""menu-item  menu-item-type-post_type  menu-item-object-page  menu-item-1753""><a  href=""https://ark-funds.com/about/"">About  ARK</a></li>"
 "<li  id=""menu-item-1752""  class=""menu-item  menu-item-type-post_type  menu-item-object-page  menu-item-1752""><a  href=""https://ark-funds.com/how-to-invest/"">How  To  Invest</a></li>"
 "<li  id=""menu-item-2942""  class=""menu-item  menu-item-type-post_type  menu-item-object-page  menu-item-2942""><a  href=""https://ark-funds.com/subscribe-to-etf-updates/"">Subscribe  To  Updates</a></li>"
@@ -399,13 +399,13 @@ PROCEED
 "var  eio_lazy_vars  =  {""exactdn_domain"":""""",skip_autoscale:0,threshold:0};
 </script>
 <script  type='text/javascript'  src='https://ark-funds.com/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js?ver=693'  id='eio-lazy-load-js'></script>
-<script  type='text/javascript'  src='https://ark-funds.com/wp-content/plugins/ark-funds-data-module//assets/js/common.js?ver=1676964346'  id='fund_common-scripts-js'></script>
+<script  type='text/javascript'  src='https://ark-funds.com/wp-content/plugins/ark-funds-data-module//assets/js/common.js?ver=1678261358'  id='fund_common-scripts-js'></script>
 <script  type='text/javascript'  id='single_fund-scripts-js-extra'>
 /*  <![CDATA[  */
 "var  script_args_single_fund  =  {""ajaxUrl"":""https:\/\/ark-funds.com\/wp-admin\/admin-ajax.php""};"
 /*  ]]>  */
 </script>
-<script  type='text/javascript'  src='https://ark-funds.com/wp-content/plugins/ark-funds-data-module//assets/js/script.js?ver=1676964346'  id='single_fund-scripts-js'></script>
+<script  type='text/javascript'  src='https://ark-funds.com/wp-content/plugins/ark-funds-data-module//assets/js/script.js?ver=1678261358'  id='single_fund-scripts-js'></script>
 <script  type='text/javascript'  id='leadin-script-loader-js-js-extra'>
 /*  <![CDATA[  */
 "var  leadin_wordpress  =  {""userRole"":""visitor""","pageType:""other""","leadinPluginVersion:""8.4.365""};"
@@ -749,6 +749,6 @@ PROCEED
                 return  false;
         });
 </script>
-"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993""  integrity=""sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==""  data-cf-beacon='{""rayId"":""7a47d60429283ac5""","token:""12cc96a5de654cfa802d9c6998a87320""","version:""2023.2.0""","si:100}'  crossorigin=""anonymous""></script>"
+"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993""  integrity=""sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==""  data-cf-beacon='{""rayId"":""7a4bc6edcd73e7cb""","token:""12cc96a5de654cfa802d9c6998a87320""","version:""2023.2.0""","si:100}'  crossorigin=""anonymous""></script>"
 </body>
 </html>
