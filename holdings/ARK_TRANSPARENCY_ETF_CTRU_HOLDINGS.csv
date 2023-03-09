@@ -229,7 +229,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 "<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
 "<a  href=""https://ark-funds.com/about/"">About  ARK</a>"
 </li>
-"<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
+"  <li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
 "<a  href=""https://ark-funds.com/our-etfs/"">Our  ETFs</a>"
 </li>
 "<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
@@ -244,7 +244,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 "<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
 "<a  href=""https://ark-funds.com/questionnaire/"">Find  Your  Funds</a>"
 </li>
-</ul>
+  </ul>
 </div>
 </div>
 </div>
@@ -301,7 +301,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 "<li  id=""menu-item-3067""  class=""menu-item  menu-item-type-custom  menu-item-object-custom  menu-item-3067""><a  href=""https://ark-invest.com/articles/"">Innovation  Research</a></li>"
 </ul>  </div>
 "<div  class=""b-footer-item"">"
-"<div  class=""b-footer-item__top"">Other</div>"
+"  <div  class=""b-footer-item__top"">Other</div>"
 "<ul  id=""menu-other""  class=""""><li  id=""menu-item-1753""  class=""menu-item  menu-item-type-post_type  menu-item-object-page  menu-item-1753""><a  href=""https://ark-funds.com/about/"">About  ARK</a></li>"
 "<li  id=""menu-item-1752""  class=""menu-item  menu-item-type-post_type  menu-item-object-page  menu-item-1752""><a  href=""https://ark-funds.com/how-to-invest/"">How  To  Invest</a></li>"
 "<li  id=""menu-item-2942""  class=""menu-item  menu-item-type-post_type  menu-item-object-page  menu-item-2942""><a  href=""https://ark-funds.com/subscribe-to-etf-updates/"">Subscribe  To  Updates</a></li>"
@@ -317,7 +317,7 @@ Privacy  Policy  </a>
 </li>
 "<li  class=""b-copyright-link"">"
 "<a  href=""https://ark-funds.com/terms/""  target="""">"
-Terms  of  Use  </a>
+  Terms  of  Use  </a>
 </li>
 </ul>
 </div>
@@ -749,6 +749,6 @@ PROCEED
                 return  false;
         });
 </script>
-"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993""  integrity=""sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==""  data-cf-beacon='{""rayId"":""7a5013a61c4c6fdf""","token:""12cc96a5de654cfa802d9c6998a87320""","version:""2023.2.0""","si:100}'  crossorigin=""anonymous""></script>"
+"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993""  integrity=""sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==""  data-cf-beacon='{""rayId"":""7a5404421bfe2adf""","token:""12cc96a5de654cfa802d9c6998a87320""","version:""2023.2.0""","si:100}'  crossorigin=""anonymous""></script>"
 </body>
 </html>
