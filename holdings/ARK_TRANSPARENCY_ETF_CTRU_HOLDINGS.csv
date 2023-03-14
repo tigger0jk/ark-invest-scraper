@@ -77,24 +77,24 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 </style>
 <link  rel='stylesheet'  id='menu-image-css'  href='https://ark-funds.com/wp-content/plugins/menu-image/includes/css/menu-image.css?ver=3.0.8'  type='text/css'  media='all'  />
 <link  rel='stylesheet'  id='dashicons-css'  href='https://ark-funds.com/wp-includes/css/dashicons.min.css?ver=6.1.1'  type='text/css'  media='all'  />
-<link  rel='stylesheet'  id='bootstrap/css/bootstrap.min-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/bootstrap/css/bootstrap.min.css?ver=1676964348'  type='text/css'  media='all'  />
-<link  rel='stylesheet'  id='bootstrap/css/bootstrap-grid-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/bootstrap/css/bootstrap-grid.css?ver=1676964348'  type='text/css'  media='all'  />
-<link  rel='stylesheet'  id='css/swiper.min-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/swiper.min.css?ver=1676964348'  type='text/css'  media='all'  />
-<link  rel='stylesheet'  id='css/mmenu-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/mmenu.css?ver=1676964348'  type='text/css'  media='all'  />
-<link  rel='stylesheet'  id='css/selectric-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/selectric.css?ver=1676964348'  type='text/css'  media='all'  />
-<link  rel='stylesheet'  id='css/swiper-bundle.min-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/swiper-bundle.min.css?ver=1676964348'  type='text/css'  media='all'  />
-<link  rel='stylesheet'  id='icomoon/style-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/icomoon/style.css?ver=1676964348'  type='text/css'  media='all'  />
-<link  rel='stylesheet'  id='js/select/dist/css/select2.min-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/js/select/dist/css/select2.min.css?ver=1676964348'  type='text/css'  media='all'  />
-<link  rel='stylesheet'  id='js/Magnific-Popup-master/magnific-popup-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/js/Magnific-Popup-master/magnific-popup.css?ver=1676964348'  type='text/css'  media='all'  />
-<link  rel='stylesheet'  id='js/zoom/image-zoom-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/js/zoom/image-zoom.css?ver=1676964348'  type='text/css'  media='all'  />
-<link  rel='stylesheet'  id='js/add-to-calendar-button-main/css/atcb.min-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/js/add-to-calendar-button-main/css/atcb.min.css?ver=1676964348'  type='text/css'  media='all'  />
-<link  rel='stylesheet'  id='css/style-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/style.css?ver=1676964348'  type='text/css'  media='all'  />
-<link  rel='stylesheet'  id='css/responsive-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/responsive.css?ver=1676964348'  type='text/css'  media='all'  />
-<link  rel='stylesheet'  id='css/popup-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/popup.css?ver=1676964348'  type='text/css'  media='all'  />
-<link  rel='stylesheet'  id='css/hubspot-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/hubspot.css?ver=1676964348'  type='text/css'  media='all'  />
-<link  rel='stylesheet'  id='css/listing-video-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/listing-video.css?ver=1676964348'  type='text/css'  media='all'  />
-<link  rel='stylesheet'  id='css/main-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/main.css?ver=1676964348'  type='text/css'  media='all'  />
-<link  rel='stylesheet'  id='css/aos-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/aos.css?ver=1676964348'  type='text/css'  media='all'  />
+<link  rel='stylesheet'  id='bootstrap/css/bootstrap.min-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/bootstrap/css/bootstrap.min.css?ver=1678778160'  type='text/css'  media='all'  />
+<link  rel='stylesheet'  id='bootstrap/css/bootstrap-grid-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/bootstrap/css/bootstrap-grid.css?ver=1678778160'  type='text/css'  media='all'  />
+<link  rel='stylesheet'  id='css/swiper.min-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/swiper.min.css?ver=1678778160'  type='text/css'  media='all'  />
+<link  rel='stylesheet'  id='css/mmenu-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/mmenu.css?ver=1678778160'  type='text/css'  media='all'  />
+<link  rel='stylesheet'  id='css/selectric-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/selectric.css?ver=1678778160'  type='text/css'  media='all'  />
+<link  rel='stylesheet'  id='css/swiper-bundle.min-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/swiper-bundle.min.css?ver=1678778160'  type='text/css'  media='all'  />
+<link  rel='stylesheet'  id='icomoon/style-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/icomoon/style.css?ver=1678778160'  type='text/css'  media='all'  />
+<link  rel='stylesheet'  id='js/select/dist/css/select2.min-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/js/select/dist/css/select2.min.css?ver=1678778160'  type='text/css'  media='all'  />
+<link  rel='stylesheet'  id='js/Magnific-Popup-master/magnific-popup-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/js/Magnific-Popup-master/magnific-popup.css?ver=1678778160'  type='text/css'  media='all'  />
+<link  rel='stylesheet'  id='js/zoom/image-zoom-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/js/zoom/image-zoom.css?ver=1678778160'  type='text/css'  media='all'  />
+<link  rel='stylesheet'  id='js/add-to-calendar-button-main/css/atcb.min-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/js/add-to-calendar-button-main/css/atcb.min.css?ver=1678778160'  type='text/css'  media='all'  />
+<link  rel='stylesheet'  id='css/style-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/style.css?ver=1678778160'  type='text/css'  media='all'  />
+<link  rel='stylesheet'  id='css/responsive-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/responsive.css?ver=1678778160'  type='text/css'  media='all'  />
+<link  rel='stylesheet'  id='css/popup-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/popup.css?ver=1678778160'  type='text/css'  media='all'  />
+<link  rel='stylesheet'  id='css/hubspot-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/hubspot.css?ver=1678778160'  type='text/css'  media='all'  />
+<link  rel='stylesheet'  id='css/listing-video-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/listing-video.css?ver=1678778160'  type='text/css'  media='all'  />
+<link  rel='stylesheet'  id='css/main-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/main.css?ver=1678778160'  type='text/css'  media='all'  />
+<link  rel='stylesheet'  id='css/aos-css'  href='https://ark-funds.com/wp-content/themes/ark-founds/code/css/aos.css?ver=1678778160'  type='text/css'  media='all'  />
 <script  type='text/javascript'  src='https://ark-funds.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1'  id='jquery-core-js'></script>
 <script  type='text/javascript'  src='https://ark-funds.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2'  id='jquery-migrate-js'></script>
 <script  type='text/javascript'  src='https://ark-funds.com/wp-content/plugins/wp_block_charts//js/charts.js?ver=6.1.1'  id='charts-js'></script>
@@ -235,7 +235,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 "<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
 "<a  href=""https://ark-funds.com/how-to-invest-individual/"">How  to  Invest</a>"
 </li>
-"<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
+"  <li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
 "<a  href=""https://ark-funds.com/download-fund-materials/"">Download  Fund  Materials</a>"
 </li>
 "<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
@@ -326,7 +326,7 @@ Terms  of  Use  </a>
 </div>
 "<div  class=""b-footer__bottom"">"
 "<div  class=""container"">"
-"<div  class=""row"">"
+"  <div  class=""row"">"
 "<div  class=""col-xl"">"
 <b>DISCLOSURE</b><p><b>Investors  should  carefully  consider  the  investment  objectives  and  risks  as  well  as  charges  and  expenses  of  an  ARK  ETF  before  investing.  This  and  other  information  are  contained  in  the  ARK  ETFs'  prospectuses,  which  may  be  obtained  by  clicking  here.  The  prospectus  should  be  read  carefully  before  investing.  An  investment  in  an  ARK  ETF  is  subject  to  risks  and  you  can  lose  money  on  your  investment  in  an  ARK  ETF.  There  can  be  no  assurance  that  the  ARK  ETFs  will  achieve  their  investment  objectives.  The  ARK  ETFs’  portfolios  are  more  volatile  than  broad  market  averages.  The  ARK  ETFs  also  have  specific  risks,  which  are  described  in  the  ARK  ETFs'  prospectuses.</b>  </p>
 <p>Shares  of  the  ARK  ETFs  may  be  bought  or  sold  throughout  the  day  at  their  market  price  on  the  exchange  on  which  they  are  listed.  The  market  price  of  an  ARK  ETF's  shares  may  be  at,"  above  or  below  the  ARK  ETF’s  net  asset  value  (""NAV"")  and  will  fluctuate  with  changes  in  the  NAV  as  well  as  supply  and  demand  in  the  market  for  the  shares.  The  market  price  of  ARK  ETF  shares  may  differ  significantly  from  their  NAV  during  periods  of  market  volatility.  Shares  of  the  ARK  ETFs  may  only  be  redeemed  directly  with  the  ARK  ETFs  at  NAV  by  Authorized  Participants",  in  very  large  creation  units.  There  can  be  no  guarantee  that  an  active  trading  market  for  ARK  ETF  shares  will  develop  or  be  maintained,  or  that  their  listing  will  continue  or  remain  unchanged.  Buying  or  selling  ARK  ETF  shares  on  an  exchange  may  require  the  payment  of  brokerage  commissions  and  frequent  trading  may  incur  brokerage  costs  that  detract  significantly  from  investment  returns.  Not  FDIC  Insured  –  No  Bank  Guarantee  –  May  Lose  Value</p>
@@ -383,14 +383,14 @@ PROCEED
 "<div  class=""single-zoom__content"">"
 "<button  class=""single-zoom__btn  js-single-zoom-close""  type=""button"">Close</button>"
 "<div  class=""single-zoom__content-inner"">"
-"  <div  class=""single-zoom__img-wrap  js-single-zoom-img-wrap"">"
+"<div  class=""single-zoom__img-wrap  js-single-zoom-img-wrap"">"
 "<svg  class=""single-zoom__icon"">"
 "<use  xlink:href=""#logo-form""></use>"
 </svg>
 "<img  class=""single-zoom__img  js-single-zoom-img""  src=""""  alt="""">"
 </div>
 "<div  class=""single-zoom__caption  js-single-zoom-caption"">"
-</div>
+  </div>
 </div>
 </div>
 </div>
@@ -399,13 +399,13 @@ PROCEED
 "var  eio_lazy_vars  =  {""exactdn_domain"":""""",skip_autoscale:0,threshold:0};
 </script>
 <script  type='text/javascript'  src='https://ark-funds.com/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js?ver=693'  id='eio-lazy-load-js'></script>
-<script  type='text/javascript'  src='https://ark-funds.com/wp-content/plugins/ark-funds-data-module//assets/js/common.js?ver=1678261358'  id='fund_common-scripts-js'></script>
+<script  type='text/javascript'  src='https://ark-funds.com/wp-content/plugins/ark-funds-data-module//assets/js/common.js?ver=1678778158'  id='fund_common-scripts-js'></script>
 <script  type='text/javascript'  id='single_fund-scripts-js-extra'>
 /*  <![CDATA[  */
 "var  script_args_single_fund  =  {""ajaxUrl"":""https:\/\/ark-funds.com\/wp-admin\/admin-ajax.php""};"
 /*  ]]>  */
 </script>
-<script  type='text/javascript'  src='https://ark-funds.com/wp-content/plugins/ark-funds-data-module//assets/js/script.js?ver=1678261358'  id='single_fund-scripts-js'></script>
+<script  type='text/javascript'  src='https://ark-funds.com/wp-content/plugins/ark-funds-data-module//assets/js/script.js?ver=1678778158'  id='single_fund-scripts-js'></script>
 <script  type='text/javascript'  id='leadin-script-loader-js-js-extra'>
 /*  <![CDATA[  */
 "var  leadin_wordpress  =  {""userRole"":""visitor""","pageType:""other""","leadinPluginVersion:""8.4.365""};"
@@ -749,6 +749,6 @@ PROCEED
                 return  false;
         });
 </script>
-"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993""  integrity=""sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==""  data-cf-beacon='{""rayId"":""7a792ab4cec6968e""","token:""12cc96a5de654cfa802d9c6998a87320""","version:""2023.2.0""","si:100}'  crossorigin=""anonymous""></script>"
+"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993""  integrity=""sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==""  data-cf-beacon='{""rayId"":""7a7d3bbe1ab3aab1""","token:""12cc96a5de654cfa802d9c6998a87320""","version:""2023.2.0""","si:100}'  crossorigin=""anonymous""></script>"
 </body>
 </html>
