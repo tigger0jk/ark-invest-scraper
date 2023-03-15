@@ -197,7 +197,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 "<div  class=""b-container  front-page"">"
 "<div  class=""b-wrapper  b-wrapper_full"">"
 "<div  class=""b-error"">"
-"<div  class=""container"">"
+"  <div  class=""container"">"
 "<div  class=""row"">"
 "<div  class=""col-xl"">"
 "<div  class=""b-error__content"">"
@@ -235,7 +235,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 "<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
 "<a  href=""https://ark-funds.com/how-to-invest-individual/"">How  to  Invest</a>"
 </li>
-"  <li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
+"<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
 "<a  href=""https://ark-funds.com/download-fund-materials/"">Download  Fund  Materials</a>"
 </li>
 "<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
@@ -245,7 +245,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 "<a  href=""https://ark-funds.com/questionnaire/"">Find  Your  Funds</a>"
 </li>
 </ul>
-</div>
+  </div>
 </div>
 </div>
 </div>
@@ -326,7 +326,7 @@ Terms  of  Use  </a>
 </div>
 "<div  class=""b-footer__bottom"">"
 "<div  class=""container"">"
-"  <div  class=""row"">"
+"<div  class=""row"">"
 "<div  class=""col-xl"">"
 <b>DISCLOSURE</b><p><b>Investors  should  carefully  consider  the  investment  objectives  and  risks  as  well  as  charges  and  expenses  of  an  ARK  ETF  before  investing.  This  and  other  information  are  contained  in  the  ARK  ETFs'  prospectuses,  which  may  be  obtained  by  clicking  here.  The  prospectus  should  be  read  carefully  before  investing.  An  investment  in  an  ARK  ETF  is  subject  to  risks  and  you  can  lose  money  on  your  investment  in  an  ARK  ETF.  There  can  be  no  assurance  that  the  ARK  ETFs  will  achieve  their  investment  objectives.  The  ARK  ETFs’  portfolios  are  more  volatile  than  broad  market  averages.  The  ARK  ETFs  also  have  specific  risks,  which  are  described  in  the  ARK  ETFs'  prospectuses.</b>  </p>
 <p>Shares  of  the  ARK  ETFs  may  be  bought  or  sold  throughout  the  day  at  their  market  price  on  the  exchange  on  which  they  are  listed.  The  market  price  of  an  ARK  ETF's  shares  may  be  at,"  above  or  below  the  ARK  ETF’s  net  asset  value  (""NAV"")  and  will  fluctuate  with  changes  in  the  NAV  as  well  as  supply  and  demand  in  the  market  for  the  shares.  The  market  price  of  ARK  ETF  shares  may  differ  significantly  from  their  NAV  during  periods  of  market  volatility.  Shares  of  the  ARK  ETFs  may  only  be  redeemed  directly  with  the  ARK  ETFs  at  NAV  by  Authorized  Participants",  in  very  large  creation  units.  There  can  be  no  guarantee  that  an  active  trading  market  for  ARK  ETF  shares  will  develop  or  be  maintained,  or  that  their  listing  will  continue  or  remain  unchanged.  Buying  or  selling  ARK  ETF  shares  on  an  exchange  may  require  the  payment  of  brokerage  commissions  and  frequent  trading  may  incur  brokerage  costs  that  detract  significantly  from  investment  returns.  Not  FDIC  Insured  –  No  Bank  Guarantee  –  May  Lose  Value</p>
@@ -390,7 +390,7 @@ PROCEED
 "<img  class=""single-zoom__img  js-single-zoom-img""  src=""""  alt="""">"
 </div>
 "<div  class=""single-zoom__caption  js-single-zoom-caption"">"
-  </div>
+</div>
 </div>
 </div>
 </div>
@@ -749,6 +749,6 @@ PROCEED
                 return  false;
         });
 </script>
-"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993""  integrity=""sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==""  data-cf-beacon='{""rayId"":""7a7d3bbe1ab3aab1""","token:""12cc96a5de654cfa802d9c6998a87320""","version:""2023.2.0""","si:100}'  crossorigin=""anonymous""></script>"
+"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993""  integrity=""sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==""  data-cf-beacon='{""rayId"":""7a816e7a5be02cb1""","token:""12cc96a5de654cfa802d9c6998a87320""","version:""2023.2.0""","si:100}'  crossorigin=""anonymous""></script>"
 </body>
 </html>
