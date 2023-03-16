@@ -216,7 +216,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 "<div  class=""b-title  b-title_mb  b-title_left"">"
 "<div  class=""b-title__row"">"
 "<div  class=""b-title__row-left"">"
-"<div  class=""b-title-item  b-title-item_small"">This  Might  Help</div>"
+"  <div  class=""b-title-item  b-title-item_small"">This  Might  Help</div>"
 </div>
 </div>
 </div>
@@ -244,7 +244,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 "<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
 "<a  href=""https://ark-funds.com/questionnaire/"">Find  Your  Funds</a>"
 </li>
-  </ul>
+</ul>
 </div>
 </div>
 </div>
@@ -749,6 +749,6 @@ PROCEED
                 return  false;
         });
 </script>
-"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993""  integrity=""sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==""  data-cf-beacon='{""rayId"":""7a85723dbe743931""","token:""12cc96a5de654cfa802d9c6998a87320""","version:""2023.2.0""","si:100}'  crossorigin=""anonymous""></script>"
+"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993""  integrity=""sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==""  data-cf-beacon='{""rayId"":""7a89acf5a861f9f5""","token:""12cc96a5de654cfa802d9c6998a87320""","version:""2023.2.0""","si:100}'  crossorigin=""anonymous""></script>"
 </body>
 </html>
