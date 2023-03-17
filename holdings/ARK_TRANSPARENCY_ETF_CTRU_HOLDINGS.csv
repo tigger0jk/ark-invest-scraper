@@ -236,7 +236,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 "<a  href=""https://ark-funds.com/how-to-invest-individual/"">How  to  Invest</a>"
 </li>
 "<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
-"  <a  href=""https://ark-funds.com/download-fund-materials/"">Download  Fund  Materials</a>"
+"<a  href=""https://ark-funds.com/download-fund-materials/"">Download  Fund  Materials</a>"
 </li>
 "<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
 "<a  href=""https://ark-funds.com/resources-institutional/"">Resources  for  Institutions</a>"
@@ -391,7 +391,7 @@ PROCEED
 </div>
 "<div  class=""single-zoom__caption  js-single-zoom-caption"">"
 </div>
-</div>
+  </div>
 </div>
 </div>
 </div>
@@ -749,6 +749,6 @@ PROCEED
                 return  false;
         });
 </script>
-"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993""  integrity=""sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==""  data-cf-beacon='{""rayId"":""7a91e7839b35f9e4""","token:""12cc96a5de654cfa802d9c6998a87320""","version:""2023.2.0""","si:100}'  crossorigin=""anonymous""></script>"
+"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993""  integrity=""sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==""  data-cf-beacon='{""rayId"":""7a95ecb4ccb02e72""","token:""12cc96a5de654cfa802d9c6998a87320""","version:""2023.2.0""","si:100}'  crossorigin=""anonymous""></script>"
 </body>
 </html>
