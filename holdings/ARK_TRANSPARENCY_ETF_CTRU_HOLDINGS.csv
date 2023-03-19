@@ -242,7 +242,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 "<a  href=""https://ark-funds.com/resources-institutional/"">Resources  for  Institutions</a>"
 </li>
 "<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
-"  <a  href=""https://ark-funds.com/questionnaire/"">Find  Your  Funds</a>"
+"<a  href=""https://ark-funds.com/questionnaire/"">Find  Your  Funds</a>"
 </li>
 </ul>
 </div>
@@ -285,7 +285,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 </ul>
 </li>
 </ul>  </div>
-"  <div  class=""b-footer-item"">"
+"<div  class=""b-footer-item"">"
 "<div  class=""b-footer-item__top"">Fund  Resources</div>"
 "<ul  id=""menu-fund-resources""  class=""""><li  id=""menu-item-1109""  class=""menu-item  menu-item-type-post_type  menu-item-object-page  menu-item-1109""><a  href=""https://ark-funds.com/download-fund-materials/"">Fund  Documents</a></li>"
 "<li  id=""menu-item-1110""  class=""menu-item  menu-item-type-post_type  menu-item-object-page  menu-item-1110""><a  href=""https://ark-funds.com/questionnaire/"">Find  Your  Funds</a></li>"
@@ -317,7 +317,7 @@ Privacy  Policy  </a>
 </li>
 "<li  class=""b-copyright-link"">"
 "<a  href=""https://ark-funds.com/terms/""  target="""">"
-Terms  of  Use  </a>
+Terms  of  Use    </a>
 </li>
 </ul>
 </div>
@@ -335,7 +335,7 @@ Terms  of  Use  </a>
 <p>ARK  Investment  Management  LLC  is  the  investment  adviser  to  the  ARK  ETFs.</p>
 <p>Foreside  Fund  Services,  LLC,  distributor.</p>
 <p>©  2023.  ARK  ETF  Trust.  No  part  of  this  material  may  be  reproduced  in  any  form,  or  referred  to  in  any  other  publication,  without  written  permission.</p>
-</div>
+  </div>
 </div>
 </div>
 </div>
@@ -344,7 +344,7 @@ Terms  of  Use  </a>
 "<p  class=""js-confirm-link-text""  data-confirm=""By  clicking  below  you  acknowledge  that  you  are  navigating  away  from  ark-funds.com  and  will  be  connected  to  ark-invest.com  "
 ARK  Investment  Management  LLC  manages  both  web  domains.  
 Please  take  note  of  ARK’s  privacy  policy,  terms  of  use,"  and  disclosures  that  may  vary  between  sites.""></p>"
-"  <p  class=""js-confirm-link-url""  data-confirm=""https://ark-invest.com""></p>"
+"<p  class=""js-confirm-link-url""  data-confirm=""https://ark-invest.com""></p>"
 "<p  class=""js-confirm-ex-link-title""  data-confirm=""You  are  leaving  ark-funds.com""></p>"
 "<p  class=""js-confirm-ex-link-text""  data-confirm=""By  clicking  below  you  acknowledge  that  you  are  navigating  away  from  ark-funds.com.  "
 Please  take  note  of  ARK’s  privacy  policy,  terms  of  use,"  and  disclosures  that  are  not  applicable  for  this  site.""></p>"
@@ -749,6 +749,6 @@ PROCEED
                 return  false;
         });
 </script>
-"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993""  integrity=""sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==""  data-cf-beacon='{""rayId"":""7aa26f171bcd5371""","token:""12cc96a5de654cfa802d9c6998a87320""","version:""2023.2.0""","si:100}'  crossorigin=""anonymous""></script>"
+"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993""  integrity=""sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==""  data-cf-beacon='{""rayId"":""7aa6651e78a882d5""","token:""12cc96a5de654cfa802d9c6998a87320""","version:""2023.2.0""","si:100}'  crossorigin=""anonymous""></script>"
 </body>
 </html>
