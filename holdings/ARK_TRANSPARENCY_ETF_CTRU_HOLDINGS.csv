@@ -226,16 +226,16 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 "<div  class=""col-sm-12  col-12"">"
 "<div  class=""b-found-others"">"
 "<ul  class=""row"">"
-"  <li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
+"<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
 "<a  href=""https://ark-funds.com/about/"">About  ARK</a>"
-  </li>
+</li>
 "<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
 "<a  href=""https://ark-funds.com/our-etfs/"">Our  ETFs</a>"
 </li>
 "<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
 "<a  href=""https://ark-funds.com/how-to-invest-individual/"">How  to  Invest</a>"
 </li>
-"<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
+"  <li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
 "<a  href=""https://ark-funds.com/download-fund-materials/"">Download  Fund  Materials</a>"
 </li>
 "<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
@@ -276,7 +276,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 "<li  id=""menu-item-2670""  class=""menu-item  menu-item-type-post_type  menu-item-object-funds  menu-item-2670""><a  href=""https://ark-funds.com/funds/arkx/"">ARKX</a></li>"
 </ul>  </div>
 "<div  class=""b-footer-item"">"
-"  <div  class=""b-footer-item__top"">Index  ETFs</div>"
+"<div  class=""b-footer-item__top"">Index  ETFs</div>"
 "<ul  id=""menu-index-etfs""  class=""""><li  id=""menu-item-2611""  class=""menu-item  menu-item-type-post_type  menu-item-object-funds  menu-item-2611""><a  href=""https://ark-funds.com/funds/izrl/"">IZRL</a></li>"
 "<li  id=""menu-item-2612""  class=""menu-item  menu-item-type-post_type  menu-item-object-funds  menu-item-2612""><a  href=""https://ark-funds.com/funds/prnt/"">PRNT</a></li>"
 "<li  id=""menu-item-4319""  class=""menu-item  menu-item-type-custom  menu-item-object-custom  menu-item-has-children  menu-item-4319""><a  href=""#"">Other  funds</a>"
@@ -313,7 +313,7 @@ ARK  ETF  Trust  ©  2021  -  2026
 "<ul  class=""b-copyright-links"">"
 "<li  class=""b-copyright-link"">"
 "<a  href=""https://ark-funds.com/privacy/""  target="""">"
-    Privacy  Policy  </a>
+Privacy  Policy  </a>
 </li>
 "<li  class=""b-copyright-link"">"
 "<a  href=""https://ark-funds.com/terms/""  target="""">"
@@ -749,6 +749,6 @@ PROCEED
                 return  false;
         });
 </script>
-"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993""  integrity=""sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==""  data-cf-beacon='{""rayId"":""7aaaa5815e1ace38""","token:""12cc96a5de654cfa802d9c6998a87320""","version:""2023.2.0""","si:100}'  crossorigin=""anonymous""></script>"
+"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993""  integrity=""sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==""  data-cf-beacon='{""rayId"":""7aaea8f0a855fa6a""","token:""12cc96a5de654cfa802d9c6998a87320""","version:""2023.2.0""","si:100}'  crossorigin=""anonymous""></script>"
 </body>
 </html>
