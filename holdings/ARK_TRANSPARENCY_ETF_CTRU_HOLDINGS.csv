@@ -191,7 +191,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
                         .simple-banner{background:#dee0e6;}.simple-banner  .simple-banner-text{color:#1e1e46;}.simple-banner  .simple-banner-text  a{color:#1e1e46;}.simple-banner  .simple-banner-text{color:#1e1e46;}.simple-banner  .simple-banner-button{color:#1e1e46;}.simple-banner  .simple-banner-text  a:after{background-color:#1e1e46;}.simple-banner  .simple-banner-text  .banner-icon{border-color:#dee0e6;background-color:  #dee0e6}                </style>
 "<div  id=""simple-banner""  class=""simple-banner""  style=""display:  none;"">"
 "<div  class=""simple-banner-text"">"
-"  <style>.simple-banner-text  span  a:after  {background-color:#ffffff  !important;}</style>Learn  More  About  the  ARK  Venture  Fund<a  href=""https://ark-ventures.com/"">Read  Now</a>  </div>"
+"<style>.simple-banner-text  span  a:after  {background-color:#ffffff  !important;}</style>Learn  More  About  the  ARK  Venture  Fund<a  href=""https://ark-ventures.com/"">Read  Now</a>  </div>"
 "<button  id=""simple-banner-close-button""  class=""simple-banner-button"">✕</button>"
 </div>
 "<div  class=""b-container  front-page"">"
@@ -235,7 +235,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 "<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
 "<a  href=""https://ark-funds.com/how-to-invest-individual/"">How  to  Invest</a>"
 </li>
-"<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
+"  <li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
 "<a  href=""https://ark-funds.com/download-fund-materials/"">Download  Fund  Materials</a>"
 </li>
 "<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
@@ -317,7 +317,7 @@ Privacy  Policy  </a>
 </li>
 "<li  class=""b-copyright-link"">"
 "<a  href=""https://ark-funds.com/terms/""  target="""">"
-Terms  of  Use  </a>
+  Terms  of  Use  </a>
 </li>
 </ul>
 </div>
@@ -391,7 +391,7 @@ PROCEED
 </div>
 "<div  class=""single-zoom__caption  js-single-zoom-caption"">"
 </div>
-  </div>
+</div>
 </div>
 </div>
 </div>
@@ -749,6 +749,6 @@ PROCEED
                 return  false;
         });
 </script>
-"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vb26e4fa9e5134444860be286fd8771851679335129114""  integrity=""sha512-M3hN/6cva/SjwrOtyXeUa5IuCT0sedyfT+jK/OV+s+D0RnzrTfwjwJHhd+wYfMm9HJSrZ1IKksOdddLuN6KOzw==""  data-cf-beacon='{""rayId"":""7af091825bfb982b""","version:""2023.3.0""",b:1,"token:""12cc96a5de654cfa802d9c6998a87320""","si:100}'  crossorigin=""anonymous""></script>"
+"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vb26e4fa9e5134444860be286fd8771851679335129114""  integrity=""sha512-M3hN/6cva/SjwrOtyXeUa5IuCT0sedyfT+jK/OV+s+D0RnzrTfwjwJHhd+wYfMm9HJSrZ1IKksOdddLuN6KOzw==""  data-cf-beacon='{""rayId"":""7af4ce3bbce70cb3""","version:""2023.3.0""",b:1,"token:""12cc96a5de654cfa802d9c6998a87320""","si:100}'  crossorigin=""anonymous""></script>"
 </body>
 </html>
