@@ -344,7 +344,7 @@ Terms  of  Use  </a>
 "<p  class=""js-confirm-link-text""  data-confirm=""By  clicking  below  you  acknowledge  that  you  are  navigating  away  from  ark-funds.com  and  will  be  connected  to  ark-invest.com  "
 ARK  Investment  Management  LLC  manages  both  web  domains.  
 Please  take  note  of  ARK’s  privacy  policy,  terms  of  use,"  and  disclosures  that  may  vary  between  sites.""></p>"
-"<p  class=""js-confirm-link-url""  data-confirm=""https://ark-invest.com""></p>"
+"  <p  class=""js-confirm-link-url""  data-confirm=""https://ark-invest.com""></p>"
 "<p  class=""js-confirm-ex-link-title""  data-confirm=""You  are  leaving  ark-funds.com""></p>"
 "<p  class=""js-confirm-ex-link-text""  data-confirm=""By  clicking  below  you  acknowledge  that  you  are  navigating  away  from  ark-funds.com.  "
 Please  take  note  of  ARK’s  privacy  policy,  terms  of  use,"  and  disclosures  that  are  not  applicable  for  this  site.""></p>"
@@ -749,6 +749,6 @@ PROCEED
                 return  false;
         });
 </script>
-"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vb26e4fa9e5134444860be286fd8771851679335129114""  integrity=""sha512-M3hN/6cva/SjwrOtyXeUa5IuCT0sedyfT+jK/OV+s+D0RnzrTfwjwJHhd+wYfMm9HJSrZ1IKksOdddLuN6KOzw==""  data-cf-beacon='{""rayId"":""7b117fd55bb69c2b""","version:""2023.3.0""",b:1,"token:""12cc96a5de654cfa802d9c6998a87320""","si:100}'  crossorigin=""anonymous""></script>"
+"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vb26e4fa9e5134444860be286fd8771851679335129114""  integrity=""sha512-M3hN/6cva/SjwrOtyXeUa5IuCT0sedyfT+jK/OV+s+D0RnzrTfwjwJHhd+wYfMm9HJSrZ1IKksOdddLuN6KOzw==""  data-cf-beacon='{""rayId"":""7b15b30d698e2fe4""","version:""2023.3.0""",b:1,"token:""12cc96a5de654cfa802d9c6998a87320""","si:100}'  crossorigin=""anonymous""></script>"
 </body>
 </html>
