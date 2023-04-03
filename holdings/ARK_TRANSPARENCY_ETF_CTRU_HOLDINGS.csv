@@ -229,7 +229,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 "<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
 "<a  href=""https://ark-funds.com/about/"">About  ARK</a>"
 </li>
-"<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
+"  <li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
 "<a  href=""https://ark-funds.com/our-etfs/"">Our  ETFs</a>"
 </li>
 "<li  class=""col-xl-4  col-lg-4  col-md-4  col-sm-12"">"
@@ -276,7 +276,7 @@ body{--wp--preset--color--black:  #000000;--wp--preset--color--cyan-bluish-gray:
 "<li  id=""menu-item-2670""  class=""menu-item  menu-item-type-post_type  menu-item-object-funds  menu-item-2670""><a  href=""https://ark-funds.com/funds/arkx/"">ARKX</a></li>"
 </ul>  </div>
 "<div  class=""b-footer-item"">"
-"<div  class=""b-footer-item__top"">Index  ETFs</div>"
+"  <div  class=""b-footer-item__top"">Index  ETFs</div>"
 "<ul  id=""menu-index-etfs""  class=""""><li  id=""menu-item-2611""  class=""menu-item  menu-item-type-post_type  menu-item-object-funds  menu-item-2611""><a  href=""https://ark-funds.com/funds/izrl/"">IZRL</a></li>"
 "<li  id=""menu-item-2612""  class=""menu-item  menu-item-type-post_type  menu-item-object-funds  menu-item-2612""><a  href=""https://ark-funds.com/funds/prnt/"">PRNT</a></li>"
 "<li  id=""menu-item-4319""  class=""menu-item  menu-item-type-custom  menu-item-object-custom  menu-item-has-children  menu-item-4319""><a  href=""#"">Other  funds</a>"
@@ -313,7 +313,7 @@ ARK  ETF  Trust  ©  2021  -  2026
 "<ul  class=""b-copyright-links"">"
 "<li  class=""b-copyright-link"">"
 "<a  href=""https://ark-funds.com/privacy/""  target="""">"
-Privacy  Policy  </a>
+  Privacy  Policy  </a>
 </li>
 "<li  class=""b-copyright-link"">"
 "<a  href=""https://ark-funds.com/terms/""  target="""">"
@@ -391,7 +391,7 @@ PROCEED
 </div>
 "<div  class=""single-zoom__caption  js-single-zoom-caption"">"
 </div>
-  </div>
+</div>
 </div>
 </div>
 </div>
@@ -749,6 +749,6 @@ PROCEED
                 return  false;
         });
 </script>
-"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vb26e4fa9e5134444860be286fd8771851679335129114""  integrity=""sha512-M3hN/6cva/SjwrOtyXeUa5IuCT0sedyfT+jK/OV+s+D0RnzrTfwjwJHhd+wYfMm9HJSrZ1IKksOdddLuN6KOzw==""  data-cf-beacon='{""rayId"":""7b19bd5668d005f8""","version:""2023.3.0""",b:1,"token:""12cc96a5de654cfa802d9c6998a87320""","si:100}'  crossorigin=""anonymous""></script>"
+"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/vb26e4fa9e5134444860be286fd8771851679335129114""  integrity=""sha512-M3hN/6cva/SjwrOtyXeUa5IuCT0sedyfT+jK/OV+s+D0RnzrTfwjwJHhd+wYfMm9HJSrZ1IKksOdddLuN6KOzw==""  data-cf-beacon='{""rayId"":""7b1ded7e68972cc4""","version:""2023.3.0""",b:1,"token:""12cc96a5de654cfa802d9c6998a87320""","si:100}'  crossorigin=""anonymous""></script>"
 </body>
 </html>
