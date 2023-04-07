@@ -391,7 +391,7 @@ PROCEED
 </div>
 "<div  class=""single-zoom__caption  js-single-zoom-caption"">"
 </div>
-  </div>
+</div>
 </div>
 </div>
 </div>
@@ -749,6 +749,6 @@ PROCEED
                 return  false;
         });
 </script>
-"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/v2b4487d741ca48dcbadcaf954e159fc61680799950996""  integrity=""sha512-D/jdE0CypeVxFadTejKGTzmwyV10c1pxZk/AqjJuZbaJwGMyNHY3q/mTPWqMUnFACfCTunhZUVcd4cV78dK1pQ==""  data-cf-beacon='{""rayId"":""7b3ee3e549168233""","version:""2023.3.0""",b:1,"token:""12cc96a5de654cfa802d9c6998a87320""","si:100}'  crossorigin=""anonymous""></script>"
+"<script  defer  src=""https://static.cloudflareinsights.com/beacon.min.js/v2b4487d741ca48dcbadcaf954e159fc61680799950996""  integrity=""sha512-D/jdE0CypeVxFadTejKGTzmwyV10c1pxZk/AqjJuZbaJwGMyNHY3q/mTPWqMUnFACfCTunhZUVcd4cV78dK1pQ==""  data-cf-beacon='{""rayId"":""7b42f179f9a6ea88""","version:""2023.3.0""",b:1,"token:""12cc96a5de654cfa802d9c6998a87320""","si:100}'  crossorigin=""anonymous""></script>"
 </body>
 </html>
