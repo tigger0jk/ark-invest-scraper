@@ -1,36 +1,37 @@
 date,fund,company,ticker,cusip,shares,market  value  ($),weight  (%)
-07/25/2023,ARKW,COINBASE  GLOBAL  INC  -CLASS  A,COIN,19260Q107,"1,610,538","$159,201,681.30",10.21%
-07/25/2023,ARKW,BLOCK  INC,SQ,852234103,"1,523,018","$117,485,608.52",7.54%
-07/25/2023,ARKW,ROKU  INC,ROKU,77543R102,"1,588,842","$114,174,186.12",7.33%
-07/25/2023,ARKW,GRAYSCALE  BITCOIN  TRUST  BTC,GBTC,389637109,"5,534,430","$106,261,056.00",6.82%
-07/25/2023,ARKW,TESLA  INC,TSLA,88160R101,"367,151","$98,785,648.06",6.34%
-07/25/2023,ARKW,ZOOM  VIDEO  COMMUNICATIONS-A,ZM,98980L101,"1,240,281","$86,211,932.31",5.53%
-07/25/2023,ARKW,UNITY  SOFTWARE  INC,U,91332U101,"1,937,413","$84,374,336.15",5.41%
-07/25/2023,ARKW,ROBINHOOD  MARKETS  INC  -  A,HOOD,770700102,"5,876,323","$74,864,355.02",4.80%
-07/25/2023,ARKW,SHOPIFY  INC  -  CLASS  A,SHOP,82509L107,"1,115,763","$73,830,037.71",4.74%
-07/25/2023,ARKW,UIPATH  INC  -  CLASS  A,PATH,90364P105,"4,246,931","$72,197,827.00",4.63%
-07/25/2023,ARKW,DRAFTKINGS  INC-CL  A,DKNG  UW,26142V105,"2,264,277","$69,309,518.97",4.45%
-07/25/2023,ARKW,ROBLOX  CORP  -CLASS  A,RBLX,771049103,"1,502,003","$59,404,218.65",3.81%
-07/25/2023,ARKW,TWILIO  INC  -  A,TWLO,90138F102,"946,100","$58,043,235.00",3.72%
-07/25/2023,ARKW,TELADOC  HEALTH  INC,TDOC,87918A105,"1,912,417","$44,693,185.29",2.87%
-07/25/2023,ARKW,GENIUS  SPORTS  LTD,GENI,G3934V109,"5,421,446","$42,016,206.50",2.70%
-07/25/2023,ARKW,PAGERDUTY  INC,PD,69553P100,"1,485,310","$35,424,643.50",2.27%
-07/25/2023,ARKW,CLOUDFLARE  INC  -  CLASS  A,NET,18915M107,"426,768","$27,906,359.52",1.79%
-07/25/2023,ARKW,ADVANCED  MICRO  DEVICES,AMD,007903107,"216,645","$23,963,103.45",1.54%
-07/25/2023,ARKW,VERACYTE  INC,VCYT,92337F107,"773,888","$21,312,875.52",1.37%
-07/25/2023,ARKW,NEXTDOOR  HOLDINGS  INC,KIND,65345M108,"7,264,390","$20,630,867.60",1.32%
-07/25/2023,ARKW,VUZIX  CORP,VUZI,92921W300,"3,668,409","$18,928,990.44",1.21%
-07/25/2023,ARKW,CROWDSTRIKE  HOLDINGS  INC  -  A,CRWD,22788C105,"123,544","$18,499,478.56",1.19%
-07/25/2023,ARKW,ADYEN  NV-UNSPON  ADR,ADYEY,00783V104,"1,009,137","$17,518,618.32",1.12%
-07/25/2023,ARKW,NVIDIA  CORP,NVDA,67066G104,"36,566","$16,312,823.92",1.05%
-07/25/2023,ARKW,MERCADOLIBRE  INC,MELI,58733R102,"13,694","$16,411,300.42",1.05%
-07/25/2023,ARKW,PALANTIR  TECHNOLOGIES  INC-A,PLTR,69608A108,"870,025","$14,198,808.00",0.91%
-07/25/2023,ARKW,META  PLATFORMS  INC-CLASS  A,META,30303M102,"46,182","$13,467,133.02",0.86%
-07/25/2023,ARKW,MICROSOFT  CORP,MSFT,594918104,"37,825","$13,053,785.75",0.84%
-07/25/2023,ARKW,NU  HOLDINGS  LTD/CAYMAN  ISL-A,NU  UN,G6683N103,"1,459,287","$11,469,995.82",0.74%
-07/25/2023,ARKW,TRADE  DESK  INC/THE  -CLASS  A,TTD,88339J105,"135,435","$11,115,150.45",0.71%
-07/25/2023,ARKW,PURE  STORAGE  INC  -  CLASS  A,PSTG,74624M102,"187,198","$7,092,932.22",0.46%
-07/25/2023,ARKW,2U  INC,TWOU,90214J101,"1,097,765","$4,347,149.40",0.28%
-07/25/2023,ARKW,TAIWAN  SEMICONDUCTOR-SP  ADR,TSM,874039100,"34,813","$3,420,377.25",0.22%
-07/25/2023,ARKW,GOLDMAN  FS  TRSY  OBLIG  INST  468,,X9USDGSFT,"2,632,256","$2,632,255.98",0.17%
+07/26/2023,ARKW,COINBASE  GLOBAL  INC  -CLASS  A,COIN,19260Q107,"1,553,590","$151,754,671.20",9.79%
+07/26/2023,ARKW,BLOCK  INC,SQ,852234103,"1,519,922","$116,836,404.14",7.53%
+07/26/2023,ARKW,ROKU  INC,ROKU,77543R102,"1,585,613","$111,627,155.20",7.20%
+07/26/2023,ARKW,GRAYSCALE  BITCOIN  TRUST  BTC,GBTC,389637109,"5,523,181","$105,879,379.77",6.83%
+07/26/2023,ARKW,TESLA  INC,TSLA,88160R101,"366,405","$97,199,918.40",6.27%
+07/26/2023,ARKW,ZOOM  VIDEO  COMMUNICATIONS-A,ZM,98980L101,"1,237,760","$85,813,900.80",5.53%
+07/26/2023,ARKW,UNITY  SOFTWARE  INC,U,91332U101,"1,933,475","$83,526,120.00",5.39%
+07/26/2023,ARKW,ROBINHOOD  MARKETS  INC  -  A,HOOD,770700102,"5,864,379","$73,539,312.66",4.74%
+07/26/2023,ARKW,SHOPIFY  INC  -  CLASS  A,SHOP,82509L107,"1,113,495","$72,366,040.05",4.67%
+07/26/2023,ARKW,UIPATH  INC  -  CLASS  A,PATH,90364P105,"4,238,299","$72,051,083.00",4.65%
+07/26/2023,ARKW,DRAFTKINGS  INC-CL  A,DKNG  UW,26142V105,"2,259,674","$70,004,700.52",4.51%
+07/26/2023,ARKW,ROBLOX  CORP  -CLASS  A,RBLX,771049103,"1,498,950","$59,448,357.00",3.83%
+07/26/2023,ARKW,TWILIO  INC  -  A,TWLO,90138F102,"944,177","$57,037,732.57",3.68%
+07/26/2023,ARKW,TELADOC  HEALTH  INC,TDOC,87918A105,"1,908,530","$43,476,313.40",2.80%
+07/26/2023,ARKW,GENIUS  SPORTS  LTD,GENI,G3934V109,"5,410,426","$41,768,488.72",2.69%
+07/26/2023,ARKW,PAGERDUTY  INC,PD,69553P100,"1,482,291","$36,197,546.22",2.33%
+07/26/2023,ARKW,CLOUDFLARE  INC  -  CLASS  A,NET,18915M107,"425,901","$28,573,698.09",1.84%
+07/26/2023,ARKW,ADVANCED  MICRO  DEVICES,AMD,007903107,"216,205","$24,431,165.00",1.58%
+07/26/2023,ARKW,VERACYTE  INC,VCYT,92337F107,"772,315","$22,034,146.95",1.42%
+07/26/2023,ARKW,NEXTDOOR  HOLDINGS  INC,KIND,65345M108,"7,249,624","$20,298,947.20",1.31%
+07/26/2023,ARKW,VUZIX  CORP,VUZI,92921W300,"3,660,953","$19,110,174.66",1.23%
+07/26/2023,ARKW,CROWDSTRIKE  HOLDINGS  INC  -  A,CRWD,22788C105,"123,293","$18,609,845.42",1.20%
+07/26/2023,ARKW,ADYEN  NV-UNSPON  ADR,ADYEY,00783V104,"1,007,086","$17,251,383.18",1.11%
+07/26/2023,ARKW,NVIDIA  CORP,NVDA,67066G104,"36,492","$16,669,180.68",1.08%
+07/26/2023,ARKW,MERCADOLIBRE  INC,MELI,58733R102,"13,666","$16,151,025.44",1.04%
+07/26/2023,ARKW,PALANTIR  TECHNOLOGIES  INC-A,PLTR,69608A108,"868,256","$14,369,636.80",0.93%
+07/26/2023,ARKW,META  PLATFORMS  INC-CLASS  A,META,30303M102,"46,088","$13,571,533.36",0.88%
+07/26/2023,ARKW,MICROSOFT  CORP,MSFT,594918104,"37,748","$13,248,793.04",0.85%
+07/26/2023,ARKW,NU  HOLDINGS  LTD/CAYMAN  ISL-A,NU  UN,G6683N103,"1,456,321","$11,417,556.64",0.74%
+07/26/2023,ARKW,TRADE  DESK  INC/THE  -CLASS  A,TTD,88339J105,"135,160","$11,249,366.80",0.73%
+07/26/2023,ARKW,SPOTIFY  TECHNOLOGY  SA,SPOT,L8681T102,"54,143","$7,600,594.34",0.49%
+07/26/2023,ARKW,PURE  STORAGE  INC  -  CLASS  A,PSTG,74624M102,"186,817","$7,235,422.41",0.47%
+07/26/2023,ARKW,2U  INC,TWOU,90214J101,"1,095,534","$4,130,163.18",0.27%
+07/26/2023,ARKW,TAIWAN  SEMICONDUCTOR-SP  ADR,TSM,874039100,"34,742","$3,485,317.44",0.22%
+07/26/2023,ARKW,GOLDMAN  FS  TRSY  OBLIG  INST  468,,X9USDGSFT,"2,632,256","$2,632,255.98",0.17%
 "The  principal  risks  of  investing  in  ARK  ETFs  include  equity,  market,  management  and  non-diversification  risks,  as  well  as  fluctuations  in  market  value  and  net  asset  value  ('NAV').  Investors  should  carefully  consider  the  investment  objectives  and  risks  as  well  as  charges  and  expenses  of  an  ETF  before  investing.  This  and  other  information  are  contained  in  each  ETF's  prospectus,  which  may  be  obtained  by  contacting  the  ETF's  transfer  agent  The  Bank  of  New  York  Mellon  or  by  clicking  here.  Please  read  the  prospectus  carefully  before  you  invest.  The  market  price  of  ETF  shares  may  differ  significantly  from  their  NAV  during  periods  of  market  volatility.  ETF  shares  may  only  be  redeemed  directly  with  the  ETF  at  NAV  by  Authorized  Participants,  in  very  large  creation  units.  Holdings  are  subject  to  change  without  notice  and  are  not  a  recommendation  to  buy  or  sell  any  security.  There  can  be  no  guarantee  that  an  active  trading  market  for  ETF  shares  will  develop  or  be  maintained,  or  that  their  listing  will  continue  or  remain  unchanged.  Buying  or  selling  ETF  shares  on  an  exchange  may  require  the  payment  of  brokerage  commissions  and  frequent  trading  may  incur  brokerage  costs  that  detract  significantly  from  investment  returns.  Copyright  2023,  ARK  Investment  Management  LLC.  All  content  is  original  and  has  been  researched  and  produced  by  ARK  Investment  Management  LLC  unless  otherwise  stated.  No  part  of  this  content  may  be  reproduced  in  any  form,  or  referred  to  in  any  other  publication,  without  the  express  written  permission  of  ARK  Investment  Management  LLC.  All  statements  made  regarding  companies,  securities  or  other  financial  information  on  this  site  or  any  sites  or  articles  relating  to  ARK  Investment  Management  LLC  are  strictly  beliefs  and  points  of  view  held  by  ARK  Investment  Management  and  are  subject  to  change  without  notice.  Information  contained  herein  has  been  obtained  from  sources  believed  to  be  reliable,  but  not  guaranteed.  This  material  has  been  distributed  for  informational  purposes  only  and  should  not  be  considered  as  investment  advice  or  a  recommendation  of  any  particular  security,  strategy  or  investment  product.",,,,,,,
