@@ -1,33 +1,33 @@
 date,fund,company,ticker,cusip,shares,market  value  ($),weight  (%)
-09/22/2023,ARKF,COINBASE  GLOBAL  INC  -CLASS  A,COIN,19260Q107,"1,127,415","$83,902,224.30",10.25%
-09/22/2023,ARKF,SHOPIFY  INC  -  CLASS  A,SHOP,82509L107,"1,332,881","$71,575,709.70",8.74%
-09/22/2023,ARKF,BLOCK  INC,SQ,852234103,"1,282,180","$58,493,051.60",7.15%
-09/22/2023,ARKF,DRAFTKINGS  INC-CL  A,DKNG  UW,26142V105,"2,005,856","$57,588,125.76",7.04%
-09/22/2023,ARKF,UIPATH  INC  -  CLASS  A,PATH,90364P105,"3,184,872","$51,977,111.04",6.35%
-09/22/2023,ARKF,TWILIO  INC  -  A,TWLO,90138F102,"824,445","$48,007,432.35",5.87%
-09/22/2023,ARKF,ROBINHOOD  MARKETS  INC  -  A,HOOD,770700102,"4,280,530","$42,077,609.90",5.14%
-09/22/2023,ARKF,GLOBAL-E  ONLINE  LTD,GLBE,M5216V106,"1,054,467","$38,572,402.86",4.71%
-09/22/2023,ARKF,INTUIT  INC,INTU,461202103,"65,740","$33,157,283.80",4.05%
-09/22/2023,ARKF,MERCADOLIBRE  INC,MELI,58733R102,"25,539","$33,029,077.92",4.04%
-09/22/2023,ARKF,DISCOVERY  LTD,DSY,6177878,"3,950,426","$30,664,878.76",3.75%
-09/22/2023,ARKF,BILL  HOLDINGS  INC,BILL,090043100,"265,958","$26,651,651.18",3.26%
-09/22/2023,ARKF,ADYEN  NV,ADYEN,BZ1HM42,"39,231","$26,378,982.44",3.22%
-09/22/2023,ARKF,ROKU  INC,ROKU,77543R102,"341,745","$24,479,194.35",2.99%
-09/22/2023,ARKF,STONECO  LTD-A,STNE,G85158106,"2,157,370","$22,436,648.00",2.74%
-09/22/2023,ARKF,TOAST  INC-CLASS  A,TOST,888787108,"1,158,576","$21,491,584.80",2.63%
-09/22/2023,ARKF,TELADOC  HEALTH  INC,TDOC,87918A105,"961,989","$18,576,007.59",2.27%
-09/22/2023,ARKF,ROBLOX  CORP  -CLASS  A,RBLX,771049103,"655,782","$16,597,842.42",2.03%
-09/22/2023,ARKF,NU  HOLDINGS  LTD/CAYMAN  ISL-A,NU  UN,G6683N103,"2,411,130","$16,588,574.40",2.03%
-09/22/2023,ARKF,JSC  KASPI.KZ  GDR-REG  S,KSPI,BMXZ8G7,"173,716","$16,520,391.60",2.02%
-09/22/2023,ARKF,PINTEREST  INC-  CLASS  A,PINS,72352L106,"554,284","$14,660,811.80",1.79%
-09/22/2023,ARKF,Z  HOLDINGS  CORP,4689,6084848,"3,970,214","$11,426,489.25",1.40%
-09/22/2023,ARKF,NVIDIA  CORP,NVDA,67066G104,"27,557","$11,303,054.69",1.38%
-09/22/2023,ARKF,AVIDXCHANGE  HOLDINGS  INC,AVDX,05368X102,"1,002,714","$9,184,860.24",1.12%
-09/22/2023,ARKF,PALANTIR  TECHNOLOGIES  INC-A,PLTR,69608A108,"592,979","$8,301,706.00",1.01%
-09/22/2023,ARKF,INTERCONTINENTAL  EXCHANGE  IN,ICE,45866F104,"70,604","$7,937,301.68",0.97%
-09/22/2023,ARKF,SOFI  TECHNOLOGIES  INC,SOFI,83406F102,"808,029","$6,423,830.55",0.78%
-09/22/2023,ARKF,CROWDSTRIKE  HOLDINGS  INC  -  A,CRWD,22788C105,"27,875","$4,530,523.75",0.55%
-09/22/2023,ARKF,ZILLOW  GROUP  INC  -  C,Z,98954M200,"93,622","$4,309,420.66",0.53%
-09/22/2023,ARKF,GOLDMAN  FS  TRSY  OBLIG  INST  468,,X9USDGSFT,"1,628,681","$1,628,681.32",0.20%
-09/22/2023,ARKF,TCS  GROUP  HOLDING-GDR  REG  S,TCS  LI,87238U203,"607,059","$6,070.59",0.00%
+09/25/2023,ARKF,COINBASE  GLOBAL  INC  -CLASS  A,COIN,19260Q107,"1,127,415","$80,001,368.40",9.87%
+09/25/2023,ARKF,SHOPIFY  INC  -  CLASS  A,SHOP,82509L107,"1,332,881","$70,749,323.48",8.73%
+09/25/2023,ARKF,BLOCK  INC,SQ,852234103,"1,282,180","$57,326,267.80",7.07%
+09/25/2023,ARKF,DRAFTKINGS  INC-CL  A,DKNG  UW,26142V105,"2,005,856","$55,682,562.56",6.87%
+09/25/2023,ARKF,UIPATH  INC  -  CLASS  A,PATH,90364P105,"3,184,872","$51,881,564.88",6.40%
+09/25/2023,ARKF,TWILIO  INC  -  A,TWLO,90138F102,"824,445","$48,881,344.05",6.03%
+09/25/2023,ARKF,ROBINHOOD  MARKETS  INC  -  A,HOOD,770700102,"4,280,530","$41,521,141.00",5.12%
+09/25/2023,ARKF,GLOBAL-E  ONLINE  LTD,GLBE,M5216V106,"1,054,467","$39,141,815.04",4.83%
+09/25/2023,ARKF,INTUIT  INC,INTU,461202103,"65,740","$33,433,391.80",4.12%
+09/25/2023,ARKF,MERCADOLIBRE  INC,MELI,58733R102,"25,539","$32,612,281.44",4.02%
+09/25/2023,ARKF,DISCOVERY  LTD,DSY,6177878,"3,950,426","$30,790,038.52",3.80%
+09/25/2023,ARKF,ADYEN  NV,ADYEN,BZ1HM42,"39,231","$27,151,634.27",3.35%
+09/25/2023,ARKF,BILL  HOLDINGS  INC,BILL,090043100,"265,958","$26,651,651.18",3.29%
+09/25/2023,ARKF,ROKU  INC,ROKU,77543R102,"341,745","$23,672,676.15",2.92%
+09/25/2023,ARKF,STONECO  LTD-A,STNE,G85158106,"2,157,370","$22,954,416.80",2.83%
+09/25/2023,ARKF,TOAST  INC-CLASS  A,TOST,888787108,"1,158,576","$21,561,099.36",2.66%
+09/25/2023,ARKF,TELADOC  HEALTH  INC,TDOC,87918A105,"961,989","$18,066,153.42",2.23%
+09/25/2023,ARKF,JSC  KASPI.KZ  GDR-REG  S,KSPI,BMXZ8G7,"173,716","$16,676,736.00",2.06%
+09/25/2023,ARKF,ROBLOX  CORP  -CLASS  A,RBLX,771049103,"655,782","$16,650,304.98",2.05%
+09/25/2023,ARKF,NU  HOLDINGS  LTD/CAYMAN  ISL-A,NU  UN,G6683N103,"2,411,130","$16,516,240.50",2.04%
+09/25/2023,ARKF,PINTEREST  INC-  CLASS  A,PINS,72352L106,"554,284","$14,810,468.48",1.83%
+09/25/2023,ARKF,NVIDIA  CORP,NVDA,67066G104,"27,557","$11,466,467.70",1.41%
+09/25/2023,ARKF,Z  HOLDINGS  CORP,4689,6084848,"3,970,214","$11,023,912.71",1.36%
+09/25/2023,ARKF,AVIDXCHANGE  HOLDINGS  INC,AVDX,05368X102,"1,002,714","$9,144,751.68",1.13%
+09/25/2023,ARKF,PALANTIR  TECHNOLOGIES  INC-A,PLTR,69608A108,"592,979","$8,378,793.27",1.03%
+09/25/2023,ARKF,INTERCONTINENTAL  EXCHANGE  IN,ICE,45866F104,"70,604","$7,778,442.68",0.96%
+09/25/2023,ARKF,SOFI  TECHNOLOGIES  INC,SOFI,83406F102,"808,029","$6,092,538.66",0.75%
+09/25/2023,ARKF,CROWDSTRIKE  HOLDINGS  INC  -  A,CRWD,22788C105,"27,875","$4,531,638.75",0.56%
+09/25/2023,ARKF,ZILLOW  GROUP  INC  -  C,Z,98954M200,"93,622","$4,233,586.84",0.52%
+09/25/2023,ARKF,GOLDMAN  FS  TRSY  OBLIG  INST  468,,X9USDGSFT,"1,212,372","$1,212,372.02",0.15%
+09/25/2023,ARKF,TCS  GROUP  HOLDING-GDR  REG  S,TCS  LI,87238U203,"607,059","$6,070.59",0.00%
 "The  principal  risks  of  investing  in  ARK  ETFs  include  equity,  market,  management  and  non-diversification  risks,  as  well  as  fluctuations  in  market  value  and  net  asset  value  ('NAV').  Investors  should  carefully  consider  the  investment  objectives  and  risks  as  well  as  charges  and  expenses  of  an  ETF  before  investing.  This  and  other  information  are  contained  in  each  ETF's  prospectus,  which  may  be  obtained  by  contacting  the  ETF's  transfer  agent  The  Bank  of  New  York  Mellon  or  by  clicking  here.  Please  read  the  prospectus  carefully  before  you  invest.  The  market  price  of  ETF  shares  may  differ  significantly  from  their  NAV  during  periods  of  market  volatility.  ETF  shares  may  only  be  redeemed  directly  with  the  ETF  at  NAV  by  Authorized  Participants,  in  very  large  creation  units.  Holdings  are  subject  to  change  without  notice  and  are  not  a  recommendation  to  buy  or  sell  any  security.  There  can  be  no  guarantee  that  an  active  trading  market  for  ETF  shares  will  develop  or  be  maintained,  or  that  their  listing  will  continue  or  remain  unchanged.  Buying  or  selling  ETF  shares  on  an  exchange  may  require  the  payment  of  brokerage  commissions  and  frequent  trading  may  incur  brokerage  costs  that  detract  significantly  from  investment  returns.  Copyright  2023,  ARK  Investment  Management  LLC.  All  content  is  original  and  has  been  researched  and  produced  by  ARK  Investment  Management  LLC  unless  otherwise  stated.  No  part  of  this  content  may  be  reproduced  in  any  form,  or  referred  to  in  any  other  publication,  without  the  express  written  permission  of  ARK  Investment  Management  LLC.  All  statements  made  regarding  companies,  securities  or  other  financial  information  on  this  site  or  any  sites  or  articles  relating  to  ARK  Investment  Management  LLC  are  strictly  beliefs  and  points  of  view  held  by  ARK  Investment  Management  and  are  subject  to  change  without  notice.  Information  contained  herein  has  been  obtained  from  sources  believed  to  be  reliable,  but  not  guaranteed.  This  material  has  been  distributed  for  informational  purposes  only  and  should  not  be  considered  as  investment  advice  or  a  recommendation  of  any  particular  security,  strategy  or  investment  product.",,,,,,,
