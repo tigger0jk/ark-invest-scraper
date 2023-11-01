@@ -1,34 +1,34 @@
 date,fund,company,ticker,cusip,shares,market  value  ($),weight  (%)
-10/31/2023,ARKK,COINBASE  GLOBAL  INC  -CLASS  A,COIN,19260Q107,"7,070,955","$520,422,288.00",8.84%
-10/31/2023,ARKK,TESLA  INC,TSLA,88160R101,"2,601,074","$513,347,964.64",8.72%
-10/31/2023,ARKK,ZOOM  VIDEO  COMMUNICATIONS-A,ZM,98980L101,"7,983,059","$478,983,540.00",8.14%
-10/31/2023,ARKK,ROKU  INC,ROKU,77543R102,"7,873,947","$443,696,913.45",7.54%
-10/31/2023,ARKK,UIPATH  INC  -  CLASS  A,PATH,90364P105,"27,356,865","$412,541,524.20",7.01%
-10/31/2023,ARKK,BLOCK  INC,SQ,852234103,"7,507,431","$294,441,443.82",5.00%
-10/31/2023,ARKK,ROBLOX  CORP  -CLASS  A,RBLX,771049103,"8,474,280","$268,973,647.20",4.57%
-10/31/2023,ARKK,DRAFTKINGS  INC-CL  A,DKNG  UW,26142V105,"9,182,455","$247,191,688.60",4.20%
-10/31/2023,ARKK,TWILIO  INC  -  A,TWLO,90138F102,"4,780,944","$241,007,387.04",4.10%
-10/31/2023,ARKK,UNITY  SOFTWARE  INC,U,91332U101,"8,193,840","$205,501,507.20",3.49%
-10/31/2023,ARKK,CRISPR  THERAPEUTICS  AG,CRSP,H17182108,"5,214,431","$202,997,798.83",3.45%
-10/31/2023,ARKK,EXACT  SCIENCES  CORP,EXAS,30063P105,"3,266,190","$192,901,181.40",3.28%
-10/31/2023,ARKK,TELADOC  HEALTH  INC,TDOC,87918A105,"11,777,531","$190,207,125.65",3.23%
-10/31/2023,ARKK,INTELLIA  THERAPEUTICS  INC,NTLA,45826J105,"7,674,018","$182,871,848.94",3.11%
-10/31/2023,ARKK,ROBINHOOD  MARKETS  INC  -  A,HOOD,770700102,"20,163,733","$183,086,695.64",3.11%
-10/31/2023,ARKK,SHOPIFY  INC  -  CLASS  A,SHOP,82509L107,"3,824,860","$179,462,431.20",3.05%
-10/31/2023,ARKK,PAGERDUTY  INC,PD,69553P100,"8,480,238","$169,265,550.48",2.88%
-10/31/2023,ARKK,GINKGO  BIOWORKS  HOLDINGS  INC,DNA,37611X100,"120,581,275","$160,373,095.75",2.73%
-10/31/2023,ARKK,PACIFIC  BIOSCIENCES  OF  CALIF,PACB,69404D108,"17,509,175","$124,490,234.25",2.12%
-10/31/2023,ARKK,BEAM  THERAPEUTICS  INC,BEAM,07373V105,"6,191,870","$118,326,635.70",2.01%
-10/31/2023,ARKK,PALANTIR  TECHNOLOGIES  INC-A,PLTR,69608A108,"6,561,875","$96,393,943.75",1.64%
-10/31/2023,ARKK,VERACYTE  INC,VCYT,92337F107,"4,227,331","$85,476,632.82",1.45%
-10/31/2023,ARKK,10X  GENOMICS  INC-CLASS  A,TXG,88025U109,"2,167,013","$77,470,714.75",1.32%
-10/31/2023,ARKK,ARCHER  AVIATION  INC-A,ACHR,03945R102,"13,499,428","$63,312,317.32",1.08%
-10/31/2023,ARKK,META  PLATFORMS  INC-CLASS  A,META,30303M102,"207,700","$62,862,482.00",1.07%
-10/31/2023,ARKK,TWIST  BIOSCIENCE  CORP,TWST,90184D100,"3,625,525","$54,672,917.00",0.93%
-10/31/2023,ARKK,TERADYNE  INC,TER,880770102,"532,808","$44,468,155.68",0.76%
-10/31/2023,ARKK,VERVE  THERAPEUTICS  INC,VERV,92539P101,"2,636,392","$24,808,448.72",0.42%
-10/31/2023,ARKK,CERUS  CORP,CERS,157085101,"12,462,581","$16,325,981.11",0.28%
-10/31/2023,ARKK,2U  INC,TWOU,90214J101,"6,487,010","$13,492,980.80",0.23%
-10/31/2023,ARKK,INVITAE  CORP,NVTA,46185L103,"18,849,785","$11,460,669.28",0.19%
-10/31/2023,ARKK,GOLDMAN  FS  TRSY  OBLIG  INST  468,,X9USDGSFT,"3,376,157","$3,376,156.83",0.06%
+11/01/2023,ARKK,COINBASE  GLOBAL  INC  -CLASS  A,COIN,19260Q107,"7,095,687","$547,219,381.44",9.07%
+11/01/2023,ARKK,TESLA  INC,TSLA,88160R101,"2,610,170","$524,226,542.80",8.68%
+11/01/2023,ARKK,ZOOM  VIDEO  COMMUNICATIONS-A,ZM,98980L101,"8,010,983","$480,498,760.34",7.96%
+11/01/2023,ARKK,ROKU  INC,ROKU,77543R102,"7,901,499","$470,692,295.43",7.80%
+11/01/2023,ARKK,UIPATH  INC  -  CLASS  A,PATH,90364P105,"27,452,577","$426,338,520.81",7.06%
+11/01/2023,ARKK,BLOCK  INC,SQ,852234103,"7,533,699","$303,231,384.75",5.02%
+11/01/2023,ARKK,ROBLOX  CORP  -CLASS  A,RBLX,771049103,"8,503,932","$270,510,076.92",4.48%
+11/01/2023,ARKK,DRAFTKINGS  INC-CL  A,DKNG  UW,26142V105,"9,214,579","$254,506,671.98",4.22%
+11/01/2023,ARKK,TWILIO  INC  -  A,TWLO,90138F102,"4,797,672","$245,928,666.72",4.07%
+11/01/2023,ARKK,UNITY  SOFTWARE  INC,U,91332U101,"8,222,508","$208,605,027.96",3.46%
+11/01/2023,ARKK,CRISPR  THERAPEUTICS  AG,CRSP,H17182108,"5,232,671","$203,707,882.03",3.37%
+11/01/2023,ARKK,EXACT  SCIENCES  CORP,EXAS,30063P105,"3,277,614","$201,868,246.26",3.34%
+11/01/2023,ARKK,TELADOC  HEALTH  INC,TDOC,87918A105,"11,818,739","$195,481,943.06",3.24%
+11/01/2023,ARKK,INTELLIA  THERAPEUTICS  INC,NTLA,45826J105,"7,700,862","$192,906,593.10",3.20%
+11/01/2023,ARKK,ROBINHOOD  MARKETS  INC  -  A,HOOD,770700102,"20,234,281","$184,941,328.34",3.06%
+11/01/2023,ARKK,SHOPIFY  INC  -  CLASS  A,SHOP,82509L107,"3,838,240","$181,126,545.60",3.00%
+11/01/2023,ARKK,PAGERDUTY  INC,PD,69553P100,"8,509,902","$171,644,723.34",2.84%
+11/01/2023,ARKK,GINKGO  BIOWORKS  HOLDINGS  INC,DNA,37611X100,"121,003,147","$165,774,311.39",2.75%
+11/01/2023,ARKK,BEAM  THERAPEUTICS  INC,BEAM,07373V105,"6,213,530","$131,354,024.20",2.18%
+11/01/2023,ARKK,PACIFIC  BIOSCIENCES  OF  CALIF,PACB,69404D108,"17,650,671","$109,081,146.78",1.81%
+11/01/2023,ARKK,PALANTIR  TECHNOLOGIES  INC-A,PLTR,69608A108,"6,584,831","$97,455,498.80",1.61%
+11/01/2023,ARKK,VERACYTE  INC,VCYT,92337F107,"4,242,127","$87,896,871.44",1.46%
+11/01/2023,ARKK,10X  GENOMICS  INC-CLASS  A,TXG,88025U109,"2,174,597","$76,719,782.16",1.27%
+11/01/2023,ARKK,ARCHER  AVIATION  INC-A,ACHR,03945R102,"13,546,672","$64,346,692.00",1.07%
+11/01/2023,ARKK,META  PLATFORMS  INC-CLASS  A,META,30303M102,"208,432","$62,794,308.64",1.04%
+11/01/2023,ARKK,TWIST  BIOSCIENCE  CORP,TWST,90184D100,"3,638,209","$57,338,173.84",0.95%
+11/01/2023,ARKK,TERADYNE  INC,TER,880770102,"534,668","$44,521,804.36",0.74%
+11/01/2023,ARKK,VERVE  THERAPEUTICS  INC,VERV,92539P101,"2,645,620","$31,853,264.80",0.53%
+11/01/2023,ARKK,CERUS  CORP,CERS,157085101,"12,506,189","$17,508,664.60",0.29%
+11/01/2023,ARKK,2U  INC,TWOU,90214J101,"6,509,714","$13,800,593.68",0.23%
+11/01/2023,ARKK,INVITAE  CORP,NVTA,46185L103,"18,915,737","$11,457,261.90",0.19%
+11/01/2023,ARKK,GOLDMAN  FS  TRSY  OBLIG  INST  468,,X9USDGSFT,"987,204","$987,204.20",0.02%
 "The  principal  risks  of  investing  in  ARK  ETFs  include  equity,  market,  management  and  non-diversification  risks,  as  well  as  fluctuations  in  market  value  and  net  asset  value  ('NAV').  Investors  should  carefully  consider  the  investment  objectives  and  risks  as  well  as  charges  and  expenses  of  an  ETF  before  investing.  This  and  other  information  are  contained  in  each  ETF's  prospectus,  which  may  be  obtained  by  contacting  the  ETF's  transfer  agent  The  Bank  of  New  York  Mellon  or  by  clicking  here.  Please  read  the  prospectus  carefully  before  you  invest.  The  market  price  of  ETF  shares  may  differ  significantly  from  their  NAV  during  periods  of  market  volatility.  ETF  shares  may  only  be  redeemed  directly  with  the  ETF  at  NAV  by  Authorized  Participants,  in  very  large  creation  units.  Holdings  are  subject  to  change  without  notice  and  are  not  a  recommendation  to  buy  or  sell  any  security.  There  can  be  no  guarantee  that  an  active  trading  market  for  ETF  shares  will  develop  or  be  maintained,  or  that  their  listing  will  continue  or  remain  unchanged.  Buying  or  selling  ETF  shares  on  an  exchange  may  require  the  payment  of  brokerage  commissions  and  frequent  trading  may  incur  brokerage  costs  that  detract  significantly  from  investment  returns.  Copyright  2023,  ARK  Investment  Management  LLC.  All  content  is  original  and  has  been  researched  and  produced  by  ARK  Investment  Management  LLC  unless  otherwise  stated.  No  part  of  this  content  may  be  reproduced  in  any  form,  or  referred  to  in  any  other  publication,  without  the  express  written  permission  of  ARK  Investment  Management  LLC.  All  statements  made  regarding  companies,  securities  or  other  financial  information  on  this  site  or  any  sites  or  articles  relating  to  ARK  Investment  Management  LLC  are  strictly  beliefs  and  points  of  view  held  by  ARK  Investment  Management  and  are  subject  to  change  without  notice.  Information  contained  herein  has  been  obtained  from  sources  believed  to  be  reliable,  but  not  guaranteed.  This  material  has  been  distributed  for  informational  purposes  only  and  should  not  be  considered  as  investment  advice  or  a  recommendation  of  any  particular  security,  strategy  or  investment  product.",,,,,,,
