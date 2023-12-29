@@ -1,38 +1,38 @@
 date,fund,company,ticker,cusip,shares,market  value  ($),weight  (%)
-12/28/2023,ARKQ,TESLA  INC,TSLA,88160R101,"524,757","$137,192,470.08",12.81%
-12/28/2023,ARKQ,UIPATH  INC  -  CLASS  A,PATH,90364P105,"4,522,430","$115,412,413.60",10.78%
-12/28/2023,ARKQ,KRATOS  DEFENSE  &  SECURITY,KTOS,50077B207,"4,602,806","$94,863,831.66",8.86%
-12/28/2023,ARKQ,TRIMBLE  INC,TRMB,896239100,"1,368,740","$72,994,904.20",6.82%
-12/28/2023,ARKQ,TERADYNE  INC,TER,880770102,"651,884","$72,196,153.00",6.74%
-12/28/2023,ARKQ,IRIDIUM  COMMUNICATIONS  INC,IRDM,46269C102,"1,693,201","$69,218,056.88",6.47%
-12/28/2023,ARKQ,ARCHER  AVIATION  INC-A,ACHR,03945R102,"7,650,688","$48,658,375.68",4.54%
-12/28/2023,ARKQ,AEROVIRONMENT  INC,AVAV,008073108,"327,999","$42,059,311.77",3.93%
-12/28/2023,ARKQ,DEERE  &  CO,DE,244199105,"89,764","$36,052,812.96",3.37%
-12/28/2023,ARKQ,KOMATSU  LTD  -SPONS  ADR,KMTUY,500458401,"1,308,701","$33,986,964.97",3.17%
-12/28/2023,ARKQ,NVIDIA  CORP,NVDA,67066G104,"51,465","$25,432,459.05",2.38%
-12/28/2023,ARKQ,ALPHABET  INC-CL  C,GOOG,02079K107,"170,295","$24,086,524.80",2.25%
-12/28/2023,ARKQ,UNITY  SOFTWARE  INC,U,91332U101,"527,629","$22,545,587.17",2.11%
-12/28/2023,ARKQ,TAIWAN  SEMICONDUCTOR-SP  ADR,TSM,874039100,"189,964","$19,879,732.60",1.86%
-12/28/2023,ARKQ,CATERPILLAR  INC,CAT,149123101,"65,864","$19,635,375.68",1.83%
-12/28/2023,ARKQ,MAGNA  INTERNATIONAL  INC,MGA,559222401,"308,189","$18,371,146.29",1.72%
-12/28/2023,ARKQ,BLADE  AIR  MOBILITY  INC,BLDE,092667104,"4,908,062","$17,914,426.30",1.67%
-12/28/2023,ARKQ,ROCKET  LAB  USA  INC,RKLB,773122106,"3,094,003","$17,759,577.22",1.66%
-12/28/2023,ARKQ,ELBIT  SYSTEMS  LTD,ESLT,M3760D101,"77,618","$16,524,872.20",1.54%
-12/28/2023,ARKQ,ADVANCED  MICRO  DEVICES,AMD,007903107,"111,263","$16,252,186.41",1.52%
-12/28/2023,ARKQ,JOBY  AVIATION  INC,JOBY,G65163100,"2,269,030","$15,883,210.00",1.48%
-12/28/2023,ARKQ,SYNOPSYS  INC,SNPS,871607107,"29,256","$15,157,533.60",1.42%
-12/28/2023,ARKQ,ANSYS  INC,ANSS,03662Q105,"41,913","$15,042,575.70",1.41%
-12/28/2023,ARKQ,INTUITIVE  SURGICAL  INC,ISRG,46120E602,"41,789","$14,102,533.83",1.32%
-12/28/2023,ARKQ,CAMECO  CORP,CCJ,13321L108,"321,457","$14,021,954.34",1.31%
-12/28/2023,ARKQ,TELEDYNE  TECHNOLOGIES  INC,TDY,879360105,"30,335","$13,399,879.55",1.25%
-12/28/2023,ARKQ,3D  SYSTEMS  CORP,DDD,88554D205,"1,811,903","$12,067,273.98",1.13%
-12/28/2023,ARKQ,LOCKHEED  MARTIN  CORP,LMT,539830109,"22,654","$10,170,966.38",0.95%
-12/28/2023,ARKQ,BYD  CO  LTD-UNSPONSORED  ADR,BYDDY,05606L100,"176,610","$9,413,313.00",0.88%
-12/28/2023,ARKQ,MARKFORGED  HOLDING  CORP,MKFG,57064N102,"11,631,181","$9,017,654.63",0.84%
-12/28/2023,ARKQ,MATERIALISE  NV-ADR,MTLS,57667T100,"977,596","$6,559,669.16",0.61%
-12/28/2023,ARKQ,VUZIX  CORP,VUZI,92921W300,"2,440,219","$5,758,916.84",0.54%
-12/28/2023,ARKQ,VELO3D  INC,VLD,92259N104,"7,799,994","$4,921,016.21",0.46%
-12/28/2023,ARKQ,STRATASYS  LTD,SSYS,M85548101,"195,409","$2,858,833.67",0.27%
-12/28/2023,ARKQ,2U  INC,TWOU,90214J101,"674,828","$884,024.68",0.08%
-12/28/2023,ARKQ,GOLDMAN  FS  TRSY  OBLIG  INST  468,,X9USDGSFT,"298,931","$298,930.50",0.03%
+12/29/2023,ARKQ,TESLA  INC,TSLA,88160R101,"524,757","$132,857,977.26",12.45%
+12/29/2023,ARKQ,UIPATH  INC  -  CLASS  A,PATH,90364P105,"4,522,430","$115,412,413.60",10.82%
+12/29/2023,ARKQ,KRATOS  DEFENSE  &  SECURITY,KTOS,50077B207,"4,602,806","$94,771,775.54",8.88%
+12/29/2023,ARKQ,TRIMBLE  INC,TRMB,896239100,"1,368,740","$73,419,213.60",6.88%
+12/29/2023,ARKQ,TERADYNE  INC,TER,880770102,"654,015","$72,229,416.60",6.77%
+12/29/2023,ARKQ,IRIDIUM  COMMUNICATIONS  INC,IRDM,46269C102,"1,693,201","$69,861,473.26",6.55%
+12/29/2023,ARKQ,ARCHER  AVIATION  INC-A,ACHR,03945R102,"7,650,688","$47,740,293.12",4.47%
+12/29/2023,ARKQ,AEROVIRONMENT  INC,AVAV,008073108,"327,999","$41,711,632.83",3.91%
+12/29/2023,ARKQ,DEERE  &  CO,DE,244199105,"89,764","$35,839,174.64",3.36%
+12/29/2023,ARKQ,KOMATSU  LTD  -SPONS  ADR,KMTUY,500458401,"1,308,701","$34,026,226.00",3.19%
+12/29/2023,ARKQ,NVIDIA  CORP,NVDA,67066G104,"51,465","$25,486,497.30",2.39%
+12/29/2023,ARKQ,ALPHABET  INC-CL  C,GOOG,02079K107,"170,295","$24,059,277.60",2.25%
+12/29/2023,ARKQ,UNITY  SOFTWARE  INC,U,91332U101,"527,629","$22,519,205.72",2.11%
+12/29/2023,ARKQ,TAIWAN  SEMICONDUCTOR-SP  ADR,TSM,874039100,"189,964","$19,889,230.80",1.86%
+12/29/2023,ARKQ,CATERPILLAR  INC,CAT,149123101,"65,864","$19,553,704.32",1.83%
+12/29/2023,ARKQ,MAGNA  INTERNATIONAL  INC,MGA,559222401,"308,189","$18,358,818.73",1.72%
+12/29/2023,ARKQ,ROCKET  LAB  USA  INC,RKLB,773122106,"3,094,003","$17,914,277.37",1.68%
+12/29/2023,ARKQ,BLADE  AIR  MOBILITY  INC,BLDE,092667104,"4,908,062","$17,669,023.20",1.66%
+12/29/2023,ARKQ,ELBIT  SYSTEMS  LTD,ESLT,M3760D101,"77,618","$16,516,334.22",1.55%
+12/29/2023,ARKQ,ADVANCED  MICRO  DEVICES,AMD,007903107,"111,263","$16,551,483.88",1.55%
+12/29/2023,ARKQ,JOBY  AVIATION  INC,JOBY,G65163100,"2,269,030","$15,656,307.00",1.47%
+12/29/2023,ARKQ,SYNOPSYS  INC,SNPS,871607107,"29,256","$15,137,346.96",1.42%
+12/29/2023,ARKQ,ANSYS  INC,ANSS,03662Q105,"41,913","$15,166,638.18",1.42%
+12/29/2023,ARKQ,INTUITIVE  SURGICAL  INC,ISRG,46120E602,"41,789","$14,140,979.71",1.33%
+12/29/2023,ARKQ,CAMECO  CORP,CCJ,13321L108,"321,457","$13,790,505.30",1.29%
+12/29/2023,ARKQ,TELEDYNE  TECHNOLOGIES  INC,TDY,879360105,"30,335","$13,475,110.35",1.26%
+12/29/2023,ARKQ,3D  SYSTEMS  CORP,DDD,88554D205,"1,811,903","$12,031,035.92",1.13%
+12/29/2023,ARKQ,LOCKHEED  MARTIN  CORP,LMT,539830109,"22,654","$10,222,164.42",0.96%
+12/29/2023,ARKQ,BYD  CO  LTD-UNSPONSORED  ADR,BYDDY,05606L100,"176,610","$9,724,146.60",0.91%
+12/29/2023,ARKQ,MARKFORGED  HOLDING  CORP,MKFG,57064N102,"11,631,181","$9,215,384.71",0.86%
+12/29/2023,ARKQ,MATERIALISE  NV-ADR,MTLS,57667T100,"977,596","$6,579,221.08",0.62%
+12/29/2023,ARKQ,VUZIX  CORP,VUZI,92921W300,"2,440,219","$5,466,090.56",0.51%
+12/29/2023,ARKQ,GOLDMAN  FS  TRSY  OBLIG  INST  468,,X9USDGSFT,"3,680,655","$3,680,655.44",0.34%
+12/29/2023,ARKQ,VELO3D  INC,VLD,92259N104,"7,799,994","$3,264,297.49",0.31%
+12/29/2023,ARKQ,STRATASYS  LTD,SSYS,M85548101,"158,557","$2,300,662.07",0.22%
+12/29/2023,ARKQ,2U  INC,TWOU,90214J101,"674,828","$884,024.68",0.08%
 "The  principal  risks  of  investing  in  ARK  ETFs  include  equity,  market,  management  and  non-diversification  risks,  as  well  as  fluctuations  in  market  value  and  net  asset  value  ('NAV').  Investors  should  carefully  consider  the  investment  objectives  and  risks  as  well  as  charges  and  expenses  of  an  ETF  before  investing.  This  and  other  information  are  contained  in  each  ETF's  prospectus,  which  may  be  obtained  by  contacting  the  ETF's  transfer  agent  The  Bank  of  New  York  Mellon  or  by  clicking  here.  Please  read  the  prospectus  carefully  before  you  invest.  The  market  price  of  ETF  shares  may  differ  significantly  from  their  NAV  during  periods  of  market  volatility.  ETF  shares  may  only  be  redeemed  directly  with  the  ETF  at  NAV  by  Authorized  Participants,  in  very  large  creation  units.  Holdings  are  subject  to  change  without  notice  and  are  not  a  recommendation  to  buy  or  sell  any  security.  There  can  be  no  guarantee  that  an  active  trading  market  for  ETF  shares  will  develop  or  be  maintained,  or  that  their  listing  will  continue  or  remain  unchanged.  Buying  or  selling  ETF  shares  on  an  exchange  may  require  the  payment  of  brokerage  commissions  and  frequent  trading  may  incur  brokerage  costs  that  detract  significantly  from  investment  returns.  Copyright  2023,  ARK  Investment  Management  LLC.  All  content  is  original  and  has  been  researched  and  produced  by  ARK  Investment  Management  LLC  unless  otherwise  stated.  No  part  of  this  content  may  be  reproduced  in  any  form,  or  referred  to  in  any  other  publication,  without  the  express  written  permission  of  ARK  Investment  Management  LLC.  All  statements  made  regarding  companies,  securities  or  other  financial  information  on  this  site  or  any  sites  or  articles  relating  to  ARK  Investment  Management  LLC  are  strictly  beliefs  and  points  of  view  held  by  ARK  Investment  Management  and  are  subject  to  change  without  notice.  Information  contained  herein  has  been  obtained  from  sources  believed  to  be  reliable,  but  not  guaranteed.  This  material  has  been  distributed  for  informational  purposes  only  and  should  not  be  considered  as  investment  advice  or  a  recommendation  of  any  particular  security,  strategy  or  investment  product.",,,,,,,
