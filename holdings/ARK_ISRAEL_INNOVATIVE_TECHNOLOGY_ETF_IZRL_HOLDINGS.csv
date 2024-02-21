@@ -1,52 +1,52 @@
 date,fund,company,ticker,cusip,shares,market  value  ($),weight  (%)
-02/20/2024,IZRL,NANO-X  IMAGING  LTD,NNOX,M70700105,"372,863","$4,828,575.85",4.31%
-02/20/2024,IZRL,SIMILARWEB  LTD,SMWB,M84137104,"389,780","$3,262,458.60",2.91%
-02/20/2024,IZRL,CELLEBRITE  DI  LTD,CLBT,M2197Q107,"261,220","$2,975,295.80",2.65%
-02/20/2024,IZRL,JFROG  LTD,FROG,M6191J100,"65,125","$2,919,553.75",2.60%
-02/20/2024,IZRL,UROGEN  PHARMA  LTD,URGN  UQ,M96088105,"148,441","$2,869,364.53",2.56%
-02/20/2024,IZRL,COGNYTE  SOFTWARE  LTD,CGNT,M25133105,"370,659","$2,776,235.91",2.48%
-02/20/2024,IZRL,NOVA  LTD,NVMI,M7516K103,"15,695","$2,651,670.25",2.37%
-02/20/2024,IZRL,NAYAX  LTD,NYAX,BMXT7N9,"97,107","$2,599,024.47",2.32%
-02/20/2024,IZRL,PAGAYA  TECHNOLOGIES  LTD  -A,PGY,BQ5J6B6,"1,982,680","$2,577,484.00",2.30%
-02/20/2024,IZRL,TABOOLA.COM  LTD,TBLA,M8744T106,"534,981","$2,557,209.18",2.28%
-02/20/2024,IZRL,MONDAY.COM  LTD,MNDY,M7S64H106,"11,251","$2,534,850.30",2.26%
-02/20/2024,IZRL,TEVA  PHARMACEUTICAL-SP  ADR,TEVA,881624209,"194,911","$2,537,741.22",2.26%
-02/20/2024,IZRL,TOWER  SEMICONDUCTOR  LTD,TSEM,M87915274,"74,495","$2,511,971.40",2.24%
-02/20/2024,IZRL,AUDIOCODES  LTD,AUDC,M15342104,"187,260","$2,500,857.30",2.23%
-02/20/2024,IZRL,FATTAL  HOLDINGS  1998  LTD,FTAL,BG1YKN5,"19,491","$2,494,416.07",2.23%
-02/20/2024,IZRL,CAMTEK  LTD,CAMT,M20791105,"28,305","$2,484,329.85",2.22%
-02/20/2024,IZRL,CYBERARK  SOFTWARE  LTD/ISRAEL,CYBR,M2682V108,"9,474","$2,467,313.82",2.20%
-02/20/2024,IZRL,COMPUGEN  LTD,CGEN,6432403,"1,054,307","$2,458,492.06",2.19%
-02/20/2024,IZRL,FIVERR  INTERNATIONAL  LTD,FVRR,M4R82T106,"87,496","$2,432,388.80",2.17%
-02/20/2024,IZRL,HILAN  LTD,HLAN,6267230,"42,524","$2,414,797.78",2.15%
-02/20/2024,IZRL,NICE  LTD  -  SPON  ADR,NICE,653656108,"10,508","$2,360,096.80",2.11%
-02/20/2024,IZRL,ONE  SOFTWARE  TECHNOLOGIES  LT,ONE,6987709,"174,772","$2,312,703.17",2.06%
-02/20/2024,IZRL,SAPIENS  INTERNATIONAL  CORP,SPNS,G7T16G103,"79,344","$2,294,628.48",2.05%
-02/20/2024,IZRL,GILAT  SATELLITE  NETWORKS  LTD,GILT,M51474118,"363,931","$2,298,224.27",2.05%
-02/20/2024,IZRL,RADWARE  LTD,RDWR,M81873107,"126,647","$2,291,044.23",2.04%
-02/20/2024,IZRL,CELLCOM  ISRAEL  LTD,CEL,B23WQK8,"535,235","$2,275,860.73",2.03%
-02/20/2024,IZRL,DANEL  (ADIR  YEOSHUA)  LTD,DANE,6253433,"24,818","$2,270,743.88",2.03%
-02/20/2024,IZRL,RISKIFIED  LTD-A,RSKD,M8216R109,"494,212","$2,263,490.96",2.02%
-02/20/2024,IZRL,MATRIX  IT  LTD,MTRX,6747754,"116,112","$2,267,561.22",2.02%
-02/20/2024,IZRL,PLAYTIKA  HOLDING  CORP,PLTK,72815L107,"296,044","$2,267,697.04",2.02%
-02/20/2024,IZRL,PARTNER  COMMUNICATIONS  CO,PTNR,6374420,"471,979","$2,240,919.68",2.00%
-02/20/2024,IZRL,BEZEQ  THE  ISRAELI  TELECOM  CO,BEZQ,6098032,"1,676,408","$2,233,662.74",1.99%
-02/20/2024,IZRL,WIX.COM  LTD,WIX,M98068105,"17,448","$2,220,432.48",1.98%
-02/20/2024,IZRL,CHECK  POINT  SOFTWARE  TECH,CHKP,M22465104,"13,620","$2,216,927.40",1.98%
-02/20/2024,IZRL,ITURAN  LOCATION  AND  CONTROL,ITRN,M6158M104,"84,090","$2,215,771.50",1.98%
-02/20/2024,IZRL,TELSYS  LTD,TLSY,6878977,"32,239","$2,211,184.60",1.97%
-02/20/2024,IZRL,MAGIC  SOFTWARE  ENTERPRISES,MGIC,6328074,"199,279","$2,189,308.90",1.95%
-02/20/2024,IZRL,TARO  PHARMACEUTICAL  INDUS,TARO,M8737E108,"51,172","$2,158,434.96",1.93%
-02/20/2024,IZRL,STRATASYS  LTD,SSYS,M85548101,"161,871","$2,154,503.01",1.92%
-02/20/2024,IZRL,ELBIT  SYSTEMS  LTD,ESLT,6308913,"10,504","$2,142,117.67",1.91%
-02/20/2024,IZRL,INMODE  LTD,INMD,M5425M103,"93,871","$2,140,258.80",1.91%
-02/20/2024,IZRL,NEOGAMES  SA,NGMS  UQ,L6673X107,"76,371","$2,133,805.74",1.90%
-02/20/2024,IZRL,WALKME  LTD,WKME,M97628107,"203,393","$2,105,117.55",1.88%
-02/20/2024,IZRL,ODDITY  TECH  LTD-CL  A,ODD,M7518J104,"50,117","$1,996,661.28",1.78%
-02/20/2024,IZRL,MOBILEYE  GLOBAL  INC-A,MBLY,60741F104,"76,990","$1,973,253.70",1.76%
-02/20/2024,IZRL,PERION  NETWORK  LTD,PERI,M78673114,"75,829","$1,759,232.80",1.57%
-02/20/2024,IZRL,GOLDMAN  FS  TRSY  OBLIG  INST  468,,X9USDGSFT,"233,325","$233,325.22",0.21%
-02/20/2024,IZRL,CERAGON  NETWORKS  LTD,CRNT,M22013102,"2,126","$5,931.54",0.01%
-02/20/2024,IZRL,VALENS  SEMICONDUCTOR  LTD,VLN,M9607U115,"3,126","$7,940.04",0.01%
-02/20/2024,IZRL,GAMIDA  CELL  LTD,GMDA,M47364100,"1,505",$612.54,0.00%
-"The  principal  risks  of  investing  in  ARK  ETFs  include  equity,  market,  management  and  non-diversification  risks,  as  well  as  fluctuations  in  market  value  and  net  asset  value  ('NAV').  Investors  should  carefully  consider  the  investment  objectives  and  risks  as  well  as  charges  and  expenses  of  an  ETF  before  investing.  This  and  other  information  are  contained  in  each  ETF's  prospectus,  which  may  be  obtained  by  contacting  the  ETF's  transfer  agent  The  Bank  of  New  York  Mellon  or  by  clicking  here.  Please  read  the  prospectus  carefully  before  you  invest.  The  market  price  of  ETF  shares  may  differ  significantly  from  their  NAV  during  periods  of  market  volatility.  ETF  shares  may  only  be  redeemed  directly  with  the  ETF  at  NAV  by  Authorized  Participants,  in  very  large  creation  units.  Holdings  are  subject  to  change  without  notice  and  are  not  a  recommendation  to  buy  or  sell  any  security.  There  can  be  no  guarantee  that  an  active  trading  market  for  ETF  shares  will  develop  or  be  maintained,  or  that  their  listing  will  continue  or  remain  unchanged.  Buying  or  selling  ETF  shares  on  an  exchange  may  require  the  payment  of  brokerage  commissions  and  frequent  trading  may  incur  brokerage  costs  that  detract  significantly  from  investment  returns.  Copyright  2024,  ARK  Investment  Management  LLC.  All  content  is  original  and  has  been  researched  and  produced  by  ARK  Investment  Management  LLC  unless  otherwise  stated.  No  part  of  this  content  may  be  reproduced  in  any  form,  or  referred  to  in  any  other  publication,  without  the  express  written  permission  of  ARK  Investment  Management  LLC.  All  statements  made  regarding  companies,  securities  or  other  financial  information  on  this  site  or  any  sites  or  articles  relating  to  ARK  Investment  Management  LLC  are  strictly  beliefs  and  points  of  view  held  by  ARK  Investment  Management  and  are  subject  to  change  without  notice.  Information  contained  herein  has  been  obtained  from  sources  believed  to  be  reliable,  but  not  guaranteed.  This  material  has  been  distributed  for  informational  purposes  only  and  should  not  be  considered  as  investment  advice  or  a  recommendation  of  any  particular  security,  strategy  or  investment  product.",,,,,,,
+02/21/2024,IZRL,NANO-X  IMAGING  LTD,NNOX,M70700105,"372,863","$3,855,403.42",3.51%
+02/21/2024,IZRL,SIMILARWEB  LTD,SMWB,M84137104,"389,780","$3,227,378.40",2.94%
+02/21/2024,IZRL,CELLEBRITE  DI  LTD,CLBT,M2197Q107,"261,220","$2,925,664.00",2.66%
+02/21/2024,IZRL,UROGEN  PHARMA  LTD,URGN  UQ,M96088105,"148,441","$2,856,004.84",2.60%
+02/21/2024,IZRL,JFROG  LTD,FROG,M6191J100,"65,125","$2,767,812.50",2.52%
+02/21/2024,IZRL,COGNYTE  SOFTWARE  LTD,CGNT,M25133105,"370,659","$2,768,822.73",2.52%
+02/21/2024,IZRL,NAYAX  LTD,NYAX,BMXT7N9,"97,107","$2,616,006.08",2.38%
+02/21/2024,IZRL,PAGAYA  TECHNOLOGIES  LTD  -A,PGY,BQ5J6B6,"1,982,680","$2,577,484.00",2.35%
+02/21/2024,IZRL,TEVA  PHARMACEUTICAL-SP  ADR,TEVA,881624209,"194,911","$2,547,486.77",2.32%
+02/21/2024,IZRL,COMPUGEN  LTD,CGEN,6432403,"1,054,307","$2,552,582.45",2.32%
+02/21/2024,IZRL,NOVA  LTD,NVMI,M7516K103,"15,695","$2,536,939.80",2.31%
+02/21/2024,IZRL,TABOOLA.COM  LTD,TBLA,M8744T106,"534,981","$2,530,460.13",2.30%
+02/21/2024,IZRL,TOWER  SEMICONDUCTOR  LTD,TSEM,M87915274,"74,495","$2,526,870.40",2.30%
+02/21/2024,IZRL,FATTAL  HOLDINGS  1998  LTD,FTAL,BG1YKN5,"19,491","$2,519,286.29",2.29%
+02/21/2024,IZRL,AUDIOCODES  LTD,AUDC,M15342104,"187,260","$2,469,959.40",2.25%
+02/21/2024,IZRL,MONDAY.COM  LTD,MNDY,M7S64H106,"11,251","$2,445,067.32",2.23%
+02/21/2024,IZRL,NICE  LTD  -  SPON  ADR,NICE,653656108,"10,508","$2,400,132.28",2.19%
+02/21/2024,IZRL,HILAN  LTD,HLAN,6267230,"42,524","$2,405,897.08",2.19%
+02/21/2024,IZRL,SAPIENS  INTERNATIONAL  CORP,SPNS,G7T16G103,"79,344","$2,388,254.40",2.18%
+02/21/2024,IZRL,CYBERARK  SOFTWARE  LTD/ISRAEL,CYBR,M2682V108,"9,474","$2,368,500.00",2.16%
+02/21/2024,IZRL,CAMTEK  LTD,CAMT,M20791105,"28,305","$2,322,991.35",2.12%
+02/21/2024,IZRL,FIVERR  INTERNATIONAL  LTD,FVRR,M4R82T106,"87,496","$2,319,518.96",2.11%
+02/21/2024,IZRL,ONE  SOFTWARE  TECHNOLOGIES  LT,ONE,6987709,"174,772","$2,272,754.84",2.07%
+02/21/2024,IZRL,GILAT  SATELLITE  NETWORKS  LTD,GILT,M51474118,"363,931","$2,263,650.82",2.06%
+02/21/2024,IZRL,MATRIX  IT  LTD,MTRX,6747754,"116,112","$2,247,562.91",2.05%
+02/21/2024,IZRL,RADWARE  LTD,RDWR,M81873107,"126,647","$2,242,918.37",2.04%
+02/21/2024,IZRL,RISKIFIED  LTD-A,RSKD,M8216R109,"494,212","$2,233,838.24",2.03%
+02/21/2024,IZRL,MAGIC  SOFTWARE  ENTERPRISES,MGIC,6328074,"199,279","$2,227,345.68",2.03%
+02/21/2024,IZRL,PLAYTIKA  HOLDING  CORP,PLTK,72815L107,"296,044","$2,232,171.76",2.03%
+02/21/2024,IZRL,CELLCOM  ISRAEL  LTD,CEL,B23WQK8,"535,235","$2,231,931.91",2.03%
+02/21/2024,IZRL,PARTNER  COMMUNICATIONS  CO,PTNR,6374420,"471,979","$2,228,268.28",2.03%
+02/21/2024,IZRL,DANEL  (ADIR  YEOSHUA)  LTD,DANE,6253433,"24,818","$2,217,378.76",2.02%
+02/21/2024,IZRL,TELSYS  LTD,TLSY,6878977,"32,239","$2,216,981.01",2.02%
+02/21/2024,IZRL,BEZEQ  THE  ISRAELI  TELECOM  CO,BEZQ,6098032,"1,676,408","$2,193,673.47",2.00%
+02/21/2024,IZRL,ITURAN  LOCATION  AND  CONTROL,ITRN,M6158M104,"84,090","$2,192,226.30",2.00%
+02/21/2024,IZRL,WIX.COM  LTD,WIX,M98068105,"17,448","$2,186,583.36",1.99%
+02/21/2024,IZRL,CHECK  POINT  SOFTWARE  TECH,CHKP,M22465104,"13,620","$2,180,562.00",1.99%
+02/21/2024,IZRL,ELBIT  SYSTEMS  LTD,ESLT,6308913,"10,504","$2,161,569.18",1.97%
+02/21/2024,IZRL,TARO  PHARMACEUTICAL  INDUS,TARO,M8737E108,"51,172","$2,162,528.72",1.97%
+02/21/2024,IZRL,NEOGAMES  SA,NGMS  UQ,L6673X107,"76,371","$2,138,388.00",1.95%
+02/21/2024,IZRL,WALKME  LTD,WKME,M97628107,"203,393","$2,066,472.88",1.88%
+02/21/2024,IZRL,STRATASYS  LTD,SSYS,M85548101,"161,871","$2,048,477.51",1.87%
+02/21/2024,IZRL,ODDITY  TECH  LTD-CL  A,ODD,M7518J104,"50,117","$1,998,665.96",1.82%
+02/21/2024,IZRL,INMODE  LTD,INMD,M5425M103,"93,871","$1,968,474.87",1.79%
+02/21/2024,IZRL,MOBILEYE  GLOBAL  INC-A,MBLY,60741F104,"76,990","$1,946,307.20",1.77%
+02/21/2024,IZRL,PERION  NETWORK  LTD,PERI,M78673114,"75,829","$1,767,573.99",1.61%
+02/21/2024,IZRL,GOLDMAN  FS  TRSY  OBLIG  INST  468,,X9USDGSFT,"233,325","$233,325.22",0.21%
+02/21/2024,IZRL,VALENS  SEMICONDUCTOR  LTD,VLN,M9607U115,"3,126","$8,002.56",0.01%
+02/21/2024,IZRL,CERAGON  NETWORKS  LTD,CRNT,M22013102,"2,126","$5,889.02",0.01%
+02/21/2024,IZRL,GAMIDA  CELL  LTD,GMDA,M47364100,"1,505",$585.45,0.00%
+"Investors  should  carefully  consider  the  investment  objectives  and  risks  as  well  as  charges  and  expenses  of  an  ARK  ETF  before  investing.  This  and  other  information  are  contained  in  the  ARK  ETF's  prospectuses,  which  may  be  obtained  on  ark-funds.com.  The  prospectus  should  be  read  carefully  before  investing.  An  investment  in  an  ARK  ETF  is  subject  to  risks  and  you  can  lose  money  on  your  investment  in  an  ARK  ETF.  There  can  be  no  assurance  that  the  ARK  ETFs  will  achieve  their  investment  objectives.  The  ARK  ETFs'  portfolios  are  more  volatile  than  broad  market  averages.  The  ARK  ETFs  also  have  specific  risks,  which  are  described  in  the  ARK  ETFs'  prospectuses,  Shares  of  the  ARK  ETFs  may  be  bought  or  sold  throughout  the  day  at  their  market  price  on  the  exchange  on  which  they  are  listed.  The  market  price  of  an  ARK  ETF's  shares  may  be  at,  above  or  below  the  ARK  ETF's  net  asset  value  (""NAV"")  and  will  fluctuate  with  changes  in  the  NAV  as  well  as  supply  and  demand  in  the  market  for  the  shares.  The  market  price  of  ARK  ETF  shares  may  differ  significantly  from  their  NAV  during  periods  of  market  volatility.  Shares  of  the  ARK  ETFs  may  only  be  redeemed  directly  with  the  ARK  ETFs  at  NAV  by  Authorized  Participants,  in  very  large  creation  units.  There  can  be  no  guarantee  that  an  active  trading  market  for  ARK  ETF  shares  will  develop  or  be  maintained,  or  that  their  listing  will  continue  or  remain  unchanged.  Buying  or  selling  ARK  ETF  shares  on  an  exchange  may  require  the  payment  of  brokerage  commissions  and  frequent  trading  may  incur  brokerage  costs  that  detract  significantly  from  investment  returns.  Not  FDIC  Insured  –  No  Bank  Guarantee  –  May  Lose  Value.  All  statements  made  regarding  companies,  securities  or  other  financial  information  are  strictly  beliefs  and  points  of  view  held  by  ARK  Investment  Management  LLC  and/or  ARK  ETF  Trust  and  are  not  endorsements  by  ARK  of  any  company  or  security  or  recommendations  by  ARK  to  buy,  sell  or  hold  any  security.  Holdings  are  subject  to  change  without  notice.  Foreside  Fund  Services,  LLC,  distributor.  ©  2024.  ARK  ETF  Trust.  No  part  of  this  material  may  be  reproduced  in  any  form,  or  referred  to  in  any  other  publication,  without  written  permission.",,,,,,,
