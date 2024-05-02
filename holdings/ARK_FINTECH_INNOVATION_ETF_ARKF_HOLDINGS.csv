@@ -1,38 +1,38 @@
 date,fund,company,ticker,cusip,shares,market  value  ($),weight  (%)
-05/01/2024,ARKF,COINBASE  GLOBAL  INC  -CLASS  A,COIN,19260Q107,"500,896","$102,147,721.28",10.51%
-05/01/2024,ARKF,BLOCK  INC,SQ,852234103,"1,107,367","$80,837,791.00",8.32%
-05/01/2024,ARKF,SHOPIFY  INC  -  CLASS  A,SHOP,82509L107,"996,182","$69,931,976.40",7.20%
-05/01/2024,ARKF,DRAFTKINGS  INC-CL  A,DKNG  UW,26142V105,"1,633,834","$67,902,141.04",6.99%
-05/01/2024,ARKF,UIPATH  INC  -  CLASS  A,PATH,90364P105,"2,485,578","$47,151,414.66",4.85%
-05/01/2024,ARKF,ROBINHOOD  MARKETS  INC  -  A,HOOD,770700102,"2,636,693","$43,479,067.57",4.47%
-05/01/2024,ARKF,TOAST  INC-CLASS  A,TOST,888787108,"1,812,598","$42,831,690.74",4.41%
-05/01/2024,ARKF,ADYEN  NV,ADYEN,BZ1HM42,"31,949","$38,535,329.50",3.97%
-05/01/2024,ARKF,ARK  BITCOIN  ETF  HOLDCO  (ARKF),,MM005473T,"629,903","$37,214,669.24",3.83%
-05/01/2024,ARKF,SOFI  TECHNOLOGIES  INC,SOFI,83406F102,"5,210,087","$35,324,389.86",3.64%
-05/01/2024,ARKF,GLOBAL-E  ONLINE  LTD,GLBE,M5216V106,"1,032,308","$34,613,287.24",3.56%
-05/01/2024,ARKF,ROKU  INC,ROKU,77543R102,"561,247","$32,361,502.02",3.33%
-05/01/2024,ARKF,PINTEREST  INC-  CLASS  A,PINS,72352L106,"965,797","$32,305,909.65",3.32%
-05/01/2024,ARKF,INTUIT  INC,INTU,461202103,"48,686","$30,458,935.32",3.13%
-05/01/2024,ARKF,ROBLOX  CORP  -CLASS  A,RBLX,771049103,"788,503","$28,039,166.68",2.89%
-05/01/2024,ARKF,MERCADOLIBRE  INC,MELI,58733R102,"17,659","$25,759,183.30",2.65%
-05/01/2024,ARKF,META  PLATFORMS  INC-CLASS  A,META,30303M102,"48,481","$20,855,071.77",2.15%
-05/01/2024,ARKF,DISCOVERY  LTD,DSY,6177878,"3,188,038","$20,366,856.03",2.10%
-05/01/2024,ARKF,JSC  KASPI.KZ  ADR,KSPI,BJY21K1,"171,500","$20,195,840.00",2.08%
-05/01/2024,ARKF,PALANTIR  TECHNOLOGIES  INC-A,PLTR,69608A108,"892,616","$19,610,773.52",2.02%
-05/01/2024,ARKF,NU  HOLDINGS  LTD/CAYMAN  ISL-A,NU  UN,G6683N103,"1,745,082","$18,951,590.52",1.95%
-05/01/2024,ARKF,LY  CORP,4689,6084848,"6,872,230","$16,693,093.95",1.72%
-05/01/2024,ARKF,SEA  LTD-ADR,SE,81141R100,"232,104","$14,666,651.76",1.51%
-05/01/2024,ARKF,BILL  HOLDINGS  INC,BILL,090043100,"224,138","$13,977,245.68",1.44%
-05/01/2024,ARKF,SPOTIFY  TECHNOLOGY  SA,SPOT,L8681T102,"48,467","$13,592,085.48",1.40%
-05/01/2024,ARKF,AVIDXCHANGE  HOLDINGS  INC,AVDX,05368X102,"1,111,574","$12,960,952.84",1.33%
-05/01/2024,ARKF,INTERCONTINENTAL  EXCHANGE  IN,ICE,45866F104,"84,018","$10,818,157.68",1.11%
-05/01/2024,ARKF,NVIDIA  CORP,NVDA,67066G104,"12,286","$10,615,349.72",1.09%
-05/01/2024,ARKF,TELADOC  HEALTH  INC,TDOC,87918A105,"753,070","$9,601,642.50",0.99%
-05/01/2024,ARKF,CROWDSTRIKE  HOLDINGS  INC  -  A,CRWD,22788C105,"30,334","$8,873,908.36",0.91%
-05/01/2024,ARKF,ZILLOW  GROUP  INC  -  C,Z,98954M200,"188,416","$8,020,869.12",0.83%
-05/01/2024,ARKF,IBOTTA  INC-CL  A,IBTA,451051106,"14,706","$1,503,982.62",0.15%
-05/01/2024,ARKF,GOLDMAN  FS  TRSY  OBLIG  INST  468,,X9USDGSFT,"1,362,606","$1,362,605.66",0.14%
-05/01/2024,ARKF,REDDIT  INC-CL  A,RDDT,75734B100,"3,851","$171,138.44",0.02%
-05/01/2024,ARKF,STONECO  LTD-A,STNE,G85158106,92,"$1,435.20",0.00%
-05/01/2024,ARKF,TWILIO  INC  -  A,TWLO,90138F102,92,"$5,508.96",0.00%
+05/02/2024,ARKF,COINBASE  GLOBAL  INC  -CLASS  A,COIN,19260Q107,"500,896","$105,233,240.64",10.79%
+05/02/2024,ARKF,BLOCK  INC,SQ,852234103,"1,107,367","$74,016,410.28",7.59%
+05/02/2024,ARKF,SHOPIFY  INC  -  CLASS  A,SHOP,82509L107,"996,182","$70,131,212.80",7.19%
+05/02/2024,ARKF,DRAFTKINGS  INC-CL  A,DKNG  UW,26142V105,"1,633,834","$68,326,937.88",7.01%
+05/02/2024,ARKF,UIPATH  INC  -  CLASS  A,PATH,90364P105,"2,485,578","$47,822,520.72",4.90%
+05/02/2024,ARKF,ROBINHOOD  MARKETS  INC  -  A,HOOD,770700102,"2,636,693","$43,900,938.45",4.50%
+05/02/2024,ARKF,TOAST  INC-CLASS  A,TOST,888787108,"1,812,598","$41,689,754.00",4.27%
+05/02/2024,ARKF,PINTEREST  INC-  CLASS  A,PINS,72352L106,"965,797","$39,095,462.56",4.01%
+05/02/2024,ARKF,ADYEN  NV,ADYEN,BZ1HM42,"31,949","$38,598,353.61",3.96%
+05/02/2024,ARKF,SOFI  TECHNOLOGIES  INC,SOFI,83406F102,"5,210,087","$36,053,802.04",3.70%
+05/02/2024,ARKF,ARK  BITCOIN  ETF  HOLDCO  (ARKF),,MM005473T,"629,903","$35,822,583.61",3.67%
+05/02/2024,ARKF,GLOBAL-E  ONLINE  LTD,GLBE,M5216V106,"1,032,308","$34,169,394.80",3.50%
+05/02/2024,ARKF,ROKU  INC,ROKU,77543R102,"561,247","$33,186,535.11",3.40%
+05/02/2024,ARKF,INTUIT  INC,INTU,461202103,"48,686","$29,951,627.20",3.07%
+05/02/2024,ARKF,ROBLOX  CORP  -CLASS  A,RBLX,771049103,"788,503","$28,843,439.74",2.96%
+05/02/2024,ARKF,MERCADOLIBRE  INC,MELI,58733R102,"17,659","$25,720,510.09",2.64%
+05/02/2024,ARKF,META  PLATFORMS  INC-CLASS  A,META,30303M102,"48,481","$21,292,370.39",2.18%
+05/02/2024,ARKF,DISCOVERY  LTD,DSY,6177878,"3,188,038","$20,544,232.02",2.11%
+05/02/2024,ARKF,JSC  KASPI.KZ  ADR,KSPI,BJY21K1,"171,500","$19,801,390.00",2.03%
+05/02/2024,ARKF,PALANTIR  TECHNOLOGIES  INC-A,PLTR,69608A108,"892,616","$19,744,665.92",2.02%
+05/02/2024,ARKF,NU  HOLDINGS  LTD/CAYMAN  ISL-A,NU  UN,G6683N103,"1,745,082","$18,986,492.16",1.95%
+05/02/2024,ARKF,LY  CORP,4689,6084848,"6,872,230","$16,596,869.68",1.70%
+05/02/2024,ARKF,SEA  LTD-ADR,SE,81141R100,"232,104","$14,557,562.88",1.49%
+05/02/2024,ARKF,BILL  HOLDINGS  INC,BILL,090043100,"224,138","$14,075,866.40",1.44%
+05/02/2024,ARKF,SPOTIFY  TECHNOLOGY  SA,SPOT,L8681T102,"48,467","$13,790,800.18",1.41%
+05/02/2024,ARKF,AVIDXCHANGE  HOLDINGS  INC,AVDX,05368X102,"1,111,574","$13,216,614.86",1.36%
+05/02/2024,ARKF,INTERCONTINENTAL  EXCHANGE  IN,ICE,45866F104,"84,018","$10,811,436.24",1.11%
+05/02/2024,ARKF,NVIDIA  CORP,NVDA,67066G104,"12,286","$10,202,417.26",1.05%
+05/02/2024,ARKF,TELADOC  HEALTH  INC,TDOC,87918A105,"753,070","$9,646,826.70",0.99%
+05/02/2024,ARKF,CROWDSTRIKE  HOLDINGS  INC  -  A,CRWD,22788C105,"30,334","$8,961,876.96",0.92%
+05/02/2024,ARKF,ZILLOW  GROUP  INC  -  C,Z,98954M200,"188,416","$7,892,746.24",0.81%
+05/02/2024,ARKF,IBOTTA  INC-CL  A,IBTA,451051106,"14,706","$1,463,247.00",0.15%
+05/02/2024,ARKF,GOLDMAN  FS  TRSY  OBLIG  INST  468,,X9USDGSFT,"963,429","$963,429.19",0.10%
+05/02/2024,ARKF,REDDIT  INC-CL  A,RDDT,75734B100,"3,851","$176,683.88",0.02%
+05/02/2024,ARKF,STONECO  LTD-A,STNE,G85158106,50,$787.00,0.00%
+05/02/2024,ARKF,TWILIO  INC  -  A,TWLO,90138F102,50,"$3,047.50",0.00%
 "Investors  should  carefully  consider  the  investment  objectives  and  risks  as  well  as  charges  and  expenses  of  an  ARK  ETF  before  investing.  This  and  other  information  are  contained  in  the  ARK  ETF's  prospectuses,  which  may  be  obtained  on  ark-funds.com.  The  prospectus  should  be  read  carefully  before  investing.  An  investment  in  an  ARK  ETF  is  subject  to  risks  and  you  can  lose  money  on  your  investment  in  an  ARK  ETF.  There  can  be  no  assurance  that  the  ARK  ETFs  will  achieve  their  investment  objectives.  The  ARK  ETFs'  portfolios  are  more  volatile  than  broad  market  averages.  The  ARK  ETFs  also  have  specific  risks,  which  are  described  in  the  ARK  ETFs'  prospectuses,  Shares  of  the  ARK  ETFs  may  be  bought  or  sold  throughout  the  day  at  their  market  price  on  the  exchange  on  which  they  are  listed.  The  market  price  of  an  ARK  ETF's  shares  may  be  at,  above  or  below  the  ARK  ETF's  net  asset  value  (""NAV"")  and  will  fluctuate  with  changes  in  the  NAV  as  well  as  supply  and  demand  in  the  market  for  the  shares.  The  market  price  of  ARK  ETF  shares  may  differ  significantly  from  their  NAV  during  periods  of  market  volatility.  Shares  of  the  ARK  ETFs  may  only  be  redeemed  directly  with  the  ARK  ETFs  at  NAV  by  Authorized  Participants,  in  very  large  creation  units.  There  can  be  no  guarantee  that  an  active  trading  market  for  ARK  ETF  shares  will  develop  or  be  maintained,  or  that  their  listing  will  continue  or  remain  unchanged.  Buying  or  selling  ARK  ETF  shares  on  an  exchange  may  require  the  payment  of  brokerage  commissions  and  frequent  trading  may  incur  brokerage  costs  that  detract  significantly  from  investment  returns.  Not  FDIC  Insured  –  No  Bank  Guarantee  –  May  Lose  Value.  All  statements  made  regarding  companies,  securities  or  other  financial  information  are  strictly  beliefs  and  points  of  view  held  by  ARK  Investment  Management  LLC  and/or  ARK  ETF  Trust  and  are  not  endorsements  by  ARK  of  any  company  or  security  or  recommendations  by  ARK  to  buy,  sell  or  hold  any  security.  Holdings  are  subject  to  change  without  notice.  Foreside  Fund  Services,  LLC,  distributor.  ©  2024.  ARK  ETF  Trust.  No  part  of  this  material  may  be  reproduced  in  any  form,  or  referred  to  in  any  other  publication,  without  written  permission.",,,,,,,
