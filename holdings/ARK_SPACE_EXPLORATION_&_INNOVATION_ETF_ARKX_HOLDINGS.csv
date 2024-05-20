@@ -1,37 +1,37 @@
 date,fund,company,ticker,cusip,shares,market  value  ($),weight  (%)
-05/17/2024,ARKX,AEROVIRONMENT  INC,AVAV,008073108,"119,577","$23,046,075.21",9.29%
-05/17/2024,ARKX,KRATOS  DEFENSE  &  SECURITY,KTOS,50077B207,"1,115,991","$22,978,254.69",9.26%
-05/17/2024,ARKX,IRIDIUM  COMMUNICATIONS  INC,IRDM,46269C102,"702,567","$21,386,139.48",8.62%
-05/17/2024,ARKX,TRIMBLE  INC,TRMB,896239100,"288,633","$16,524,239.25",6.66%
-05/17/2024,ARKX,TERADYNE  INC,TER,880770102,"115,855","$15,233,773.95",6.14%
-05/17/2024,ARKX,L3HARRIS  TECHNOLOGIES  INC,LHX,502431109,"57,580","$12,787,942.20",5.15%
-05/17/2024,ARKX,KOMATSU  LTD,6301,6496584,"385,188","$11,458,233.86",4.62%
-05/17/2024,ARKX,AMAZON.COM  INC,AMZN,023135106,"45,957","$8,439,083.91",3.40%
-05/17/2024,ARKX,ARCHER  AVIATION  INC-A,ACHR,03945R102,"2,195,952","$8,366,577.12",3.37%
-05/17/2024,ARKX,BLADE  AIR  MOBILITY  INC,BLDE,092667104,"2,039,485","$7,321,751.15",2.95%
-05/17/2024,ARKX,GARMIN  LTD,GRMN  UN,B3Z5T14,"42,419","$7,210,381.62",2.91%
-05/17/2024,ARKX,UIPATH  INC  -  CLASS  A,PATH,90364P105,"351,092","$7,088,547.48",2.86%
-05/17/2024,ARKX,THE  3D  PRINTING  ETF,PRNT,00214Q500,"331,599","$6,970,210.98",2.81%
-05/17/2024,ARKX,DASSAULT  SYSTEMES  SE,DSY  FP,BM8H5Y5,"169,012","$6,927,835.34",2.79%
-05/17/2024,ARKX,DEERE  &  CO,DE,244199105,"17,177","$6,775,124.11",2.73%
-05/17/2024,ARKX,ROCKET  LAB  USA  INC,RKLB,773122106,"1,517,348","$6,433,555.52",2.59%
-05/17/2024,ARKX,THALES  SA,HO,4162791,"34,580","$6,286,794.46",2.53%
-05/17/2024,ARKX,ALPHABET  INC-CL  C,GOOG,02079K107,"30,385","$5,330,440.55",2.15%
-05/17/2024,ARKX,JOBY  AVIATION  INC,JOBY,G65163100,"1,026,780","$5,154,435.60",2.08%
-05/17/2024,ARKX,ELBIT  SYSTEMS  LTD,ESLT,M3760D101,"18,953","$3,810,690.18",1.54%
-05/17/2024,ARKX,JD  LOGISTICS  INC,2618,BNMBPD9,"2,941,854","$3,695,559.61",1.49%
-05/17/2024,ARKX,HONEYWELL  INTERNATIONAL  INC,HON,438516106,"17,824","$3,682,794.88",1.48%
-05/17/2024,ARKX,SYNOPSYS  INC,SNPS,871607107,"6,274","$3,571,599.98",1.44%
-05/17/2024,ARKX,HEICO  CORP,HEI,422806109,"16,653","$3,572,235.03",1.44%
-05/17/2024,ARKX,AIRBUS  SE,AIR,4012250,"20,285","$3,504,057.29",1.41%
-05/17/2024,ARKX,PALANTIR  TECHNOLOGIES  INC-A,PLTR,69608A108,"147,680","$3,197,272.00",1.29%
-05/17/2024,ARKX,UNITY  SOFTWARE  INC,U,91332U101,"137,283","$3,032,581.47",1.22%
-05/17/2024,ARKX,ANSYS  INC,ANSS,03662Q105,"8,444","$2,765,663.32",1.11%
-05/17/2024,ARKX,MYNARIC  AG  NA  O.N.,MYNA,62857X101,"506,274","$2,733,879.60",1.10%
-05/17/2024,ARKX,LOCKHEED  MARTIN  CORP,LMT,539830109,"5,784","$2,688,576.72",1.08%
-05/17/2024,ARKX,TELEDYNE  TECHNOLOGIES  INC,TDY,879360105,"6,532","$2,627,562.32",1.06%
-05/17/2024,ARKX,MARKFORGED  HOLDING  CORP,MKFG,57064N102,"2,747,821","$1,291,475.87",0.52%
-05/17/2024,ARKX,3D  SYSTEMS  CORP,DDD,88554D205,"264,606","$994,918.56",0.40%
-05/17/2024,ARKX,GOLDMAN  FS  TRSY  OBLIG  INST  468,,X9USDGSFT,"840,440","$840,440.03",0.34%
-05/17/2024,ARKX,VELO3D  INC,VLD,92259N104,"1,945,836","$428,083.92",0.17%
+05/20/2024,ARKX,KRATOS  DEFENSE  &  SECURITY,KTOS,50077B207,"1,115,991","$23,469,290.73",9.38%
+05/20/2024,ARKX,AEROVIRONMENT  INC,AVAV,008073108,"119,577","$23,177,609.91",9.27%
+05/20/2024,ARKX,IRIDIUM  COMMUNICATIONS  INC,IRDM,46269C102,"702,567","$22,116,809.16",8.84%
+05/20/2024,ARKX,TRIMBLE  INC,TRMB,896239100,"288,633","$16,478,057.97",6.59%
+05/20/2024,ARKX,TERADYNE  INC,TER,880770102,"115,855","$15,282,433.05",6.11%
+05/20/2024,ARKX,L3HARRIS  TECHNOLOGIES  INC,LHX,502431109,"57,580","$12,873,160.60",5.15%
+05/20/2024,ARKX,KOMATSU  LTD,6301,6496584,"385,188","$11,369,448.27",4.55%
+05/20/2024,ARKX,AMAZON.COM  INC,AMZN,023135106,"45,957","$8,488,257.90",3.39%
+05/20/2024,ARKX,ARCHER  AVIATION  INC-A,ACHR,03945R102,"2,195,952","$8,125,022.40",3.25%
+05/20/2024,ARKX,BLADE  AIR  MOBILITY  INC,BLDE,092667104,"2,039,485","$7,382,935.70",2.95%
+05/20/2024,ARKX,GARMIN  LTD,GRMN  UN,B3Z5T14,"42,419","$7,251,103.86",2.90%
+05/20/2024,ARKX,UIPATH  INC  -  CLASS  A,PATH,90364P105,"351,092","$7,165,787.72",2.86%
+05/20/2024,ARKX,THE  3D  PRINTING  ETF,PRNT,00214Q500,"331,599","$6,953,631.03",2.78%
+05/20/2024,ARKX,DASSAULT  SYSTEMES  SE,DSY  FP,BM8H5Y5,"169,012","$6,937,189.98",2.77%
+05/20/2024,ARKX,DEERE  &  CO,DE,244199105,"17,177","$6,819,612.54",2.73%
+05/20/2024,ARKX,ROCKET  LAB  USA  INC,RKLB,773122106,"1,517,348","$6,448,729.00",2.58%
+05/20/2024,ARKX,THALES  SA,HO,4162791,"34,580","$6,279,000.99",2.51%
+05/20/2024,ARKX,ALPHABET  INC-CL  C,GOOG,02079K107,"30,385","$5,386,956.65",2.15%
+05/20/2024,ARKX,JOBY  AVIATION  INC,JOBY,G65163100,"1,026,780","$5,174,971.20",2.07%
+05/20/2024,ARKX,JD  LOGISTICS  INC,2618,BNMBPD9,"2,941,854","$3,853,150.48",1.54%
+05/20/2024,ARKX,ELBIT  SYSTEMS  LTD,ESLT,M3760D101,"18,953","$3,802,729.92",1.52%
+05/20/2024,ARKX,HONEYWELL  INTERNATIONAL  INC,HON,438516106,"17,824","$3,671,209.28",1.47%
+05/20/2024,ARKX,HEICO  CORP,HEI,422806109,"16,653","$3,589,387.62",1.43%
+05/20/2024,ARKX,SYNOPSYS  INC,SNPS,871607107,"6,274","$3,555,664.02",1.42%
+05/20/2024,ARKX,AIRBUS  SE,AIR,4012250,"20,285","$3,506,000.37",1.40%
+05/20/2024,ARKX,PALANTIR  TECHNOLOGIES  INC-A,PLTR,69608A108,"147,680","$3,213,516.80",1.28%
+05/20/2024,ARKX,UNITY  SOFTWARE  INC,U,91332U101,"137,283","$2,974,922.61",1.19%
+05/20/2024,ARKX,MYNARIC  AG  NA  O.N.,MYNA,62857X101,"506,274","$2,814,883.44",1.13%
+05/20/2024,ARKX,ANSYS  INC,ANSS,03662Q105,"8,444","$2,767,183.24",1.11%
+05/20/2024,ARKX,LOCKHEED  MARTIN  CORP,LMT,539830109,"5,784","$2,696,500.80",1.08%
+05/20/2024,ARKX,TELEDYNE  TECHNOLOGIES  INC,TDY,879360105,"6,532","$2,654,800.76",1.06%
+05/20/2024,ARKX,MARKFORGED  HOLDING  CORP,MKFG,57064N102,"2,747,821","$1,264,272.44",0.51%
+05/20/2024,ARKX,GOLDMAN  FS  TRSY  OBLIG  INST  468,,X9USDGSFT,"1,198,496","$1,198,496.26",0.48%
+05/20/2024,ARKX,3D  SYSTEMS  CORP,DDD,88554D205,"264,606","$971,104.02",0.39%
+05/20/2024,ARKX,VELO3D  INC,VLD,92259N104,"1,945,836","$424,970.58",0.17%
 "Investors  should  carefully  consider  the  investment  objectives  and  risks  as  well  as  charges  and  expenses  of  an  ARK  ETF  before  investing.  This  and  other  information  are  contained  in  the  ARK  ETF's  prospectuses,  which  may  be  obtained  on  ark-funds.com.  The  prospectus  should  be  read  carefully  before  investing.  An  investment  in  an  ARK  ETF  is  subject  to  risks  and  you  can  lose  money  on  your  investment  in  an  ARK  ETF.  There  can  be  no  assurance  that  the  ARK  ETFs  will  achieve  their  investment  objectives.  The  ARK  ETFs'  portfolios  are  more  volatile  than  broad  market  averages.  The  ARK  ETFs  also  have  specific  risks,  which  are  described  in  the  ARK  ETFs'  prospectuses,  Shares  of  the  ARK  ETFs  may  be  bought  or  sold  throughout  the  day  at  their  market  price  on  the  exchange  on  which  they  are  listed.  The  market  price  of  an  ARK  ETF's  shares  may  be  at,  above  or  below  the  ARK  ETF's  net  asset  value  (""NAV"")  and  will  fluctuate  with  changes  in  the  NAV  as  well  as  supply  and  demand  in  the  market  for  the  shares.  The  market  price  of  ARK  ETF  shares  may  differ  significantly  from  their  NAV  during  periods  of  market  volatility.  Shares  of  the  ARK  ETFs  may  only  be  redeemed  directly  with  the  ARK  ETFs  at  NAV  by  Authorized  Participants,  in  very  large  creation  units.  There  can  be  no  guarantee  that  an  active  trading  market  for  ARK  ETF  shares  will  develop  or  be  maintained,  or  that  their  listing  will  continue  or  remain  unchanged.  Buying  or  selling  ARK  ETF  shares  on  an  exchange  may  require  the  payment  of  brokerage  commissions  and  frequent  trading  may  incur  brokerage  costs  that  detract  significantly  from  investment  returns.  Not  FDIC  Insured  –  No  Bank  Guarantee  –  May  Lose  Value.  All  statements  made  regarding  companies,  securities  or  other  financial  information  are  strictly  beliefs  and  points  of  view  held  by  ARK  Investment  Management  LLC  and/or  ARK  ETF  Trust  and  are  not  endorsements  by  ARK  of  any  company  or  security  or  recommendations  by  ARK  to  buy,  sell  or  hold  any  security.  Holdings  are  subject  to  change  without  notice.  Foreside  Fund  Services,  LLC,  distributor.  ©  2024.  ARK  ETF  Trust.  No  part  of  this  material  may  be  reproduced  in  any  form,  or  referred  to  in  any  other  publication,  without  written  permission.",,,,,,,
