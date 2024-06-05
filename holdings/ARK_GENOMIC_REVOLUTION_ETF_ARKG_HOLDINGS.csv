@@ -1,43 +1,7 @@
-date,fund,company,ticker,cusip,shares,market  value  ($),weight  (%)
-06/04/2024,ARKG,TWIST  BIOSCIENCE  CORP,TWST,90184D100,"2,693,487","$118,540,362.87",8.48%
-06/04/2024,ARKG,CRISPR  THERAPEUTICS  AG,CRSP,H17182108,"1,801,703","$102,967,326.45",7.37%
-06/04/2024,ARKG,RECURSION  PHARMACEUTICALS-A,RXRX,75629V104,"9,250,601","$79,462,662.59",5.69%
-06/04/2024,ARKG,CAREDX  INC,CDNA,14167L103,"5,799,962","$77,487,492.32",5.54%
-06/04/2024,ARKG,ARCTURUS  THERAPEUTICS  HOLDIN,ARCT  UQ,03969T109,"1,742,106","$70,834,029.96",5.07%
-06/04/2024,ARKG,INTELLIA  THERAPEUTICS  INC,NTLA,45826J105,"2,501,186","$58,827,894.72",4.21%
-06/04/2024,ARKG,SCHRODINGER  INC,SDGR,80810D103,"2,490,482","$53,694,791.92",3.84%
-06/04/2024,ARKG,IONIS  PHARMACEUTICALS  INC,IONS,462222100,"1,384,042","$53,659,308.34",3.84%
-06/04/2024,ARKG,MODERNA  INC,MRNA,60770K107,"358,757","$53,031,459.74",3.79%
-06/04/2024,ARKG,BEAM  THERAPEUTICS  INC,BEAM,07373V105,"2,125,711","$51,824,834.18",3.71%
-06/04/2024,ARKG,10X  GENOMICS  INC-CLASS  A,TXG,88025U109,"1,977,908","$43,889,778.52",3.14%
-06/04/2024,ARKG,VERACYTE  INC,VCYT,92337F107,"1,963,751","$41,533,333.65",2.97%
-06/04/2024,ARKG,NURIX  THERAPEUTICS  INC,NRIX,67080M103,"2,470,552","$39,652,359.60",2.84%
-06/04/2024,ARKG,ACCOLADE  INC,ACCD,00437E102,"5,737,673","$38,844,046.21",2.78%
-06/04/2024,ARKG,ADAPTIVE  BIOTECHNOLOGIES,ADPT,00650F109,"11,189,991","$37,038,870.21",2.65%
-06/04/2024,ARKG,VERTEX  PHARMACEUTICALS  INC,VRTX,92532F100,"76,719","$36,071,739.42",2.58%
-06/04/2024,ARKG,EXACT  SCIENCES  CORP,EXAS,30063P105,"789,564","$35,388,258.48",2.53%
-06/04/2024,ARKG,TELADOC  HEALTH  INC,TDOC,87918A105,"2,961,400","$32,812,312.00",2.35%
-06/04/2024,ARKG,STANDARD  BIOTOOLS  INC,LAB,34385P108,"12,896,155","$31,982,464.40",2.29%
-06/04/2024,ARKG,GINKGO  BIOWORKS  HOLDINGS  INC,DNA,37611X100,"54,635,923","$29,590,815.90",2.12%
-06/04/2024,ARKG,VEEVA  SYSTEMS  INC-CLASS  A,VEEV,922475108,"170,711","$29,261,572.51",2.09%
-06/04/2024,ARKG,908  DEVICES  INC,MASS,65443P102,"4,003,849","$24,823,863.80",1.78%
-06/04/2024,ARKG,INCYTE  CORP,INCY,45337C102,"405,443","$23,840,048.40",1.71%
-06/04/2024,ARKG,AMGEN  INC,AMGN,031162100,"76,065","$23,383,902.30",1.67%
-06/04/2024,ARKG,PACIFIC  BIOSCIENCES  OF  CALIF,PACB,69404D108,"12,370,134","$23,132,150.58",1.66%
-06/04/2024,ARKG,PRIME  MEDICINE  INC,PRME,74168J101,"3,008,406","$19,705,059.30",1.41%
-06/04/2024,ARKG,QUANTUM-SI  INC,QSI,74765K105,"12,628,373","$18,942,559.50",1.36%
-06/04/2024,ARKG,ABSCI  CORP,ABSI,00091E109,"4,076,421","$17,324,789.25",1.24%
-06/04/2024,ARKG,NATERA  INC,NTRA,632307104,"151,152","$16,371,273.12",1.17%
-06/04/2024,ARKG,COMPASS  PATHWAYS  PLC,CMPS,20451W101,"2,137,391","$16,244,171.60",1.16%
-06/04/2024,ARKG,REGENERON  PHARMACEUTICALS,REGN,75886F107,"16,110","$15,940,522.80",1.14%
-06/04/2024,ARKG,VERVE  THERAPEUTICS  INC,VERV,92539P101,"2,795,019","$14,673,849.75",1.05%
-06/04/2024,ARKG,CERUS  CORP,CERS,157085101,"8,136,899","$14,402,311.23",1.03%
-06/04/2024,ARKG,GUARDANT  HEALTH  INC,GH,40131M109,"461,100","$12,638,751.00",0.90%
-06/04/2024,ARKG,BUTTERFLY  NETWORK  INC,BFLY,124155102,"11,170,894","$10,835,767.18",0.78%
-06/04/2024,ARKG,PERSONALIS  INC,PSNL,71535D106,"6,467,626","$9,378,057.70",0.67%
-06/04/2024,ARKG,REPARE  THERAPEUTICS  INC,RPTX,760273102,"2,674,577","$9,414,511.04",0.67%
-06/04/2024,ARKG,UIPATH  INC  -  CLASS  A,PATH,90364P105,"762,000","$9,083,040.00",0.65%
-06/04/2024,ARKG,SENTI  BIOSCIENCES  INC,SNTI,81726A100,"1,597,402","$478,581.64",0.03%
-06/04/2024,ARKG,GOLDMAN  FS  TRSY  OBLIG  INST  468,,X9USDGSFT,"380,542","$380,542.32",0.03%
-06/04/2024,ARKG,Senti  Bio  -  place  holdershares,,DNBLFB2Y2,"243,471","$72,943.91",0.01%
-"Investors  should  carefully  consider  the  investment  objectives  and  risks  as  well  as  charges  and  expenses  of  an  ARK  ETF  before  investing.  This  and  other  information  are  contained  in  the  ARK  ETF's  prospectuses,  which  may  be  obtained  on  ark-funds.com.  The  prospectus  should  be  read  carefully  before  investing.  An  investment  in  an  ARK  ETF  is  subject  to  risks  and  you  can  lose  money  on  your  investment  in  an  ARK  ETF.  There  can  be  no  assurance  that  the  ARK  ETFs  will  achieve  their  investment  objectives.  The  ARK  ETFs'  portfolios  are  more  volatile  than  broad  market  averages.  The  ARK  ETFs  also  have  specific  risks,  which  are  described  in  the  ARK  ETFs'  prospectuses,  Shares  of  the  ARK  ETFs  may  be  bought  or  sold  throughout  the  day  at  their  market  price  on  the  exchange  on  which  they  are  listed.  The  market  price  of  an  ARK  ETF's  shares  may  be  at,  above  or  below  the  ARK  ETF's  net  asset  value  (""NAV"")  and  will  fluctuate  with  changes  in  the  NAV  as  well  as  supply  and  demand  in  the  market  for  the  shares.  The  market  price  of  ARK  ETF  shares  may  differ  significantly  from  their  NAV  during  periods  of  market  volatility.  Shares  of  the  ARK  ETFs  may  only  be  redeemed  directly  with  the  ARK  ETFs  at  NAV  by  Authorized  Participants,  in  very  large  creation  units.  There  can  be  no  guarantee  that  an  active  trading  market  for  ARK  ETF  shares  will  develop  or  be  maintained,  or  that  their  listing  will  continue  or  remain  unchanged.  Buying  or  selling  ARK  ETF  shares  on  an  exchange  may  require  the  payment  of  brokerage  commissions  and  frequent  trading  may  incur  brokerage  costs  that  detract  significantly  from  investment  returns.  Not  FDIC  Insured  –  No  Bank  Guarantee  –  May  Lose  Value.  All  statements  made  regarding  companies,  securities  or  other  financial  information  are  strictly  beliefs  and  points  of  view  held  by  ARK  Investment  Management  LLC  and/or  ARK  ETF  Trust  and  are  not  endorsements  by  ARK  of  any  company  or  security  or  recommendations  by  ARK  to  buy,  sell  or  hold  any  security.  Holdings  are  subject  to  change  without  notice.  Foreside  Fund  Services,  LLC,  distributor.  ©  2024.  ARK  ETF  Trust.  No  part  of  this  material  may  be  reproduced  in  any  form,  or  referred  to  in  any  other  publication,  without  written  permission.",,,,,,,
+<html>
+<head><title>301  Moved  Permanently</title></head>
+<body>
+<center><h1>301  Moved  Permanently</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
