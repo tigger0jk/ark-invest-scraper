@@ -7,5 +7,5 @@ for ticker in ${tickers[@]}; do
 done
 
 for file in ${files[@]}; do
-  curl -A "ark-scraper: 6ithub.com/tigger0jk/ark-invest-scraper" https://ark-funds.com/wp-content/uploads/funds-etf-csv/$file | python3 lintCsv.py > $file
+  curl -A "ark-scraper: 6ithub.com/tigger0jk/ark-invest-scraper" https://assets.ark-funds.com/fund-documents/funds-etf-csv/$file | python3 lintCsv.py > $file
 done
